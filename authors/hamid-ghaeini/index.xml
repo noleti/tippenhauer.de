@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hamid Ghaeini | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/hamid-ghaeini/</link>
+      <atom:link href="https://tippenhauer.de/authors/hamid-ghaeini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hamid Ghaeini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <title>Hamid Ghaeini</title>
+      <link>https://tippenhauer.de/authors/hamid-ghaeini/</link>
+    </image>
+    
+    <item>
+      <title>HAMIDS: Hierarchical Monitoring Intrusion Detection System for Industrial Control Systems</title>
+      <link>https://tippenhauer.de/publication/ghaeini-16-hamids/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/ghaeini-16-hamids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Rocchetto | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/marco-rocchetto/</link>
+      <atom:link href="https://tippenhauer.de/authors/marco-rocchetto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Rocchetto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <title>Marco Rocchetto</title>
+      <link>https://tippenhauer.de/authors/marco-rocchetto/</link>
+    </image>
+    
+    <item>
+      <title>Towards Formal Security Analysis of Industrial Control Systems</title>
+      <link>https://tippenhauer.de/publication/towards-17-rocchetto/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/towards-17-rocchetto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPDY: Extending the Dolev-Yao Attacker with Physical-Layer Interactions </title>
+      <link>https://tippenhauer.de/publication/rocchetto-16-cpdy/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/rocchetto-16-cpdy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Attacker Models and Profiles for Cyber-Physical Systems</title>
+      <link>https://tippenhauer.de/publication/rocchetto-16-models/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/rocchetto-16-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

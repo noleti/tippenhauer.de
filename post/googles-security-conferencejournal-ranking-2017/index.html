@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Nils Ole Tippenhauer">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="An analysis of the Google Metrics 2017 for security venues.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2017/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#24890d">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-102288779-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-102288779-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2017/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@notippenhauer">
+  <meta property="twitter:creator" content="@notippenhauer">
+  
+  <meta property="og:site_name" content="Nils Ole Tippenhauer">
+  <meta property="og:url" content="https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2017/">
+  <meta property="og:title" content="Google’s Security Conference/Journal ranking 2017 | Nils Ole Tippenhauer">
+  <meta property="og:description" content="An analysis of the Google Metrics 2017 for security venues."><meta property="og:image" content="https://tippenhauer.de/img/icon-192.png">
+  <meta property="twitter:image" content="https://tippenhauer.de/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2017-07-09T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2017-07-09T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2017/"
+  },
+  "headline": "Google’s Security Conference/Journal ranking 2017",
+  
+  "datePublished": "2017-07-09T00:00:00Z",
+  "dateModified": "2017-07-09T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Nils Ole Tippenhauer"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nils Ole Tippenhauer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://tippenhauer.de/img/icon-512.png"
+    }
+  },
+  "description": "An analysis of the Google Metrics 2017 for security venues."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#24890d",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#24890d"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
+
+  
+
+
+
+
+
+  <title>Google’s Security Conference/Journal ranking 2017 | Nils Ole Tippenhauer</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Nils Ole Tippenhauer</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Nils Ole Tippenhauer</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/post/"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/service"><span>Service</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Google’s Security Conference/Journal ranking 2017</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span>Nils Ole Tippenhauer</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 9, 2017
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/research/">research</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>As a follow up to the two previous <a href="/googles-security-conferencejournal-ranking-2016/">posts</a> on the <a href="/security-conferencejournal-ranking-according-to-google-scholar-metrics/">topic</a>, here is the version with the newly released 2017 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&rdquo;. Google also now added a &ldquo;Classic Papers&rdquo; category for papers (<a href="https://scholar.google.com.sg/citations?view_op=list_classic_articles&amp;amp;hl=en&amp;amp;by=2006&amp;amp;vq=eng_computersecuritycryptography">link</a>)&mdash;but there was essentially nothing in that which I recognized.</p>
+
+<p>Based on the h5 metric, the following ranking for security conferences and journals is generated <a href="https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;vq=eng_computersecuritycryptography">here</a>:</p>
+
+<ol>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=Pg42P_rbavwJ.2017">ACM Symposium on Computer and Communications Security </a>(71)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=INF_DsfwVdsJ.2017">IEEE Symposium on Security and Privacy</a> (68, +1 position)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=6UIvqBSMSUsJ.2017">IEEE Transactions on Information Forensics and Security </a>(67, -1 position)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=HSHJIaLyN9IJ.2015">USENIX Conference on Security </a> (61)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=q2FcImd5qbgJ.2017">Network and Distributed System Security Symposium (NDSS)</a> (56)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=nqcB6RwzhMQJ.2017">International Conference on Cryptology (CRYPTO)</a> (53)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=fsZsNTm7Eh8J.2017">Annual International Conference on Theory and Applications of Cryptographic Techniques (EUROCRYPT) </a> (53)</li>
+<li>ArXiv (see discussion)</li>
+<li>Computers &amp; Security (40,+4 positions)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=nNidswR17bwJ.2017">IEEE Transactions on Dependable and Secure Computing</a> (38)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=hxrvQsnJSDMJ.2017">International Conference on The Theory and Application of Cryptology and Information Security (ASIACRYPT)</a> (36)</li>
+<li>International Conference on Financial Cryptography and Data Security (35, not in top 15 last year)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=N1UH-idNKnIJ.2017">Theory of cryptography</a> (34)</li>
+<li>Workshop on Cryptographic Hardware and Embedded Systems (CHES) (33)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=3VLtGPwkq54J.2017">ACM Symposium on Information, Computer and Communications Security (ASIACCS)</a> (31)
+</ol>
+<p>Some other honourable mentions where I published before, am involved, or consider submitting:</p>
+<ol></li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=rSFezoMlQZkJ.2017">Conference of the IEEE Computer and Communications Societies (INFOCOM) </a>(80)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=HKQoOwyk8SQJ.2017">Computer Networks</a> (54)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=0mhk3_x__KIJ.2017">International Conference on Mobile systems, applications, and services</a> (MOBISYS) (47)</li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=CYo1GjC2fW8J.2017">Annual International Conference on Mobile computing and networking (Mobicom)</a> (45)</li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=pkDnymGAC58J.2017">International Conference on Dependable Systems and Networks (DSN)</a> (32)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=eLhWa3qzEDsJ.2017">ACM Symposium on Applied Computing (SAC)</a> (32, but only small security track)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=88oopSfS28MJ.2017">Annual Computer Security Applications Conference (ACSAC)</a> (29)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=x1AY1yaO1mQJ.2017">European Conference on Research in Computer Security</a> (ESORICS) (28)</li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=LWRwHw7mGBMJ.2017">ACM conference on Data and Application Security and Privacy (CODASPY)</a> (25)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=GtwA7m_XqZUJ.2017"> International Conference on Cyber-Physical Systems (ICCPS)</a> (23)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=JDO_KUA4CYMJ.2017">Wireless Network Security</a> (WISEC) (21)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=826ERjda8dUJ.2017">Symposium on Research in Attacks, Intrusions and Defenses (RAID)</a> (19)</li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=XMT5iZMNh1MJ.2017">IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)</a><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=mDgNlZgOboEJ.2017"> (18)</a></li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=TG-6tNCI7d0J.2017">IEEE High Assurance Systems Engineering Symposium, (HASE) </a>(14)</li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=mDgNlZgOboEJ.2017">Network and Systems Security (NSS)</a><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=XMT5iZMNh1MJ.2017"> (13)</a></li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=Two3itQ-Tm8J.2017">IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)</a> (13)</li>
+<li><a href="https://scholar.google.com.sg/citations?hl=en&amp;view_op=list_hcore&amp;venue=q7kWOn3QmqYJ.2017">Conference on Cryptology and Network Security (CANS)</a> (13)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=LIYEKQ4Mf5YJ.2017">Conference on Formal Engineering Methods (ICFEM)</a> (12)</li>
+<li><a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=qiszAbdiCtkJ.2017">Conference on Security and Privacy in Communication Networks (SecureComm</a>) (10)
+</ol>
+<p>There are some interesting observations I made from the ranking (updated from last iteration):</p>
+<ol></li>
+<li>The h5 index of the top venues increased by about 5-9 points, with S&amp;P returning to place 2. For CCS, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.</li>
+<li>Computer &amp; Security joined the other two journals in the top ten list</li>
+<li>Financial Cryptography and Data Security makes its first entry into top 15, probably due to Bitcoin/blockchain/smart contract related content and FinTec</li>
+<li>ArXiv is in the list, but can hardly be counted as &#8220;peer reviewed&#8221;.</li>
+<li>5 of the top 14 venues (w/o Arxiv) have a strong crypto focus, further limiting the options for general security papers to be published at.</li>
+<li>Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 110, for top 10-20 between 40 and 65</li>
+<li>Clearly, for h5 it helps to accept more papers (see ArXiv and Infocom rank). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see <a href="http://jianying.space/conference-ranking.html">here</a>).
+</ol></li>
+</ol>
+
+<p>See also: <a href="https://aminer.org/ranks/conf">aminer conference ranking</a>, <a href="http://portal.core.edu.au/conf-ranks/">CORE2014 conference ranking</a></p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/meta/">meta</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="portrait mr-3" src="/authors/not/avatar_hub6425d3cb60243c60517e63ddad0b386_96945_250x250_fill_lanczos_center_2.png" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://tippenhauer.de">Nils Ole Tippenhauer</a></h5>
+      <h6 class="card-subtitle">Faculty</h6>
+      <p class="card-text">I am interested in information security aspects of practical systems. In particular, I am currently working on security of industrial control systems and the Industrial Internet of Things.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:nils@tippenhauer.de" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/notippenhauer" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/noleti" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2016-in-numbers/">2016 in numbers</a></li>
+      
+      <li><a href="/post/10-years-of-system-security-circus/">10&#43; Years of System Security Circus</a></li>
+      
+      <li><a href="/post/svn-over-ssh/">SVN over SSH</a></li>
+      
+      <li><a href="/post/bibrest-restful-bibtex-server/">bibrest – RESTful bibtex server</a></li>
+      
+      <li><a href="/post/open-positions-2016/">Open Positions</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.3227ab49eed49815d1b4ba40154f74e7.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

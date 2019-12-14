@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jemin Lee | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/jemin-lee/</link>
+      <atom:link href="https://tippenhauer.de/authors/jemin-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jemin Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <title>Jemin Lee</title>
+      <link>https://tippenhauer.de/authors/jemin-lee/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Security Testbed Framework for Wearable IoT Devices</title>
+      <link>https://tippenhauer.de/publication/siboni-16-testbed/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/siboni-16-testbed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

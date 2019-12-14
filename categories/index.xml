@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/categories/</link>
+      <atom:link href="https://tippenhauer.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://tippenhauer.de/categories/</link>
+    </image>
+    
+    <item>
+      <title>research</title>
+      <link>https://tippenhauer.de/categories/research/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service</title>
+      <link>https://tippenhauer.de/categories/service/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/categories/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://tippenhauer.de/categories/teaching/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
