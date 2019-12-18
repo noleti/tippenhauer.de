@@ -95,6 +95,7 @@
 &lt;ol&gt;
 &lt;li&gt;The h5 index of the top venues increased by about 5-9 points, without major changes in order (Usenix rose to position 2, S&amp;amp;P lost 2 positions, now position 4). For these tier 1 venues, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.&lt;/li&gt;
 &lt;li&gt;Usenix Security in particular increased the h5 score by 11, enough to almost reach CCS which was leader of this ranking for years (and has a larger number of accepted papers).&lt;/li&gt;
+&lt;li&gt;Our ProfilIoT paper at SAC&amp;rsquo;17 (which was only accepted as a poster!) is already the top 4 cited paper in the conferences last 5 years. I expect it could end up on spot #1 soon, as no other recent paper comes close.&lt;/li&gt;
 &lt;li&gt;SOUPS, Journal of Cryptology, and FSE left the top20 (from prior position 15, 18, 19). Fast Software Encryption (FSE) is actually not listed at all any more.&lt;/li&gt;
 &lt;li&gt;7 of the top 20 venues have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
 &lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 130 (pretty close to last year), for top 10-20 between 39 and 60 (slightly lower than last year).&lt;/li&gt;
