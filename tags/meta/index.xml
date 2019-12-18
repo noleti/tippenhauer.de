@@ -24,6 +24,84 @@
     </item>
     
     <item>
+      <title>Google’s Security Conference/Journal ranking 2019</title>
+      <link>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2019/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2019/</guid>
+      <description>
+
+&lt;p&gt;As a follow up to the &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2018/&#34;&gt;four&lt;/a&gt; &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2017/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2016/&#34;&gt;posts&lt;/a&gt; on the &lt;a href=&#34;..//security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2019 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. Google also has  a &amp;ldquo;Classic Papers&amp;rdquo; category for papers (&lt;a href=&#34;https://scholar.google.com/citations?view_op=list_classic_articles&amp;amp;amp;hl=en&amp;amp;amp;by=2006&amp;amp;amp;vq=eng_computersecuritycryptography&#34;&gt;link&lt;/a&gt;)&amp;mdash;but there was essentially nothing in that which I recognized. &lt;a href=&#34;https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html&#34;&gt;This list of Normalized Top-100 Security Papers&lt;/a&gt; seems to be much more appropriate.&lt;/p&gt;
+
+&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;venue=HSHJIaLyN9IJ.2019&amp;amp;vq=eng_computersecuritycryptography&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=Pg42P_rbavwJ.2019&#34;&gt;ACM Symposium on Computer and Communications Security &lt;/a&gt;(82)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=HSHJIaLyN9IJ.2019&#34;&gt;USENIX Conference on Security&lt;/a&gt; (81, +2 positions)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=muV5gjf6-jcJ.2019&#34;&gt;IEEE Transactions on Information Forensics and Security&lt;/a&gt; (78)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=cyrroHz3a0YJ.2019&#34;&gt;IEEE Symposium on Security and Privacy&lt;/a&gt; (72, -2 positions)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=q2FcImd5qbgJ.2019&#34;&gt;Network and Distributed System Security Symposium (NDSS)&lt;/a&gt; (65, +1 position)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=fsZsNTm7Eh8J.2019&#34;&gt;Annual International Conference on Theory and Applications of Cryptographic Techniques (EUROCRYPT)&lt;/a&gt; (56, +1 position)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=nqcB6RwzhMQJ.2019&#34;&gt;International Conference on Cryptology (CRYPTO)&lt;/a&gt; (53, -2 positions)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=_ZfohKnRjIYJ.2019&#34;&gt;Computers &amp;amp; Security&lt;/a&gt; (50)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=nNidswR17bwJ.2019&#34;&gt;IEEE Transactions on Dependable and Secure Computing&lt;/a&gt; (47)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=gVeDacK3aQwJ.2019&#34;&gt;International Conference on Financial Cryptography and Data Security&lt;/a&gt; (43)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=hxrvQsnJSDMJ.2019&#34;&gt;International Conference on The Theory and Application of Cryptology and Information Security (ASIACRYPT)&lt;/a&gt; (40)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=N1UH-idNKnIJ.2019&#34;&gt;Theory of cryptography&lt;/a&gt; (37, +2 positions)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=fxQZq2l4GcMJ.2019&#34;&gt;Workshop on Cryptographic Hardware and Embedded Systems (CHES)&lt;/a&gt; (36, -1 position)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=3VLtGPwkq54J.2019&#34;&gt;ACM Symposium on Information, Computer and Communications Security (ASIACCS)&lt;/a&gt; (35), -1 position&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=XeF0tfamqA0J.2019&#34;&gt;Security and Communication Networks&lt;/a&gt; (35, +5 positions)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=U4GBY6ZTEoMJ.2019&#34;&gt;Designs, Codes and Cryptography&lt;/a&gt; (35, new in the list)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=uPzq679G87oJ.2019&#34;&gt;IEEE Security &amp;amp; Privacy&lt;/a&gt; (32, -1 position)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=x1AY1yaO1mQJ.2019&#34;&gt;European Conference on Research in Computer Security&lt;/a&gt; (ESORICS) (32, new in the list)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=88oopSfS28MJ.2019&#34;&gt;Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt; (30, new in the list)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=6gqvYwOFvq0J.2019&#34;&gt;International Conference on Practice and Theory in Public Key Cryptography&lt;/a&gt; (30, -2 position)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;removed-from-the-top-20-soups-journal-of-cryptology-fse&#34;&gt;removed from the top 20: SOUPS, journal of cryptology, FSE&lt;/h1&gt;
+
+&lt;p&gt;Some other honourable mentions where I published before, am involved, or consider submitting:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JMgzZsGYu14J.2019&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM)&lt;/a&gt; (74, -2)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=HKQoOwyk8SQJ.2019&#34;&gt;Computer Networks&lt;/a&gt; (57)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=CYo1GjC2fW8J.2019&#34;&gt;Annual International Conference on Mobile computing and networking (Mobicom)&lt;/a&gt; (50)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=0mhk3_x__KIJ.2019&#34;&gt;International Conference on Mobile systems, applications, and services (MOBISYS)&lt;/a&gt; (44)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=MVYbyyKMpToJ.2019&#34;&gt;International Conference on Dependable Systems and Networks (DSN)&lt;/a&gt; (33)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=fSl1wy1IRIoJ.2019&#34;&gt;Journal of Cryptology&lt;/a&gt; (29, used to be in top20)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=u0EMblNmhEoJ.2019&#34;&gt;Fast Software Encryption (FSE)&lt;/a&gt; (29, used to be in top20)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=d6VxAyLWqWgJ.2019&#34;&gt;Symposium On Usable Privacy and Security&lt;/a&gt; (28, used to be in top20)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=eLhWa3qzEDsJ.2019&#34;&gt;ACM Symposium on Applied Computing (SAC)&lt;/a&gt; (28, but only small security track)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=LWRwHw7mGBMJ.2019&#34;&gt;ACM conference on Data and Application Security and Privacy (CODASPY)&lt;/a&gt; (27)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=5Sz4yUnI16AJ.2019&#34;&gt;IEEE Computer Security Foundations Symposium (CSF)&lt;/a&gt; (26, +1 position)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=GtwA7m_XqZUJ.2019&#34;&gt;International Conference on Cyber-Physical Systems (ICCPS)&lt;/a&gt; (24, -1 position)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=JDO_KUA4CYMJ.2019&#34;&gt;Wireless Network Security (WISEC)&lt;/a&gt; (23)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=826ERjda8dUJ.2019&#34;&gt;Symposium on Research in Attacks, Intrusions and Defenses (RAID)&lt;/a&gt; (21)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GIrj2BSjfiwJ.2019&#34;&gt;International Conference on Availability, Reliability and Security (ARES)&lt;/a&gt; (20)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pMNODcGxo4cJ.2019&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt; (19)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2019&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (16, +3 positions)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=q7kWOn3QmqYJ.2019&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (15)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=Two3itQ-Tm8J.2019&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)&lt;/a&gt; (15)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=mDgNlZgOboEJ.2019&#34;&gt;Network and Systems Security (NSS)&lt;/a&gt; (14)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=qiszAbdiCtkJ.2019&#34;&gt;Conference on Security and Privacy in Communication Networks (SecureComm)&lt;/a&gt; (14)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;amp;view_op=list_hcore&amp;amp;amp;venue=LIYEKQ4Mf5YJ.2019&#34;&gt;Conference on Formal Engineering Methods (ICFEM)&lt;/a&gt; (13)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There are some interesting observations I made from the ranking (updated from last iteration):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The h5 index of the top venues increased by about 5-9 points, without major changes in order (Usenix rose to position 2, S&amp;amp;P lost 2 positions, now position 4). For these tier 1 venues, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.&lt;/li&gt;
+&lt;li&gt;Usenix Security in particular increased the h5 score by 11, enough to almost reach CCS which was leader of this ranking for years (and has a larger number of accepted papers).&lt;/li&gt;
+&lt;li&gt;SOUPS, Journal of Cryptology, and FSE left the top20 (from prior position 15, 18, 19)&lt;/li&gt;
+&lt;li&gt;7 of the top 20 venues have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
+&lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 130 (pretty close to last year), for top 10-20 between 39 and 60 (slightly lower than last year).&lt;/li&gt;
+&lt;li&gt;Clearly, for h5 it helps to accept more papers (see Infocom rank, the journals on the list, CCS&amp;rsquo;s dominance). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;See also: &lt;a href=&#34;https://aminer.org/ranks/conf&#34;&gt;aminer conference ranking&lt;/a&gt;, &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE2014 conference ranking&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Successful PhD Defenses by Daniele and Hamid</title>
       <link>https://tippenhauer.de/post/successful-defenses/</link>
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
