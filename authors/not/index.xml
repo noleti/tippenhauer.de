@@ -5,12 +5,27 @@
     <link>https://tippenhauer.de/authors/not/</link>
       <atom:link href="https://tippenhauer.de/authors/not/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/img/icon-192.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/authors/not/</link>
     </image>
+    
+    <item>
+      <title>2019 in numbers</title>
+      <link>https://tippenhauer.de/post/2019-in-numbers/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/2019-in-numbers/</guid>
+      <description>&lt;p&gt;Continuing my &lt;a href=&#34;https://tippenhauer.de/post/2018-in-numbers/&#34;&gt;tradition&lt;/a&gt;, a quick personal note on my scholar profile. As of now, first week of January 2020, my publications reached ~2100 citations according to &lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34;&gt;Google scholar&lt;/a&gt; (vs. ~1400 at this time last year/ 1000 two years ago/ 700 three years ago). Google scholar currently lists 72 publications (vs. 60 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 345 cites (after 257 last year). My h-index has increased to 26 (from 19), my i10-index is currently 39, from 32 last year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34;&gt;Semantic scholar&lt;/a&gt; stopped listing citation numbers for profiles. They still indicate how many papers were strongly influenced by my work (113), compared to 69 in previous year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 58 publications, ~1065 citations), but they provide a number of co-authors: 113 (106 last year).&lt;/p&gt;
+
+&lt;p&gt;Other numbers for 2019: Github lists 52 commits to repositories (after 96 in 2018), as we shifted most collaborations to use Overleaf. I received 4967 mails on my university accounts (after removal of spam). Per working day, that would make around 20 (previous years: 36) mails. I sent 1147 mails (~5 per working day, last year 9). Both numbers are lower than my 2018 statistics, due to the lower size of my group after joining CISPA.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conversion of page to Hugo/Academic</title>
