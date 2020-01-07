@@ -5,12 +5,21 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/img/icon-192.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>SeCon 2020</title>
+      <link>https://tippenhauer.de/post/summer-school20/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/summer-school20/</guid>
+      <description>&lt;p&gt;I will be teaching one day of classes at CISPA&amp;rsquo;s 2nd edition of the Young Researcher Security Convention in March 2020. My classes will provide an overview of Hot topics in Cyber-Physical Security, for example current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at &lt;a href=&#34;https://cispa.saarland/secon/&#34;&gt;the website&lt;/a&gt; of the event.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2019 in numbers</title>
