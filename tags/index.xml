@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/tags/</link>
       <atom:link href="https://tippenhauer.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://tippenhauer.de/tags/</link>
     </image>
+    
+    <item>
+      <title>cfp</title>
+      <link>https://tippenhauer.de/tags/cfp/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/tags/cfp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>summer school</title>
@@ -25,14 +33,6 @@
       <link>https://tippenhauer.de/tags/meta/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cfp</title>
-      <link>https://tippenhauer.de/tags/cfp/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/cfp/</guid>
       <description></description>
     </item>
     
