@@ -5,12 +5,36 @@
     <link>https://tippenhauer.de/authors/</link>
       <atom:link href="https://tippenhauer.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://tippenhauer.de/authors/</link>
     </image>
+    
+    <item>
+      <title>Daniele Antonioli</title>
+      <link>https://tippenhauer.de/authors/daniele-antonioli/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/authors/daniele-antonioli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kasper Rasmussen</title>
+      <link>https://tippenhauer.de/authors/kasper-rasmussen/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/authors/kasper-rasmussen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils Ole Tippenhauer</title>
+      <link>https://tippenhauer.de/authors/nils-ole-tippenhauer/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/authors/nils-ole-tippenhauer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -70,14 +94,6 @@
     </item>
     
     <item>
-      <title>Nils Ole Tippenhauer</title>
-      <link>https://tippenhauer.de/authors/nils-ole-tippenhauer/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/authors/nils-ole-tippenhauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Raad Bahmani</title>
       <link>https://tippenhauer.de/authors/raad-bahmani/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -90,22 +106,6 @@
       <link>https://tippenhauer.de/authors/saman-zonouz/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/authors/saman-zonouz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniele Antonioli</title>
-      <link>https://tippenhauer.de/authors/daniele-antonioli/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/authors/daniele-antonioli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kasper Rasmussen</title>
-      <link>https://tippenhauer.de/authors/kasper-rasmussen/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/authors/kasper-rasmussen/</guid>
       <description></description>
     </item>
     
