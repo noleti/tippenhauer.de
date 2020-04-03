@@ -7,7 +7,7 @@
     <description>teaching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <url>https://tippenhauer.de/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>teaching</title>
       <link>https://tippenhauer.de/categories/teaching/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>https://tippenhauer.de/post/summer-school20/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/summer-school20/</guid>
-      <description>&lt;p&gt;I will be teaching one day of classes at CISPA&amp;rsquo;s 2nd edition of the Young Researcher Security Convention in March 2020. My classes will provide an overview of Hot topics in Cyber-Physical Security, for example current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at &lt;a href=&#34;https://cispa.saarland/secon/&#34;&gt;the website&lt;/a&gt; of the event.&lt;/p&gt;
+      <description>&lt;p&gt;I will be teaching one day of classes at CISPA&amp;rsquo;s 2nd edition of the Young Researcher Security Convention in March 2020. My classes will provide an overview of Hot topics in Cyber-Physical Security, for example current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at 
+&lt;a href=&#34;https://cispa.saarland/secon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the website&lt;/a&gt; of the event.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +27,8 @@
       <link>https://tippenhauer.de/post/summer-school19/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/summer-school19/</guid>
-      <description>&lt;p&gt;I will be teaching one day of classes at the Cyber-Physical System Security School at the University of Padova in July 2019. My classes will provide an overview of current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at &lt;a href=&#34;https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/CPS/index.html&#34;&gt;the website&lt;/a&gt; of the event. Regular registration is still open until June 21st.&lt;/p&gt;
+      <description>&lt;p&gt;I will be teaching one day of classes at the Cyber-Physical System Security School at the University of Padova in July 2019. My classes will provide an overview of current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at 
+&lt;a href=&#34;https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/CPS/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the website&lt;/a&gt; of the event. Regular registration is still open until June 21st.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +37,8 @@
       <link>https://tippenhauer.de/post/yavw/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/yavw/</guid>
-      <description>&lt;p&gt;As part of the exercises for my 50.020 Security class, we needed a simple setup to test XSS, SQL injection, and command injection attacks. Instead of using solutions such as the standard OWASP webserver, this year I decided to write my own minimal application  (using Python/Flask) which I called YAVW.  Using Flask resulted in a very small codebase, which should be easier to understand for students. In case this is useful for others, I made it public &lt;a href=&#34;https://github.com/noleti/yavw&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;As part of the exercises for my 50.020 Security class, we needed a simple setup to test XSS, SQL injection, and command injection attacks. Instead of using solutions such as the standard OWASP webserver, this year I decided to write my own minimal application  (using Python/Flask) which I called YAVW.  Using Flask resulted in a very small codebase, which should be easier to understand for students. In case this is useful for others, I made it public 
+&lt;a href=&#34;https://github.com/noleti/yavw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -44,18 +47,12 @@
       <link>https://tippenhauer.de/post/writing-presentations-in-org-mode-markup/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/writing-presentations-in-org-mode-markup/</guid>
-      <description>
-
-&lt;p&gt;For two years now, I am almost exclusively using the toolchain of org-mode+emacs+beamer+pdflatex to prepare my presentations for conferences and lectures. In this post, I want to share the basic setup to quickly reproduce for others. &lt;em&gt;Disclaimer: If you have never used Emacs, then this method might not be very interesting for you.&lt;/em&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;For two years now, I am almost exclusively using the toolchain of org-mode+emacs+beamer+pdflatex to prepare my presentations for conferences and lectures. In this post, I want to share the basic setup to quickly reproduce for others. &lt;em&gt;Disclaimer: If you have never used Emacs, then this method might not be very interesting for you.&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&#34;install&#34;&gt;Install&lt;/h4&gt;
-
-&lt;p&gt;Install the org-mode for Emacs using &lt;a href=&#34;http://www.emacswiki.org/emacs-test/ELPA&#34;&gt;ELPA&lt;/a&gt;. Make sure the mode is loaded when opening an .org file. Currently, I am using Emacs 24.5.1 (Org mode 8.2.7b).&lt;/p&gt;
-
+&lt;p&gt;Install the org-mode for Emacs using 
+&lt;a href=&#34;http://www.emacswiki.org/emacs-test/ELPA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ELPA&lt;/a&gt;. Make sure the mode is loaded when opening an .org file. Currently, I am using Emacs 24.5.1 (Org mode 8.2.7b).&lt;/p&gt;
 &lt;h4 id=&#34;minimal-example&#34;&gt;Minimal Example&lt;/h4&gt;
-
 &lt;p&gt;Create a test.org file in Emacs:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;#+startup: beamer
 #+LaTeX_CLASS: beamer
 #+LaTeX_CLASS_OPTIONS: [presentation, aspectratio=54]
@@ -76,29 +73,22 @@
 - You can *highlight* words
 - You can /emphasize/ words
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;I assume that you have the &lt;a href=&#34;https://tippenhauer.de/sutd-beamer-theme/&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
-Now, you should be able to compile this to slides by using “C-C C-e l O” Emacs magic. The output can be seen here: &lt;a href=&#34;https://tippenhauer.de/wp-content/uploads/2016/01/test.pdf&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;I assume that you have the 
+&lt;a href=&#34;https://tippenhauer.de/sutd-beamer-theme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
+Now, you should be able to compile this to slides by using “C-C C-e l O” Emacs magic. The output can be seen here: 
+&lt;a href=&#34;https://tippenhauer.de/wp-content/uploads/2016/01/test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;images&#34;&gt;Images&lt;/h4&gt;
-
 &lt;p&gt;To include a centered image into the slide, I normally use the following code, which should be self-explanatory&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;#+begin_center
 #+ATTR_LATEX: :width \linewidth
 #+RESULTS:
 file:figs/greatFigure.png
 #+end_center
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;h4 id=&#34;animations-only&#34;&gt;Animations, Only&lt;/h4&gt;
-
-&lt;p&gt;This is where things become a bit messy, but still easy enough. I normally use the “&lt;2-&gt;” style animations to put additional bullet points or answers to questions on a slide. The additional text will be invisible at the beginning, but still influence the layout. The “only” style animations do not consider the later content in the first layout, so it is not as useful for text. I use it exclusively to do “manual” animations of figures. For that, I draw each animation step separately (in Inkscape), and exchange the images on each slide.&lt;/p&gt;
-
+&lt;p&gt;This is where things become a bit messy, but still easy enough. I normally use the “&amp;lt;2-&amp;gt;” style animations to put additional bullet points or answers to questions on a slide. The additional text will be invisible at the beginning, but still influence the layout. The “only” style animations do not consider the later content in the first layout, so it is not as useful for text. I use it exclusively to do “manual” animations of figures. For that, I draw each animation step separately (in Inkscape), and exchange the images on each slide.&lt;/p&gt;
 &lt;p&gt;I use separate blocks for each. In my theme, the standard block actually has same colors as background, so it is invisible. You generate block code by starting a new heading (without title) with ***, and then using C-C C-B b. I then manually add the BEAMER_act line into the block header.&lt;/p&gt;
-
 &lt;p&gt;Uncover example:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;- This will be displayed first
 *** :B_block:
 :PROPERTIES:
@@ -107,9 +97,7 @@ file:figs/greatFigure.png
 :END:
 - Then this will appear on the second animation slide
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;Beamer-style “only” is also possible, by using a block like this:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;- This will be displayed first
 *** :B_block:
 :PROPERTIES:
@@ -118,9 +106,7 @@ file:figs/greatFigure.png
 :END:
 - Then this will appear on the second animation slide
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;To export the onlyenv, you need to add the following to your .emacs:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;;; only env for org-mode beamer
 (add-to-list &#39;org-beamer-environments-extra
 &#39;(&amp;quot;onlyenv&amp;quot; &amp;quot;O&amp;quot; &amp;quot;\\begin{onlyenv}%a&amp;quot; &amp;quot;\\end{onlyenv}&amp;quot;))

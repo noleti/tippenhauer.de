@@ -7,7 +7,7 @@
     <description>service</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <url>https://tippenhauer.de/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>service</title>
       <link>https://tippenhauer.de/categories/service/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>https://tippenhauer.de/post/acns-co-chair21/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/acns-co-chair21/</guid>
-      <description>&lt;p&gt;Together with the program chair Kazue Sako, I will serve as program co-chair for the &lt;a href=&#34;http://jianying.space/acns/&#34;&gt;19th International Conference on Applied Cryptography and Network Security (ACNS)&lt;/a&gt; in 2021, to be held in Japan. We plan to release the CfP with all details on deadlines etc. around May. Stay tuned!&lt;/p&gt;
+      <description>&lt;p&gt;Together with the program chair Kazue Sako, I will serve as program co-chair for the 
+&lt;a href=&#34;http://jianying.space/acns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19th International Conference on Applied Cryptography and Network Security (ACNS)&lt;/a&gt; in 2021, to be held in Japan. We plan to release the CfP with all details on deadlines etc. around May. Stay tuned!&lt;/p&gt;
 </description>
     </item>
     
@@ -26,20 +27,17 @@
       <link>https://tippenhauer.de/post/cfp-cps-spc19/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cps-spc19/</guid>
-      <description>
-
-&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp;
+      <description>&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp;
 Privacy (CPS-SPC) this year, together with Avishai Wool. CPS-SPC aims
 to be the premier workshop for research on security of Cyber-Physical
 Systems (such as medical devices, manufacturing and industrial
 control, robotics and autonomous vehicles). The workshop will run for
 the fifth time, co-located with CCS (11 November, London, UK). We just
-released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;) and the full &lt;a href=&#34;https://www.cps-spc.org/2019/cfp.pdf&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
-
+released the website (
+&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;) and the full 
+&lt;a href=&#34;https://www.cps-spc.org/2019/cfp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Submitted papers can be up to 12 pages including appendices and references. Submissions must use the ACM SIG Proceedings Templates.&lt;/p&gt;
-
 &lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Paper Submission Deadline: June 21, 2019 (23:59 Anywhere on Earth time)&lt;/li&gt;
 &lt;li&gt;Notification of Acceptance/Rejection: Aug 7, 2019&lt;/li&gt;
@@ -53,14 +51,11 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/cfp-cps-spc18/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cps-spc18/</guid>
-      <description>
-
-&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp; Privacy (CPS-SPC) this year, together with Awais Rashid. CPS-SPC aims to be the premier workshop for research on security of Cyber-Physical Systems (such as medical devices, manufacturing and industrial control, robotics and autonomous vehicles). The workshop will run for the fourth time, co-located with CCS (19 October, Toronto, Canada). We just released the website (&lt;a href=&#34;https://cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;) and the full &lt;a href=&#34;https://www.cps-spc.org/2018/cfp.pdf&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp; Privacy (CPS-SPC) this year, together with Awais Rashid. CPS-SPC aims to be the premier workshop for research on security of Cyber-Physical Systems (such as medical devices, manufacturing and industrial control, robotics and autonomous vehicles). The workshop will run for the fourth time, co-located with CCS (19 October, Toronto, Canada). We just released the website (
+&lt;a href=&#34;https://cps-spc.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cps-spc.org&lt;/a&gt;) and the full 
+&lt;a href=&#34;https://www.cps-spc.org/2018/cfp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Submitted papers can be up to 12 pages including appendices and references. Submissions must use the ACM SIG Proceedings Templates.&lt;/p&gt;
-
 &lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Paper Submission Deadline: July 1, 2018 (23:59 Anywhere on Earth time)&lt;/li&gt;
 &lt;li&gt;Notification of Acceptance/Rejection: July 30, 2018&lt;/li&gt;
@@ -84,15 +79,12 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetuptuhh318/</guid>
       <description>&lt;p&gt;We plan to have another meetup of the local TUHH Alumni chapter on March 27th, 7 pm at Restaurant Brotzeit at Harbourfront! Keep in touch with your alma mater and former fellow students. Several visiting TUHH staff members will also attend this event and report about developments at the Hamburg University of Technology.&lt;/p&gt;
-
-&lt;p&gt;To register, please send a message to Vera Lindenlaub at tuandyou@tuhh.de with your full name, your contact details, and your connection to TUHH (e.g. study, work).&lt;/p&gt;
-
+&lt;p&gt;To register, please send a message to Vera Lindenlaub at &lt;a href=&#34;mailto:tuandyou@tuhh.de&#34;&gt;tuandyou@tuhh.de&lt;/a&gt; with your full name, your contact details, and your connection to TUHH (e.g. study, work).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;March 27th 2018, 7pm&lt;/li&gt;
 &lt;li&gt;Restaurant Brotzeit&lt;/li&gt;
 &lt;li&gt;VivoCity Singapore 098585&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
 </description>
     </item>
@@ -111,12 +103,9 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</guid>
-      <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. www.nse.sg, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. &lt;a href=&#34;http://www.nse.sg&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
 &lt;p&gt;For everyone interested: please write me a quick mail, so I can make sure to keep you updated.&lt;/p&gt;
-
 &lt;p&gt;As a special guest, we will be joined by Prof. Ed Brinksma, who was just elected as next President of TUHH! So don’t miss this opportunity to connect back to TUHH.&lt;/p&gt;
-
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
 </description>
     </item>
@@ -126,7 +115,8 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/kopipacket-ranks-first-in-cross-ctf-qualifiers/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/kopipacket-ranks-first-in-cross-ctf-qualifiers/</guid>
-      <description>&lt;p&gt;A three-member selection of our Kopipacket team scored first place at the &lt;a href=&#34;https://www.crossctf.com/&#34;&gt;Cross-CTF qualifiers&lt;/a&gt;. Congratulations Flavio, John, and Randy!&lt;/p&gt;
+      <description>&lt;p&gt;A three-member selection of our Kopipacket team scored first place at the 
+&lt;a href=&#34;https://www.crossctf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cross-CTF qualifiers&lt;/a&gt;. Congratulations Flavio, John, and Randy!&lt;/p&gt;
 </description>
     </item>
     
@@ -135,7 +125,8 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/first-place-for-kopipacket-at-ics-scada-hacking-competition/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/first-place-for-kopipacket-at-ics-scada-hacking-competition/</guid>
-      <description>&lt;p&gt;Kopipacket placed first in &lt;a href=&#34;http://singapore.icscybersecurityconference.com/event/AT61/icsscada-hacking-competition-ctf-part-1&#34;&gt;ICS/SCADA Hacking Competition&lt;/a&gt; at the 2017 Singapore ICS Cyber Security Conference. Congratulations to our members Eric, Juan and Athul (all working with Prof. Ochoa)!&lt;/p&gt;
+      <description>&lt;p&gt;Kopipacket placed first in 
+&lt;a href=&#34;http://singapore.icscybersecurityconference.com/event/AT61/icsscada-hacking-competition-ctf-part-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS/SCADA Hacking Competition&lt;/a&gt; at the 2017 Singapore ICS Cyber Security Conference. Congratulations to our members Eric, Juan and Athul (all working with Prof. Ochoa)!&lt;/p&gt;
 </description>
     </item>
     
@@ -145,9 +136,7 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cans-2017/</guid>
       <description>&lt;p&gt;I am on the TPC for the Conference on Cryptology and Network Security (CANS), and the CfP was released. CANS 2017 will be held in Hong Kong on November 30-December 2.&lt;/p&gt;
-
 &lt;p&gt;The submission should be at most 16 pages (LNCS). The conference will also consider short submissions of up to 8 pages for results that are preliminary or that simply require few pages to describe. Authors of regular submitted papers will indicate at the time of submission whether they would like their paper to also be considered for publication as a short paper (8 proceedings pages).&lt;/p&gt;
-
 &lt;p&gt;Important dates: Abstract deadline July 18, 2017, full paper on July 25&lt;/p&gt;
 </description>
     </item>
@@ -157,7 +146,8 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/scy-phy-systems-week-2017/</link>
       <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/scy-phy-systems-week-2017/</guid>
-      <description>&lt;p&gt;We will organize the third SCy-Phy systems week in June, from 5 June 2017 to 9 June 2017. As part of the event, we will have a 2 day Think-In session with panelists and interactive discussions, and another iteration of the S3 event (this year’s name: S317). At the S317, international teams from academia and industry will try to attack our Industrial Control System testbeds. More information &lt;a href=&#34;https://2017.scy-phy.net/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;We will organize the third SCy-Phy systems week in June, from 5 June 2017 to 9 June 2017. As part of the event, we will have a 2 day Think-In session with panelists and interactive discussions, and another iteration of the S3 event (this year’s name: S317). At the S317, international teams from academia and industry will try to attack our Industrial Control System testbeds. More information 
+&lt;a href=&#34;https://2017.scy-phy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -166,12 +156,11 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/cfp-esorics-2017/</link>
       <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-esorics-2017/</guid>
-      <description>&lt;p&gt;I am in the TPC of ESORICS 2017, and the &lt;a href=&#34;https://www.ntnu.edu/web/esorics2017/call-for-papers&#34;&gt;call for papers&lt;/a&gt; has been released. The conference will be held 11-15 September in Oslo.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am in the TPC of ESORICS 2017, and the 
+&lt;a href=&#34;https://www.ntnu.edu/web/esorics2017/call-for-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt; has been released. The conference will be held 11-15 September in Oslo.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ESORICS is the annual European research event in Computer Security. The Symposium started in 1990 and has been held in several European countries, attracting a wide international audience from both the academic and industrial communities. Papers offering novel research contributions in computer security are solicited for submission to the Symposium. The primary focus is on original, high quality, unpublished research and implementation experiences. We encourage submissions of papers discussing industrial research and development.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Paper submission deadline: April 19&lt;/p&gt;
 </description>
     </item>
@@ -182,12 +171,11 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/mssd-program-at-sutd/</guid>
       <description>&lt;p&gt;I am involved in designing SUTD’s upcoming Masters’ in Security by Design (MSSD) Program. This will be ISTD’s first Masters’ program, the start is scheduled to be in September 2017. Applications can be submitted now on our website linked above. About the program:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The MSSD programme is one-of-a-kind in that it focuses on bringing cybersecurity at the design stage of critical infrastructure and enterprise networks. This focus enables the training of a special type of engineer who can not only contribute to the security of organizations that do online business, but also to the security of large scale public infrastructures such as power grid, water treatment and distribution, transportation, and oil and natural gas processing.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;More information can be found &lt;a href=&#34;https://istd.sutd.edu.sg/mssd/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information can be found 
+&lt;a href=&#34;https://istd.sutd.edu.sg/mssd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -207,9 +195,10 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
                     d88            d88                                                 
                     ?8P            ?8P                                                 
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Together with &lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34;&gt;Martin Ochoa&lt;/a&gt;, I founded SUTD’s first CTF team Kopipacket in January 2016. While we were pretty busy with other &lt;a href=&#34;https://tippenhauer.de/scy-phy-systems-week-2016/&#34;&gt;things&lt;/a&gt; for most of the summer, we still managed to participate in 12 CTF events (with placements between 11th and 893rd). Overall, we end the year on place 209 of the global CTF team &lt;a href=&#34;https://ctftime.org/team/21875&#34;&gt;leaderboard&lt;/a&gt;. In Singapore, we placed third (behind narwhals (126) and greyhats (157)).&lt;/p&gt;
-
+&lt;p&gt;Together with 
+&lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Ochoa&lt;/a&gt;, I founded SUTD’s first CTF team Kopipacket in January 2016. While we were pretty busy with other 
+&lt;a href=&#34;https://tippenhauer.de/scy-phy-systems-week-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;things&lt;/a&gt; for most of the summer, we still managed to participate in 12 CTF events (with placements between 11th and 893rd). Overall, we end the year on place 209 of the global CTF team 
+&lt;a href=&#34;https://ctftime.org/team/21875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leaderboard&lt;/a&gt;. In Singapore, we placed third (behind narwhals (126) and greyhats (157)).&lt;/p&gt;
 &lt;p&gt;We are still looking for interested players – ideally from SUTD, but we also welcome outsiders.&lt;/p&gt;
 </description>
     </item>
@@ -219,21 +208,18 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/cfp-wisec-2017/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-wisec-2017/</guid>
-      <description>&lt;p&gt;I’m on the TPC for WiSec, and the &lt;a href=&#34;http://wisec2017.ccs.neu.edu/call-for-papers-posters-demos.html&#34;&gt;call for papers&lt;/a&gt; has been released:&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the TPC for WiSec, and the 
+&lt;a href=&#34;http://wisec2017.ccs.neu.edu/call-for-papers-posters-demos.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt; has been released:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the security and privacy of mobile software platforms, usable security and privacy, biometrics, cryptography, and the increasingly diverse range of mobile or wireless applications such as Internet of Things, and Cyber-Physical Systems. The conference welcomes both theoretical as well as systems contributions.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;This year, there are a couple of interesting formats:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Full and short papers (&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt; pages ACM format)&lt;/li&gt;
+&lt;li&gt;Full and short papers (12/6 pages ACM format)&lt;/li&gt;
 &lt;li&gt;Opinion papers (3 pages)&lt;/li&gt;
 &lt;li&gt;Reproducibility label (for results reproduced by third party)&lt;/li&gt;
 &lt;li&gt;WiSec also solicits submission of posters and demos.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Abstract submission: March 13, 2017&lt;/p&gt;
 </description>
     </item>
@@ -243,40 +229,51 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/cfp-sems-2017/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-sems-2017/</guid>
-      <description>&lt;p&gt;I am on the TPC of SEMS 2017, held in between with IEEE S&amp;amp;P and EUROCRYPT 2017 in Paris. The CfP was just released. More info &lt;a href=&#34;http://sems2017.cs.ru.nl/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am on the TPC of SEMS 2017, held in between with IEEE S&amp;amp;P and EUROCRYPT 2017 in Paris. The CfP was just released. More info 
+&lt;a href=&#34;http://sems2017.cs.ru.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Embedded and mobile devices that provide security and crypto functionalities, and manage private and confidential data are omnipresent in our daily lives. Examples of such devices range from smart cards and RFID tags, to mobile phones, tablets, and IoT devices. Ensuring the security and privacy of these devices is a challenging problem, as witnessed by recent breaking of crypto and security systems used in mobile phones, car keys, and RFID-enabled cards. Typical threats to extract the keys include side-channel and fault analysis. Additionally, the vulnerabilities of the devices imply also privacy concerns. The operating systems supporting some of those devices, particularly mobile phones and tablets, but also IoT ones, have become very complex. Various sorts of malware present a constant threat for users. Although measures like application sandboxing take place, they also open the court for new attacks by constantly collecting and organizing sensitive information about the user.&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;The workshop seeks submissions from academia and industry presenting novel research results on the following topics of interest:&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Security architectures for embedded and mobile systems&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Physical (side-channel and fault) attacks on embedded and mobile systems&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Hardware security of mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– (mobile) Malware detection and prevention&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Machine learning applications to highlight possible threats to user privacy&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Privacy-preserving issues for mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Secure localization and location privacy for mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Security and privacy in the Internet of Things&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Secure execution environments (e.g., TrustZone, TPMs) on mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Sensor spoofing attacks&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;The one-day workshop will include presentation of peer-reviewed papers and two renowned keynote speakers, Prof. Srdjan Capkun (ETH Zurich, Switzerland) and Prof. Bart Preneel (KU Leuven, Belgium).&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Accepted papers will be published by IEEE as the proceedings in “IEEE EuroS&amp;amp;P Workshops”.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Important dates:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Submission deadline: 17 December 2016&lt;/li&gt;
 &lt;li&gt;Notification: 20 January 2017&lt;/li&gt;
@@ -291,7 +288,8 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/keynote-at-rfidsec-2016/</link>
       <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/keynote-at-rfidsec-2016/</guid>
-      <description>&lt;p&gt;I will give a keynote talk at &lt;a href=&#34;http://rfidsec2016.org/&#34;&gt;RFIDsec&lt;/a&gt;, December 1, in Hong Kong. The tentative title is “IT+OT=IOT? On Security for Industrial Control Systems”&lt;/p&gt;
+      <description>&lt;p&gt;I will give a keynote talk at 
+&lt;a href=&#34;http://rfidsec2016.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFIDsec&lt;/a&gt;, December 1, in Hong Kong. The tentative title is “IT+OT=IOT? On Security for Industrial Control Systems”&lt;/p&gt;
 </description>
     </item>
     
@@ -300,12 +298,11 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/cfp-cpss-2017/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cpss-2017/</guid>
-      <description>&lt;p&gt;I am on the PC of the Cyber-Physical System Security Workshop (CPSS), and the &lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss17/&#34;&gt;CfP&lt;/a&gt; was just released&lt;/p&gt;
-
+      <description>&lt;p&gt;I am on the PC of the Cyber-Physical System Security Workshop (CPSS), and the 
+&lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt; was just released&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cyber-Physical Systems (CPS) consist of large-scale interconnected systems of heterogeneous components interacting with their physical environments. There are a multitude of CPS devices and applications being deployed to serve critical functions in our lives. The security of CPS becomes extremely important. This workshop will provide a platform for professionals from academia, government, and industry to discuss how to address the increasing security challenges facing CPS. Besides invited talks, we also seek novel submissions describing theoretical and practical security solutions to CPS. Papers that are pertinent to the security of embedded systems, SCADA, smart grid, and critical infrastructure networks are all welcome, especially in the domains of energy and transportation.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Submission deadline is December 1. CPSS will be held in conjunction with ACM AsiaCCS’17
 Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
 </description>
@@ -316,7 +313,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/tuhh-alumni-chapter-in-singapore-founded/</link>
       <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/tuhh-alumni-chapter-in-singapore-founded/</guid>
-      <description>&lt;p&gt;Yesterday, we met with delegates from my alma mater, the &lt;a href=&#34;https://www.tuhh.de/alt/tuhh/startpage.html&#34;&gt;Hamburg University of Technology (TUHH)&lt;/a&gt; to officially found the Singaporean Alumni Chapter (second one in Asia, following Shanghai). As president of the chapter I plan to organize regular meet-ups with TUHH affiliates, and support them with advice and networking if needed.&lt;/p&gt;
+      <description>&lt;p&gt;Yesterday, we met with delegates from my alma mater, the 
+&lt;a href=&#34;https://www.tuhh.de/alt/tuhh/startpage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamburg University of Technology (TUHH)&lt;/a&gt; to officially found the Singaporean Alumni Chapter (second one in Asia, following Shanghai). As president of the chapter I plan to organize regular meet-ups with TUHH affiliates, and support them with advice and networking if needed.&lt;/p&gt;
 </description>
     </item>
     
@@ -325,12 +323,11 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/batadal-announced/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/batadal-announced/</guid>
-      <description>&lt;p&gt;We have now officially announced the &lt;a href=&#34;http://batadal.net/&#34;&gt;BATADAL&lt;/a&gt; competition.&lt;/p&gt;
-
+      <description>&lt;p&gt;We have now officially announced the 
+&lt;a href=&#34;http://batadal.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BATADAL&lt;/a&gt; competition.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The BATtle of the Attack Detection ALgorithms (BATADAL) will objectively compare the performance of algorithms for the detection of cyber attacks in water distribution systems. Participants will contribute an attack detection algorithm for a given water network following a set of rules that determine the exact goal of the algorithms.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Training datasets are now available. Deadline for first participant submissions is October 2 2016&lt;/p&gt;
 </description>
     </item>
@@ -341,12 +338,11 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-rfidsec-2016/</guid>
       <description>&lt;p&gt;I am on the TPC for the 12th Workshop on RFID and IoT Security (RFIDsec) 2016, and the call for papers was just released. Submission Date is 12 September 2016.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Started in 2005, RFIDsec has become the premier venue devoted to security and privacy of Radio Frequency Identification (RFID). The nature of radio-enabled item identification and automatic data capture has significantly changed overthe years driven by the interest in overarching applications such as the Internet-of-Things and cyber-physical systems. As such, RFIDsec has also broadened its scope and seeks papers describing any contributions to security and privacy in any application area related to any constrained wireless devices, such as sensor nodes, smart wearables, contactless smart cards, programmable logic controllers (PLCs) and RFID tags.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;More details &lt;a href=&#34;http://rfidsec2016.org/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More details 
+&lt;a href=&#34;http://rfidsec2016.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -355,8 +351,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/cfp-aps-cps-2016/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-aps-cps-2016/</guid>
-      <description>&lt;p&gt;I’m on the PC for the “Automation Protocols Security in Cyber-Physical Systems” (APS-CPS), held in conjunction with ICNP  2016 in Singapore on Nov 8 2016 – &lt;a href=&#34;http://www.aps-cps.org/callforpapers.html&#34;&gt;link&lt;/a&gt;. The deadline was just extended to July 30.&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the PC for the “Automation Protocols Security in Cyber-Physical Systems” (APS-CPS), held in conjunction with ICNP  2016 in Singapore on Nov 8 2016 – 
+&lt;a href=&#34;http://www.aps-cps.org/callforpapers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;. The deadline was just extended to July 30.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The International Workshop on Automation Protocols Security in Cyber-Physical Systems (APS-CPS) seeks novel submissions describing practical and theoretical solutions to securing automation protocols. Submissions may represent any application area for APS-CPS. Hence, papers that are pertinent to the security of embedded systems, Internet of Things, SCADA Systems, Smart-Grid Systems, Critical Infrastructure Networks, Transportation Systems, Medical Devices are all welcome.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -368,16 +364,11 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/cfp-sg-crc-2017/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-sg-crc-2017/</guid>
-      <description>
-
-&lt;p&gt;I’m on the TPC for the Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) 2017, and the CfP was just released. The conference will be held in Singapore on 21-22 February 2017 at the National University of Singapore (NUS). More details here. The conference’s theme is “Systems Approach to Cyber Security”&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the TPC for the Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) 2017, and the CfP was just released. The conference will be held in Singapore on 21-22 February 2017 at the National University of Singapore (NUS). More details here. The conference’s theme is “Systems Approach to Cyber Security”&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This conference will bring together academics and practitioners from across the world to participate in a vibrant programme consisting of research papers, industrial best practices, and tools exhibition. This conference focus on techniques and methodologies oriented to construct resilient systems against cyber-attacks that will helps to construct safe execution environments, improving security of both hardware and software by means of using mathematical tools and engineering approaches for designing, verifying, and monitoring cyber physical systems.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Research Track Deadline: 1 October 2016&lt;/li&gt;
 &lt;li&gt;Practice Track Deadline: 8 October 2016&lt;/li&gt;
@@ -392,7 +383,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/scy-phy-systems-week-2016/</link>
       <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/scy-phy-systems-week-2016/</guid>
-      <description>&lt;p&gt;We are currently preparing for the &lt;a href=&#34;http://itrust.sutd.edu.sg/scy-phy-systems-week/2016/&#34;&gt;SCy-Phy Systems week 2016&lt;/a&gt;, on July 25-29 2016. The SCy-Phy Systems week is an invitation-only event including one day of panel discussions, two days of practical security assessment and defences using our SWaT testbed, and further outreach activites. We started this format last year, and had great success with a team of excellent attendees and many fruitful discussions.&lt;/p&gt;
+      <description>&lt;p&gt;We are currently preparing for the 
+&lt;a href=&#34;http://itrust.sutd.edu.sg/scy-phy-systems-week/2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCy-Phy Systems week 2016&lt;/a&gt;, on July 25-29 2016. The SCy-Phy Systems week is an invitation-only event including one day of panel discussions, two days of practical security assessment and defences using our SWaT testbed, and further outreach activites. We started this format last year, and had great success with a team of excellent attendees and many fruitful discussions.&lt;/p&gt;
 </description>
     </item>
     
@@ -401,7 +393,9 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/sutd-ctf-team/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-ctf-team/</guid>
-      <description>&lt;p&gt;Together with Asst. Prof. &lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34;&gt;Martín Ochoa&lt;/a&gt;, I am currently setting up a &lt;a href=&#34;https://ctftime.org/team/21875&#34;&gt;team&lt;/a&gt; of researchers and students to compete in capture-the-flag (CTF) competitions. Such competitions are held on/ and offline, and usually consist of a range of individual security challenges (web, pwnage, crypto, forensics). We aim to participate in online events regularly to showcase our practical skills and train students. If you are interested to join, please contact me or Prof. Martín.&lt;/p&gt;
+      <description>&lt;p&gt;Together with Asst. Prof. 
+&lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martín Ochoa&lt;/a&gt;, I am currently setting up a 
+&lt;a href=&#34;https://ctftime.org/team/21875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt; of researchers and students to compete in capture-the-flag (CTF) competitions. Such competitions are held on/ and offline, and usually consist of a range of individual security challenges (web, pwnage, crypto, forensics). We aim to participate in online events regularly to showcase our practical skills and train students. If you are interested to join, please contact me or Prof. Martín.&lt;/p&gt;
 </description>
     </item>
     
@@ -411,11 +405,9 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-scspw-2016/</guid>
       <description>&lt;p&gt;I’m on the TPC for the “Smart City Security and Privacy Workshop” (SCSP-W 2016), held in conjunction with CPS Week 2016 in Vienna, Austria on 11-14 April, 2016 – link.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;CPS Week is the premier event on Cyber-Physical Systems and brings together academicians, industry experts, and government representatives from around the world. The SCSP-W workshop will focus on security and privacy aspects of smart cities that are pertinent to areas like Internet of Things (IoT), Smart Buildings, Smart‑Grid Systems, Critical Infrastructure Networks, Intelligent Transportation Systems, and Medical Devices. SCSP-W is a full day workshop and will include research papers, invited talks, and discussion sessions to facilitate exchange of research ideas in a community environment.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Submission deadline: January 822, 2016&lt;/p&gt;
 </description>
     </item>
@@ -426,9 +418,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-ifip-sec-2016/</guid>
       <description>&lt;p&gt;I’m on the TPC for the 31th IFIP TC-11 SEC 2016 International Information Security and Privacy Conference. Its CfP was just released, more details here. Deadline for paper submissions is December 24, 2015. From the CfP:&lt;/p&gt;
-
 &lt;blockquote&gt;
-&lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, www.ifiptc11.org  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
+&lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, &lt;a href=&#34;http://www.ifiptc11.org&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -438,8 +429,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/cfp-sg-crc-2016/</link>
       <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-sg-crc-2016/</guid>
-      <description>&lt;p&gt;We are organizing the inaugural Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) in 2016. The call for papers is now available &lt;a href=&#34;http://itrust.sutd.edu.sg/sg-crc-2016/&#34;&gt;online&lt;/a&gt;, deadline for papers is October 26, 2015. About the conference:&lt;/p&gt;
-
+      <description>&lt;p&gt;We are organizing the inaugural Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) in 2016. The call for papers is now available 
+&lt;a href=&#34;http://itrust.sutd.edu.sg/sg-crc-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;, deadline for papers is October 26, 2015. About the conference:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The conference will bring together academics and practitioners from across the world to participate in a vibrant program consisting of research papers,  industrial best practices, and tools exhibition. Students, undergraduate and graduate are encouraged to participate in specially organized sessions.  Several cash awards and certificates will be given to the best contributions in various categories.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -451,22 +442,22 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/cfp-cpss-2016/</link>
       <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cpss-2016/</guid>
-      <description>&lt;p&gt;I’m on the TPC for the 2nd ACM Cyber-Physical System Security Workshop. Its CfP was just released, more details &lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss16/&#34;&gt;here&lt;/a&gt;. Deadline for paper submissions is December 5, 2015. From the CfP:&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the TPC for the 2nd ACM Cyber-Physical System Security Workshop. Its CfP was just released, more details 
+&lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss16/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Deadline for paper submissions is December 5, 2015. From the CfP:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cyber-Physical Systems (CPS) consist of large-scale interconnected
-    systems of heterogeneous components interacting with their
-    physical environments. There are a multitude of CPS devices and
-    applications being deployed to serve critical functions in our
-    lives. The security of CPS becomes extremely important. This
-    workshop will provide a platform for professionals from academia,
-    government, and industry to discuss how to address the increasing
-    security challenges facing CPS. Besides invited talks, we also
-    seek novel submissions describing theoretical and practical
-    security solutions to CPS. Papers that are pertinent to the
-    security of embedded systems, SCADA, smart grid, and critical
-    infrastructure networks are all welcome, especially in the domains
-    of energy and transportation.&lt;/p&gt;
+systems of heterogeneous components interacting with their
+physical environments. There are a multitude of CPS devices and
+applications being deployed to serve critical functions in our
+lives. The security of CPS becomes extremely important. This
+workshop will provide a platform for professionals from academia,
+government, and industry to discuss how to address the increasing
+security challenges facing CPS. Besides invited talks, we also
+seek novel submissions describing theoretical and practical
+security solutions to CPS. Papers that are pertinent to the
+security of embedded systems, SCADA, smart grid, and critical
+infrastructure networks are all welcome, especially in the domains
+of energy and transportation.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -486,19 +477,12 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;slide0.png&#34; alt=&#34;slide0&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;slide1.png&#34; alt=&#34;slide1&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;slide2.png&#34; alt=&#34;slide2&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
 &lt;li&gt;Author name (footer)&lt;/li&gt;
@@ -506,8 +490,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
 &lt;li&gt;Date (footer)&lt;/li&gt;
 &lt;li&gt;Page number (footer)&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;The theme can be found on &lt;a href=&#34;https://github.com/scy-phy/public/tree/master/themeSUTD&#34;&gt;Github&lt;/a&gt;. I am looking forward to comments and feedback!&lt;/p&gt;
+&lt;p&gt;The theme can be found on 
+&lt;a href=&#34;https://github.com/scy-phy/public/tree/master/themeSUTD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. I am looking forward to comments and feedback!&lt;/p&gt;
 </description>
     </item>
     

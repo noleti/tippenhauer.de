@@ -7,7 +7,7 @@
     <description>ctf</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <url>https://tippenhauer.de/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ctf</title>
       <link>https://tippenhauer.de/tags/ctf/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>https://tippenhauer.de/post/kopipacket-ranks-first-in-cross-ctf-qualifiers/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/kopipacket-ranks-first-in-cross-ctf-qualifiers/</guid>
-      <description>&lt;p&gt;A three-member selection of our Kopipacket team scored first place at the &lt;a href=&#34;https://www.crossctf.com/&#34;&gt;Cross-CTF qualifiers&lt;/a&gt;. Congratulations Flavio, John, and Randy!&lt;/p&gt;
+      <description>&lt;p&gt;A three-member selection of our Kopipacket team scored first place at the 
+&lt;a href=&#34;https://www.crossctf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cross-CTF qualifiers&lt;/a&gt;. Congratulations Flavio, John, and Randy!&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +27,8 @@
       <link>https://tippenhauer.de/post/first-place-for-kopipacket-at-ics-scada-hacking-competition/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/first-place-for-kopipacket-at-ics-scada-hacking-competition/</guid>
-      <description>&lt;p&gt;Kopipacket placed first in &lt;a href=&#34;http://singapore.icscybersecurityconference.com/event/AT61/icsscada-hacking-competition-ctf-part-1&#34;&gt;ICS/SCADA Hacking Competition&lt;/a&gt; at the 2017 Singapore ICS Cyber Security Conference. Congratulations to our members Eric, Juan and Athul (all working with Prof. Ochoa)!&lt;/p&gt;
+      <description>&lt;p&gt;Kopipacket placed first in 
+&lt;a href=&#34;http://singapore.icscybersecurityconference.com/event/AT61/icsscada-hacking-competition-ctf-part-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS/SCADA Hacking Competition&lt;/a&gt; at the 2017 Singapore ICS Cyber Security Conference. Congratulations to our members Eric, Juan and Athul (all working with Prof. Ochoa)!&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +37,8 @@
       <link>https://tippenhauer.de/post/scy-phy-systems-week-2017/</link>
       <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/scy-phy-systems-week-2017/</guid>
-      <description>&lt;p&gt;We will organize the third SCy-Phy systems week in June, from 5 June 2017 to 9 June 2017. As part of the event, we will have a 2 day Think-In session with panelists and interactive discussions, and another iteration of the S3 event (this year’s name: S317). At the S317, international teams from academia and industry will try to attack our Industrial Control System testbeds. More information &lt;a href=&#34;https://2017.scy-phy.net/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;We will organize the third SCy-Phy systems week in June, from 5 June 2017 to 9 June 2017. As part of the event, we will have a 2 day Think-In session with panelists and interactive discussions, and another iteration of the S3 event (this year’s name: S317). At the S317, international teams from academia and industry will try to attack our Industrial Control System testbeds. More information 
+&lt;a href=&#34;https://2017.scy-phy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -55,9 +58,10 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
                     d88            d88                                                 
                     ?8P            ?8P                                                 
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Together with &lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34;&gt;Martin Ochoa&lt;/a&gt;, I founded SUTD’s first CTF team Kopipacket in January 2016. While we were pretty busy with other &lt;a href=&#34;https://tippenhauer.de/scy-phy-systems-week-2016/&#34;&gt;things&lt;/a&gt; for most of the summer, we still managed to participate in 12 CTF events (with placements between 11th and 893rd). Overall, we end the year on place 209 of the global CTF team &lt;a href=&#34;https://ctftime.org/team/21875&#34;&gt;leaderboard&lt;/a&gt;. In Singapore, we placed third (behind narwhals (126) and greyhats (157)).&lt;/p&gt;
-
+&lt;p&gt;Together with 
+&lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Ochoa&lt;/a&gt;, I founded SUTD’s first CTF team Kopipacket in January 2016. While we were pretty busy with other 
+&lt;a href=&#34;https://tippenhauer.de/scy-phy-systems-week-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;things&lt;/a&gt; for most of the summer, we still managed to participate in 12 CTF events (with placements between 11th and 893rd). Overall, we end the year on place 209 of the global CTF team 
+&lt;a href=&#34;https://ctftime.org/team/21875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leaderboard&lt;/a&gt;. In Singapore, we placed third (behind narwhals (126) and greyhats (157)).&lt;/p&gt;
 &lt;p&gt;We are still looking for interested players – ideally from SUTD, but we also welcome outsiders.&lt;/p&gt;
 </description>
     </item>
@@ -67,7 +71,9 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/sutd-ctf-team/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-ctf-team/</guid>
-      <description>&lt;p&gt;Together with Asst. Prof. &lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34;&gt;Martín Ochoa&lt;/a&gt;, I am currently setting up a &lt;a href=&#34;https://ctftime.org/team/21875&#34;&gt;team&lt;/a&gt; of researchers and students to compete in capture-the-flag (CTF) competitions. Such competitions are held on/ and offline, and usually consist of a range of individual security challenges (web, pwnage, crypto, forensics). We aim to participate in online events regularly to showcase our practical skills and train students. If you are interested to join, please contact me or Prof. Martín.&lt;/p&gt;
+      <description>&lt;p&gt;Together with Asst. Prof. 
+&lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martín Ochoa&lt;/a&gt;, I am currently setting up a 
+&lt;a href=&#34;https://ctftime.org/team/21875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt; of researchers and students to compete in capture-the-flag (CTF) competitions. Such competitions are held on/ and offline, and usually consist of a range of individual security challenges (web, pwnage, crypto, forensics). We aim to participate in online events regularly to showcase our practical skills and train students. If you are interested to join, please contact me or Prof. Martín.&lt;/p&gt;
 </description>
     </item>
     

@@ -7,82 +7,10 @@
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <url>https://tippenhauer.de/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://tippenhauer.de/tags/</link>
     </image>
-    
-    <item>
-      <title>cfp</title>
-      <link>https://tippenhauer.de/tags/cfp/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/cfp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>summer school</title>
-      <link>https://tippenhauer.de/tags/summer-school/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/summer-school/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meta</title>
-      <link>https://tippenhauer.de/tags/meta/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industrial Control System</title>
-      <link>https://tippenhauer.de/tags/industrial-control-system/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/industrial-control-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stateful Anomaly Detection</title>
-      <link>https://tippenhauer.de/tags/stateful-anomaly-detection/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/stateful-anomaly-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stealthy Attack</title>
-      <link>https://tippenhauer.de/tags/stealthy-attack/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/stealthy-attack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ctf</title>
-      <link>https://tippenhauer.de/tags/ctf/</link>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/ctf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>org-mode</title>
-      <link>https://tippenhauer.de/tags/org-mode/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/org-mode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>grants</title>
-      <link>https://tippenhauer.de/tags/grants/</link>
-      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/tags/grants/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
