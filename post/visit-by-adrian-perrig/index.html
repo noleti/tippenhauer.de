@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -44,11 +44,14 @@
 
   
   
+
+  
+  
   
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -62,6 +65,118 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -92,13 +207,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -108,7 +225,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -125,11 +242,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://tippenhauer.de/post/visit-by-adrian-perrig/">
 
+  
   
   
   
@@ -146,8 +264,8 @@
   <meta property="og:site_name" content="Nils Ole Tippenhauer">
   <meta property="og:url" content="https://tippenhauer.de/post/visit-by-adrian-perrig/">
   <meta property="og:title" content="Visit by Prof. Adrian Perrig | Nils Ole Tippenhauer">
-  <meta property="og:description" content="I’m hosting Prof. Adrian Perrig from ETH Zurich at SUTD on May 11 2016. He will give a public talk with the following details."><meta property="og:image" content="https://tippenhauer.de/img/icon-192.png">
-  <meta property="twitter:image" content="https://tippenhauer.de/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="I’m hosting Prof. Adrian Perrig from ETH Zurich at SUTD on May 11 2016. He will give a public talk with the following details."><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2016-05-01T00:00:00&#43;00:00">
@@ -166,8 +284,6 @@
 
 
   
-
-
 
 
 
@@ -195,7 +311,7 @@
     "name": "Nils Ole Tippenhauer",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://tippenhauer.de/img/icon-512.png"
+      "url": "https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "I’m hosting Prof. Adrian Perrig from ETH Zurich at SUTD on May 11 2016. He will give a public talk with the following details."
@@ -208,10 +324,14 @@
 
 
   
-
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-<script>
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
   window.addEventListener("load", function(){
     window.cookieconsent.initialise({
       "palette": {
@@ -229,10 +349,10 @@
         "message": "This website uses cookies to ensure you get the best experience on our website.",
         "dismiss": "Got it!",
         "link": "Learn more",
-        "href": "https://cookies.insites.com"
+        "href": "https://www.cookiesandyou.com"
       }
     })});
-</script>
+  </script>
 
 
 
@@ -281,6 +401,12 @@
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -497,11 +623,8 @@
   <div>
     
 
-
-
   
   <span>Nils Ole Tippenhauer</span>
-
   </div>
   
   
@@ -561,56 +684,54 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<p>I’m hosting Prof. Adrian Perrig from ETH Zurich at SUTD on May 11 2016. He will give a public talk with the following details.</p>
-
+      <p>I’m hosting Prof. Adrian Perrig from ETH Zurich at SUTD on May 11 2016. He will give a public talk with the following details.</p>
 <h4 id="towards-a-next-generation-secure-internet-architecture">Towards a Next-generation Secure Internet Architecture</h4>
-
 <blockquote>
 <p>The Internet has been successful beyond even the most optimistic
-    expectations. It permeates and intertwines with almost all aspects
-    of our society and economy. The success of the Internet has
-    created a dependency on communication as many of the processes
-    underpinning the foundations of modern society would grind to a
-    halt should communication become unavailable. However, much to our
-    dismay, the current state of safety and availability of the
-    Internet is far from commensurate given its importance.</p>
-
-<p>Although we cannot conclusively determine what the impact of a
-    1-minute, 1-hour, 1-day, or 1-week outage of Internet connectivity
-    on our society would be, anecdotal evidence indicates that even
-    short outages have a profound negative impact on governmental,
-    economic, and societal operations. To make matters worse, the
-    Internet has not been designed for high availability in the face
-    of malicious actions by adversaries. Recent patches to improve
-    Internet security and availability have been constrained by the
-    current Internet architecture, business models, and legal
-    aspects. Moreover, there are fundamental design decisions of the
-    current Internet that inherently complicate secure operation.</p>
-
-<p>Given the diverse nature of constituents in today’s Internet,
-    another important challenge is how to scale authentication of
-    entities (e.g., AS ownership for routing, name servers for DNS, or
-    domains for TLS) to a global environment. Currently prevalent PKI
-    models (monopoly and oligarchy) do not scale globally because
-    mutually distrusting entities cannot agree on a single trust root,
-    and because everyday users cannot evaluate the trustworthiness of
-    each of the many root CAs in their browsers.</p>
-
-<p>To address these issues, we study the design of a next-generation
-    Internet architecture that is secure, available, and offers
-    privacy by design; that provides incentives for a transition to
-    the new architecture; and that considers economic and policy
-    issues at the design stage. Such a research environment offers a
-    bonanza for security researchers: a critically important problem
-    space with a medley of challenges to address, and unfettered
-    freedom to think creatively in the absence of limiting
-    constraints. Once we know how good a network could be, we can then
-    engage in incorporating these ideas into the current Internet or
-    study strategies for transition to a next-generation network.</p>
+expectations. It permeates and intertwines with almost all aspects
+of our society and economy. The success of the Internet has
+created a dependency on communication as many of the processes
+underpinning the foundations of modern society would grind to a
+halt should communication become unavailable. However, much to our
+dismay, the current state of safety and availability of the
+Internet is far from commensurate given its importance.</p>
 </blockquote>
-
+<blockquote>
+<p>Although we cannot conclusively determine what the impact of a
+1-minute, 1-hour, 1-day, or 1-week outage of Internet connectivity
+on our society would be, anecdotal evidence indicates that even
+short outages have a profound negative impact on governmental,
+economic, and societal operations. To make matters worse, the
+Internet has not been designed for high availability in the face
+of malicious actions by adversaries. Recent patches to improve
+Internet security and availability have been constrained by the
+current Internet architecture, business models, and legal
+aspects. Moreover, there are fundamental design decisions of the
+current Internet that inherently complicate secure operation.</p>
+</blockquote>
+<blockquote>
+<p>Given the diverse nature of constituents in today’s Internet,
+another important challenge is how to scale authentication of
+entities (e.g., AS ownership for routing, name servers for DNS, or
+domains for TLS) to a global environment. Currently prevalent PKI
+models (monopoly and oligarchy) do not scale globally because
+mutually distrusting entities cannot agree on a single trust root,
+and because everyday users cannot evaluate the trustworthiness of
+each of the many root CAs in their browsers.</p>
+</blockquote>
+<blockquote>
+<p>To address these issues, we study the design of a next-generation
+Internet architecture that is secure, available, and offers
+privacy by design; that provides incentives for a transition to
+the new architecture; and that considers economic and policy
+issues at the design stage. Such a research environment offers a
+bonanza for security researchers: a critically important problem
+space with a medley of challenges to address, and unfettered
+freedom to think creatively in the absence of limiting
+constraints. Once we know how good a network could be, we can then
+engage in incorporating these ideas into the current Internet or
+study strategies for transition to a next-generation network.</p>
+</blockquote>
 <ul>
 <li>Date: May 11 2016</li>
 <li>Time: 2:30pm to 3:30pm</li>
@@ -645,11 +766,8 @@
 
 
   
-  
     
-  
-  
-
+    
 
 
 
@@ -659,12 +777,13 @@
   
   
     
+  
   
   
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/not/avatar_hub6425d3cb60243c60517e63ddad0b386_96945_250x250_fill_lanczos_center_2.png" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/not/avatar_hub6425d3cb60243c60517e63ddad0b386_96945_270x270_fill_lanczos_center_2.png" alt="Nils Ole Tippenhauer">
     
 
     <div class="media-body">
@@ -758,6 +877,10 @@
   </div>
 
 
+  
+
+
+
 
 
 
@@ -794,9 +917,6 @@
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
@@ -807,8 +927,6 @@
 
       
 
-      
-      
     
 
     
@@ -819,6 +937,11 @@
     
     
     <script>const code_highlighting = false;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
     
 
     
@@ -883,7 +1006,7 @@
     
     
     
-    <script src="/js/academic.min.3227ab49eed49815d1b4ba40154f74e7.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

@@ -7,7 +7,7 @@
     <description>grants</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>grants</title>
       <link>https://tippenhauer.de/tags/grants/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>https://tippenhauer.de/post/joining-cypro-itrust-stage-1/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/joining-cypro-itrust-stage-1/</guid>
-      <description>&lt;p&gt;I will join the CYPRO project of the iTrust centre as Co-PI. In particular, I will be responsible for the research task &lt;em&gt;Defending against physical attacks&lt;/em&gt;. For that grant, I will work together with &lt;a href=&#34;http://istd.sutd.edu.sg/researchers/dr-he-liang/&#34;&gt;Dr. He Liang&lt;/a&gt; from SUTD.&lt;/p&gt;
+      <description>&lt;p&gt;I will join the CYPRO project of the iTrust centre as Co-PI. In particular, I will be responsible for the research task &lt;em&gt;Defending against physical attacks&lt;/em&gt;. For that grant, I will work together with 
+&lt;a href=&#34;http://istd.sutd.edu.sg/researchers/dr-he-liang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. He Liang&lt;/a&gt; from SUTD.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,7 +28,6 @@
       <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/project-safe-accepted/</guid>
       <description>&lt;p&gt;My proposal for Project SAFE was accepted by SUTD last week. The project will start in August’14 and is planned to run for three years. Overall funding is 100k SGD. From the proposal:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;In recent years, the cyber-security of large-scale heterogeneous engineered systems such as public infrastructure and other distributed control systems has become an important problem. […] In this project, we will develop methods to perform practical and theoretical security assessments of devices typically found in such networks. In addition, we will also design strategies to detect and investigate past attacks.&lt;/p&gt;
 &lt;/blockquote&gt;

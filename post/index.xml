@@ -7,7 +7,7 @@
     <description>News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/img/icon-192.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://tippenhauer.de/post/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>https://tippenhauer.de/post/acns-co-chair21/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/acns-co-chair21/</guid>
-      <description>&lt;p&gt;Together with the program chair Kazue Sako, I will serve as program co-chair for the &lt;a href=&#34;http://jianying.space/acns/&#34;&gt;19th International Conference on Applied Cryptography and Network Security (ACNS)&lt;/a&gt; in 2021, to be held in Japan. We plan to release the CfP with all details on deadlines etc. around May. Stay tuned!&lt;/p&gt;
+      <description>&lt;p&gt;Together with the program chair Kazue Sako, I will serve as program co-chair for the 
+&lt;a href=&#34;http://jianying.space/acns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19th International Conference on Applied Cryptography and Network Security (ACNS)&lt;/a&gt; in 2021, to be held in Japan. We plan to release the CfP with all details on deadlines etc. around May. Stay tuned!&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +27,8 @@
       <link>https://tippenhauer.de/post/summer-school20/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/summer-school20/</guid>
-      <description>&lt;p&gt;I will be teaching one day of classes at CISPA&amp;rsquo;s 2nd edition of the Young Researcher Security Convention in March 2020. My classes will provide an overview of Hot topics in Cyber-Physical Security, for example current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at &lt;a href=&#34;https://cispa.saarland/secon/&#34;&gt;the website&lt;/a&gt; of the event.&lt;/p&gt;
+      <description>&lt;p&gt;I will be teaching one day of classes at CISPA&amp;rsquo;s 2nd edition of the Young Researcher Security Convention in March 2020. My classes will provide an overview of Hot topics in Cyber-Physical Security, for example current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at 
+&lt;a href=&#34;https://cispa.saarland/secon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the website&lt;/a&gt; of the event.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,14 +37,14 @@
       <link>https://tippenhauer.de/post/2019-in-numbers/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/2019-in-numbers/</guid>
-      <description>&lt;p&gt;Continuing my &lt;a href=&#34;https://tippenhauer.de/post/2018-in-numbers/&#34;&gt;tradition&lt;/a&gt;, a quick personal note on my scholar profile. As of now, first week of January 2020, my publications reached ~2100 citations according to &lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34;&gt;Google scholar&lt;/a&gt; (vs. ~1400 at this time last year/ 1000 two years ago/ 700 three years ago). Google scholar currently lists 72 publications (vs. 60 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 345 cites (after 257 last year). My h-index has increased to 26 (from 19), my i10-index is currently 39, from 32 last year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34;&gt;Semantic scholar&lt;/a&gt; lists 1375 citations and 82 publications. They still indicate how many papers were strongly influenced by my work (113), compared to 69 in previous year. Authors listed as most influenced (unclear what that means) by my work are: Aditya Mathur (66), Aanjhan Ranganathan (55), Martin Ochoa (52), Ahmad Sadeghi (51), Sridhar Adepu (51).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 58 publications, ~1065 citations), but they provide a number of co-authors: 113 (106 last year).&lt;/p&gt;
-
+      <description>&lt;p&gt;Continuing my 
+&lt;a href=&#34;https://tippenhauer.de/post/2018-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;, a quick personal note on my scholar profile. As of now, first week of January 2020, my publications reached ~2100 citations according to 
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~1400 at this time last year/ 1000 two years ago/ 700 three years ago). Google scholar currently lists 72 publications (vs. 60 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 345 cites (after 257 last year). My h-index has increased to 26 (from 19), my i10-index is currently 39, from 32 last year.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 1375 citations and 82 publications. They still indicate how many papers were strongly influenced by my work (113), compared to 69 in previous year. Authors listed as most influenced (unclear what that means) by my work are: Aditya Mathur (66), Aanjhan Ranganathan (55), Martin Ochoa (52), Ahmad Sadeghi (51), Sridhar Adepu (51).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 58 publications, ~1065 citations), but they provide a number of co-authors: 113 (106 last year).&lt;/p&gt;
 &lt;p&gt;Other numbers for 2019: Github lists 52 commits to repositories (after 96 in 2018), as we shifted most collaborations to use Overleaf. I received 4967 mails on my university accounts (after removal of spam). Per working day, that would make around 20 (previous years: 36) mails. I sent 1147 mails (~5 per working day, last year 9). Both numbers are lower than my 2018 statistics, due to the lower size of my group after joining CISPA. A well-used chat system (Mattermost) to communicate with others also likely plays a role to reduce mail load.&lt;/p&gt;
-
 &lt;p&gt;I re-activated my twitter account (from&amp;rsquo;11), and currently follow 47, with 96 followers, and 26 tweets.&lt;/p&gt;
 </description>
     </item>
@@ -53,8 +55,8 @@
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/hugo-academic/</guid>
       <description>&lt;p&gt;I now finished converting this page (and in particular, the ~80 news posts) to use the Hugo framework with Academic theme. Previously, this page ran on Wordpress (while hosted at SUTD), and then as exported plain html (edited by hand). By converting to Hugo now, it should be much easier to add new news entries, and improve other automation aspects.&lt;/p&gt;
-
-&lt;p&gt;In addition, I also wrote a new group webpage for my group at CISPA, have a look &lt;a href=&#34;https://cispa.saarland/group/tippenhauer/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In addition, I also wrote a new group webpage for my group at CISPA, have a look 
+&lt;a href=&#34;https://cispa.saarland/group/tippenhauer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -72,63 +74,104 @@
       <link>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2019/</link>
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2019/</guid>
-      <description>&lt;p&gt;As a follow up to the &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2018/&#34;&gt;four&lt;/a&gt; &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2017/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2016/&#34;&gt;posts&lt;/a&gt; on the &lt;a href=&#34;..//security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2019 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. &lt;a href=&#34;https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html&#34;&gt;This list of Normalized Top-100 Security Papers&lt;/a&gt; provides a great alternative ranking of important classic papers in the field.&lt;/p&gt;
-
-&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;venue=HSHJIaLyN9IJ.2019&amp;amp;vq=eng_computersecuritycryptography&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
-
+      <description>&lt;p&gt;As a follow up to the 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2018/&#34;&gt;four&lt;/a&gt; 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2017/&#34;&gt;previous&lt;/a&gt; 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2016/&#34;&gt;posts&lt;/a&gt; on the 
+&lt;a href=&#34;..//security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2019 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. 
+&lt;a href=&#34;https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This list of Normalized Top-100 Security Papers&lt;/a&gt; provides a great alternative ranking of important classic papers in the field.&lt;/p&gt;
+&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;venue=HSHJIaLyN9IJ.2019&amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=Pg42P_rbavwJ.2019&#34;&gt;ACM Symposium on Computer and Communications Security&lt;/a&gt; (82)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=HSHJIaLyN9IJ.2019&#34;&gt;USENIX Conference on Security&lt;/a&gt; (81, +2 positions)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=muV5gjf6-jcJ.2019&#34;&gt;IEEE Transactions on Information Forensics and Security&lt;/a&gt; (78)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=cyrroHz3a0YJ.2019&#34;&gt;IEEE Symposium on Security and Privacy&lt;/a&gt; (72, -2 positions)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=q2FcImd5qbgJ.2019&#34;&gt;Network and Distributed System Security Symposium (NDSS)&lt;/a&gt; (65, +1 position)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=fsZsNTm7Eh8J.2019&#34;&gt;Annual International Conference on Theory and Applications of Cryptographic Techniques (EUROCRYPT)&lt;/a&gt; (56, +1 position)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=nqcB6RwzhMQJ.2019&#34;&gt;International Conference on Cryptology (CRYPTO)&lt;/a&gt; (53, -2 positions)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=_ZfohKnRjIYJ.2019&#34;&gt;Computers &amp;amp; Security&lt;/a&gt; (50)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=nNidswR17bwJ.2019&#34;&gt;IEEE Transactions on Dependable and Secure Computing&lt;/a&gt; (47)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=gVeDacK3aQwJ.2019&#34;&gt;International Conference on Financial Cryptography and Data Security&lt;/a&gt; (43)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=hxrvQsnJSDMJ.2019&#34;&gt;International Conference on The Theory and Application of Cryptology and Information Security (ASIACRYPT)&lt;/a&gt; (40)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JP81m6yJpiEJ.2019&#34;&gt;Theory of cryptography&lt;/a&gt; (37, +2 positions)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=fxQZq2l4GcMJ.2019&#34;&gt;Conference on Cryptographic Hardware and Embedded Systems (CHES)&lt;/a&gt; (36, -1 position)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=3VLtGPwkq54J.2019&#34;&gt;ACM Symposium on Information, Computer and Communications Security (ASIACCS)&lt;/a&gt; (35), -1 position&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=XeF0tfamqA0J.2019&#34;&gt;Security and Communication Networks&lt;/a&gt; (35, +5 positions)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=U4GBY6ZTEoMJ.2019&#34;&gt;Designs, Codes and Cryptography&lt;/a&gt; (35, new in the list)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=uPzq679G87oJ.2019&#34;&gt;IEEE Security &amp;amp; Privacy&lt;/a&gt; (32, -1 position)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=x1AY1yaO1mQJ.2019&#34;&gt;European Conference on Research in Computer Security (ESORICS)&lt;/a&gt; (32, new in the list)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=88oopSfS28MJ.2019&#34;&gt;Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt; (30, new in the list)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=6gqvYwOFvq0J.2019&#34;&gt;International Conference on Practice and Theory in Public Key Cryptography&lt;/a&gt; (30, -2 position)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=Pg42P_rbavwJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Symposium on Computer and Communications Security&lt;/a&gt; (82)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=HSHJIaLyN9IJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USENIX Conference on Security&lt;/a&gt; (81, +2 positions)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=muV5gjf6-jcJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Information Forensics and Security&lt;/a&gt; (78)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=cyrroHz3a0YJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Symposium on Security and Privacy&lt;/a&gt; (72, -2 positions)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=q2FcImd5qbgJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network and Distributed System Security Symposium (NDSS)&lt;/a&gt; (65, +1 position)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=fsZsNTm7Eh8J.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annual International Conference on Theory and Applications of Cryptographic Techniques (EUROCRYPT)&lt;/a&gt; (56, +1 position)&lt;/li&gt;
+&lt;li&gt;[International Conference on Cryptology (CRYPTO)] (&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=nqcB6RwzhMQJ.2019&#34;&gt;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=nqcB6RwzhMQJ.2019&lt;/a&gt;) (53, -2 positions)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=_ZfohKnRjIYJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computers &amp;amp; Security&lt;/a&gt; (50)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=nNidswR17bwJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Dependable and Secure Computing&lt;/a&gt; (47)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=gVeDacK3aQwJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Financial Cryptography and Data Security&lt;/a&gt; (43)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=hxrvQsnJSDMJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on The Theory and Application of Cryptology and Information Security (ASIACRYPT)&lt;/a&gt; (40)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JP81m6yJpiEJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theory of cryptography&lt;/a&gt; (37, +2 positions)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=fxQZq2l4GcMJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Cryptographic Hardware and Embedded Systems (CHES)&lt;/a&gt; (36, -1 position)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=3VLtGPwkq54J.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Symposium on Information, Computer and Communications Security (ASIACCS)&lt;/a&gt; (35), -1 position&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=XeF0tfamqA0J.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security and Communication Networks&lt;/a&gt; (35, +5 positions)&lt;/li&gt;
+&lt;li&gt;[Designs, Codes and Cryptography] (&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=U4GBY6ZTEoMJ.2019&#34;&gt;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=U4GBY6ZTEoMJ.2019&lt;/a&gt;) (35, new in the list)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=uPzq679G87oJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Security &amp;amp; Privacy&lt;/a&gt; (32, -1 position)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=x1AY1yaO1mQJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Conference on Research in Computer Security (ESORICS)&lt;/a&gt; (32, new in the list)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=88oopSfS28MJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt; (30, new in the list)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=6gqvYwOFvq0J.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Practice and Theory in Public Key Cryptography&lt;/a&gt; (30, -2 position)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Some other honourable mentions where I published before, am involved, or consider submitting:&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JMgzZsGYu14J.2019&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM)&lt;/a&gt; (74, -2)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=HKQoOwyk8SQJ.2019&#34;&gt;Computer Networks&lt;/a&gt; (57)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=CYo1GjC2fW8J.2019&#34;&gt;Annual International Conference on Mobile computing and networking (Mobicom)&lt;/a&gt; (50)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=0mhk3_x__KIJ.2019&#34;&gt;International Conference on Mobile systems, applications, and services (MOBISYS)&lt;/a&gt; (44)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=MVYbyyKMpToJ.2019&#34;&gt;International Conference on Dependable Systems and Networks (DSN)&lt;/a&gt; (33)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=d6VxAyLWqWgJ.2019&#34;&gt;Symposium On Usable Privacy and Security&lt;/a&gt; (28, used to be in top20)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=eLhWa3qzEDsJ.2019&#34;&gt;ACM Symposium on Applied Computing (SAC)&lt;/a&gt; (28, but only small security track)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LWRwHw7mGBMJ.2019&#34;&gt;ACM conference on Data and Application Security and Privacy (CODASPY)&lt;/a&gt; (27)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=5Sz4yUnI16AJ.2019&#34;&gt;IEEE Computer Security Foundations Symposium (CSF)&lt;/a&gt; (26, +1 position)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=fSl1wy1IRIoJ.2019&#34;&gt;Journal of Cryptology&lt;/a&gt; (26, used to be in top20)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GoSvm-d8gKoJ.2019&#34;&gt;IEEE European Symposium on Security and Privacy (EuroSNP)&lt;/a&gt; (26, new/ first event in&amp;rsquo;16)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GtwA7m_XqZUJ.2019&#34;&gt;International Conference on Cyber-Physical Systems (ICCPS)&lt;/a&gt; (24, -1 position)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JDO_KUA4CYMJ.2019&#34;&gt;Wireless Network Security (WISEC)&lt;/a&gt; (23)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=826ERjda8dUJ.2019&#34;&gt;Symposium on Research in Attacks, Intrusions and Defenses (RAID)&lt;/a&gt; (21)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=uX6tRrNG0lQJ.2019&#34;&gt;Applied Cryptography and Network Security (ACNS)&lt;/a&gt; (20)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GIrj2BSjfiwJ.2019&#34;&gt;International Conference on Availability, Reliability and Security (ARES)&lt;/a&gt; (20)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pMNODcGxo4cJ.2019&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt; (19)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2019&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (16, +3 positions)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2019&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (15)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=Two3itQ-Tm8J.2019&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)&lt;/a&gt; (15)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=mDgNlZgOboEJ.2019&#34;&gt;Network and Systems Security (NSS)&lt;/a&gt; (14)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=qiszAbdiCtkJ.2019&#34;&gt;Conference on Security and Privacy in Communication Networks (SecureComm)&lt;/a&gt; (14)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LIYEKQ4Mf5YJ.2019&#34;&gt;Conference on Formal Engineering Methods (ICFEM)&lt;/a&gt; (13)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JMgzZsGYu14J.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM)&lt;/a&gt; (74, -2)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=HKQoOwyk8SQJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Networks&lt;/a&gt; (57)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=CYo1GjC2fW8J.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annual International Conference on Mobile computing and networking (Mobicom)&lt;/a&gt; (50)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=0mhk3_x__KIJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Mobile systems, applications, and services (MOBISYS)&lt;/a&gt; (44)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=MVYbyyKMpToJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Dependable Systems and Networks (DSN)&lt;/a&gt; (33)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=d6VxAyLWqWgJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium On Usable Privacy and Security&lt;/a&gt; (28, used to be in top20)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=eLhWa3qzEDsJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Symposium on Applied Computing (SAC)&lt;/a&gt; (28, but only small security track)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LWRwHw7mGBMJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM conference on Data and Application Security and Privacy (CODASPY)&lt;/a&gt; (27)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=5Sz4yUnI16AJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Computer Security Foundations Symposium (CSF)&lt;/a&gt; (26, +1 position)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=fSl1wy1IRIoJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Cryptology&lt;/a&gt; (26, used to be in top20)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GoSvm-d8gKoJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE European Symposium on Security and Privacy (EuroSNP)&lt;/a&gt; (26, new/ first event in&amp;rsquo;16)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GtwA7m_XqZUJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Cyber-Physical Systems (ICCPS)&lt;/a&gt; (24, -1 position)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JDO_KUA4CYMJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wireless Network Security (WISEC)&lt;/a&gt; (23)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=826ERjda8dUJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Research in Attacks, Intrusions and Defenses (RAID)&lt;/a&gt; (21)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=uX6tRrNG0lQJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applied Cryptography and Network Security (ACNS)&lt;/a&gt; (20)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GIrj2BSjfiwJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Availability, Reliability and Security (ARES)&lt;/a&gt; (20)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pMNODcGxo4cJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt; (19)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (16, +3 positions)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (15)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=Two3itQ-Tm8J.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)&lt;/a&gt; (15)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=mDgNlZgOboEJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network and Systems Security (NSS)&lt;/a&gt; (14)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=qiszAbdiCtkJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Security and Privacy in Communication Networks (SecureComm)&lt;/a&gt; (14)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LIYEKQ4Mf5YJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Formal Engineering Methods (ICFEM)&lt;/a&gt; (13)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;There are some interesting observations I made from the ranking (updated from last iteration):&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;The h5 index of the top venues increased by about 5-9 points, without major changes in order (Usenix rose to position 2, S&amp;amp;P lost 2 positions, now position 4). For these tier 1 venues, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.&lt;/li&gt;
 &lt;li&gt;Usenix Security in particular increased the h5 score by 11, enough to almost reach CCS which was leader of this ranking for years (and has a larger number of accepted papers).&lt;/li&gt;
@@ -137,12 +180,15 @@
 &lt;li&gt;EuroSNP makes its first entry with h5 of 26, impressive given that the first instance was in &amp;lsquo;16. It kicked off with great papers such as Papernot et al.&lt;/li&gt;
 &lt;li&gt;7 of the top 20 venues have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
 &lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 130 (pretty close to last year), for top 10-20 between 39 and 60 (slightly lower than last year).&lt;/li&gt;
-&lt;li&gt;Clearly, for h5 it helps to accept more papers (see Infocom rank, the journals on the list, CCS&amp;rsquo;s dominance). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Clearly, for h5 it helps to accept more papers (see Infocom rank, the journals on the list, CCS&amp;rsquo;s dominance). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see 
+&lt;a href=&#34;http://jianying.space/conference-ranking.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;Google apparently removed the classic papers listing (which was somewhat useless in my opinion).&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m not a big fan of CORE ranking. Based on the h5 metric, I would consider conferences/venues with h5 &amp;gt;= 50 as tier 1, conferences with h5 &amp;gt;= 30 as tier 2, and conferences with h5 &amp;gt;= 15 as tier 3. This would put RAID and WiSec still in tier 3, but for example ASIACCS clearly in tier 2 (CORE rank: B).&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m not a big fan of CORE ranking. Based on the h5 metric, I would consider conferences/venues with h5 &amp;gt;= 50 as tier 1, conferences with h5 &amp;gt;= 30 as tier 2, and conferences with h5 &amp;gt;= 15 as tier 3. This would put RAID and WiSec still in tier 3, but for example ASIACCS clearly in tier 2 (CORE rank: B).&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;See also: &lt;a href=&#34;https://aminer.org/ranks/conf&#34;&gt;aminer conference ranking&lt;/a&gt;, &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE2018 conference ranking&lt;/a&gt;, &lt;a href=&#34;http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm&#34;&gt;Guofei Gu&amp;rsquo;s ranking&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See also: 
+&lt;a href=&#34;https://aminer.org/ranks/conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aminer conference ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CORE2018 conference ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guofei Gu&amp;rsquo;s ranking&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -152,7 +198,6 @@
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/successful-defenses/</guid>
       <description>&lt;p&gt;My two first PhD students, Daniele Antonioli and Hamid Ghaeini, successfully defended their PhD in Singapore yesterday. Daniele presented his thesis with the title &amp;ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&amp;rdquo;, which included two recent tier one publications. Hamid&amp;rsquo;s thesis has the title &amp;ldquo;Threats to Industrial Control Systems and Process-based Countermeasures&amp;rdquo;, and included a recent RAID paper.&lt;/p&gt;
-
 &lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&amp;rsquo; group as PostDoc.&lt;/p&gt;
 </description>
     </item>
@@ -162,20 +207,17 @@
       <link>https://tippenhauer.de/post/cfp-cps-spc19/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cps-spc19/</guid>
-      <description>
-
-&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp;
+      <description>&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp;
 Privacy (CPS-SPC) this year, together with Avishai Wool. CPS-SPC aims
 to be the premier workshop for research on security of Cyber-Physical
 Systems (such as medical devices, manufacturing and industrial
 control, robotics and autonomous vehicles). The workshop will run for
 the fifth time, co-located with CCS (11 November, London, UK). We just
-released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;) and the full &lt;a href=&#34;https://www.cps-spc.org/2019/cfp.pdf&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
-
+released the website (
+&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;) and the full 
+&lt;a href=&#34;https://www.cps-spc.org/2019/cfp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Submitted papers can be up to 12 pages including appendices and references. Submissions must use the ACM SIG Proceedings Templates.&lt;/p&gt;
-
 &lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Paper Submission Deadline: June 21, 2019 (23:59 Anywhere on Earth time)&lt;/li&gt;
 &lt;li&gt;Notification of Acceptance/Rejection: Aug 7, 2019&lt;/li&gt;
@@ -189,7 +231,8 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/summer-school19/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/summer-school19/</guid>
-      <description>&lt;p&gt;I will be teaching one day of classes at the Cyber-Physical System Security School at the University of Padova in July 2019. My classes will provide an overview of current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at &lt;a href=&#34;https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/CPS/index.html&#34;&gt;the website&lt;/a&gt; of the event. Regular registration is still open until June 21st.&lt;/p&gt;
+      <description>&lt;p&gt;I will be teaching one day of classes at the Cyber-Physical System Security School at the University of Padova in July 2019. My classes will provide an overview of current approaches to security in practical Industrial Control Systems, and recent research directions to improve the state of the art. More information can be found at 
+&lt;a href=&#34;https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/CPS/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the website&lt;/a&gt; of the event. Regular registration is still open until June 21st.&lt;/p&gt;
 </description>
     </item>
     
@@ -198,12 +241,13 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/2018-in-numbers/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/2018-in-numbers/</guid>
-      <description>&lt;p&gt;As a follow-up to last year’s &lt;a href=&#34;https://tippenhauer.de/post/2017-in-numbers/&#34;&gt;post&lt;/a&gt;, a quick personal note on my scholar profile. As of now, second week of January 2019, my publications reached ~1400 citations according to &lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34;&gt;Google scholar&lt;/a&gt; (vs. ~1000 at this time last year/ 700 two years ago/ 500 three years ago). Google scholar currently lists 60 publications (vs. 53 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 257 cites. My h-index has increased to 19 (from 15), my i10-index is currently 32, from 18 last year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34;&gt;Semantic scholar&lt;/a&gt; stopped listing citation numbers for profiles. They still indicate how many papers were strongly influenced by my work (69), compared to 54 in previous year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 49 publications, ~683 citations), but they provide a number of co-authors: 106 (66 last year).&lt;/p&gt;
-
+      <description>&lt;p&gt;As a follow-up to last year’s 
+&lt;a href=&#34;https://tippenhauer.de/post/2017-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;, a quick personal note on my scholar profile. As of now, second week of January 2019, my publications reached ~1400 citations according to 
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~1000 at this time last year/ 700 two years ago/ 500 three years ago). Google scholar currently lists 60 publications (vs. 53 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 257 cites. My h-index has increased to 19 (from 15), my i10-index is currently 32, from 18 last year.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; stopped listing citation numbers for profiles. They still indicate how many papers were strongly influenced by my work (69), compared to 54 in previous year.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 49 publications, ~683 citations), but they provide a number of co-authors: 106 (66 last year).&lt;/p&gt;
 &lt;p&gt;Other numbers for 2018: Github lists 96 commits to repositories (after 500 in 2017), as we shifted most collaborations to use Overleaf (and I don&amp;rsquo;t develop for NSE any more). I received 5,898+1,319=7217 mails on my university accounts (after removal of spam). Per working day, that would make around 36 (previous years: 64) mails. I sent 1,240+498=1738 mails (~9 per working day, last year 19). Both numbers are around half of my 2016-2015 statistics. This is likely due to my transition to CISPA, during which I lost access to the old account (and the end of major projects such as the NSE).&lt;/p&gt;
 </description>
     </item>
@@ -213,10 +257,14 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2018/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2018/</guid>
-      <description>&lt;p&gt;As a follow up to the three &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2017/&#34;&gt;previous&lt;/a&gt; &lt;a href=&#34;..//googles-security-conferencejournal-ranking-2016/&#34;&gt;posts&lt;/a&gt; on the &lt;a href=&#34;..//security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2018 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. Google also now added a &amp;ldquo;Classic Papers&amp;rdquo; category for papers (&lt;a href=&#34;https://scholar.google.com.sg/citations?view_op=list_classic_articles&amp;amp;amp;hl=en&amp;amp;amp;by=2006&amp;amp;amp;vq=eng_computersecuritycryptography&#34;&gt;link&lt;/a&gt;)&amp;mdash;but there was essentially nothing in that which I recognized. &lt;a href=&#34;https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html&#34;&gt;This list of Normalized Top-100 Security Papers&lt;/a&gt; seems to be much more appropriate.&lt;/p&gt;
-
-&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
-
+      <description>&lt;p&gt;As a follow up to the three 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2017/&#34;&gt;previous&lt;/a&gt; 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2016/&#34;&gt;posts&lt;/a&gt; on the 
+&lt;a href=&#34;..//security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2018 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. Google also now added a &amp;ldquo;Classic Papers&amp;rdquo; category for papers (
+&lt;a href=&#34;https://scholar.google.com.sg/citations?view_op=list_classic_articles&amp;amp;amp;hl=en&amp;amp;amp;by=2006&amp;amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;)&amp;mdash;but there was essentially nothing in that which I recognized. 
+&lt;a href=&#34;https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This list of Normalized Top-100 Security Papers&lt;/a&gt; seems to be much more appropriate.&lt;/p&gt;
+&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=Pg42P_rbavwJ.2018&#34;&gt;ACM Symposium on Computer and Communications Security &lt;/a&gt;(77)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=INF_DsfwVdsJ.2018&#34;&gt;IEEE Symposium on Security and Privacy&lt;/a&gt; (74)&lt;/li&gt;
@@ -239,9 +287,7 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=u0EMblNmhEoJ.2018&#34;&gt;Fast Software Encryption (FSE)&lt;/a&gt; (29)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;vq=eng_computersecuritycryptography&amp;view_op=list_hcore&amp;venue=XeF0tfamqA0J.2018&#34;&gt;Security and Communication Networks&lt;/a&gt; (29)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Some other honourable mentions where I published before, am involved, or consider submitting:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=JMgzZsGYu14J.2018&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM) &lt;/a&gt;(76, -4)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=HKQoOwyk8SQJ.2018&#34;&gt;Computer Networks&lt;/a&gt; (58)&lt;/li&gt;
@@ -265,9 +311,7 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=Two3itQ-Tm8J.2018&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)&lt;/a&gt; (11)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LIYEKQ4Mf5YJ.2018&#34;&gt;Conference on Formal Engineering Methods (ICFEM)&lt;/a&gt; (11)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;There are some interesting observations I made from the ranking (updated from last iteration):&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;The h5 index of the top venues increased by about 5-9 points, without major changes in order (Crypto and NDSS swapped places). For these tier 1 venues, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.&lt;/li&gt;
 &lt;li&gt;Financial Cryptography and Data Security only increased the h5 by 1, after steep rise in the year before.&lt;/li&gt;
@@ -275,10 +319,12 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
 &lt;li&gt;The list was extended to 20 venues now.&lt;/li&gt;
 &lt;li&gt;8 of the top 20 venues have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
 &lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 130 (+20 compared to last year), for top 10-20 between 45 and 60 (like last year).&lt;/li&gt;
-&lt;li&gt;Clearly, for h5 it helps to accept more papers (see Infocom rank, the journals on the list, CCS&amp;rsquo;s rising score). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Clearly, for h5 it helps to accept more papers (see Infocom rank, the journals on the list, CCS&amp;rsquo;s rising score). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see 
+&lt;a href=&#34;http://jianying.space/conference-ranking.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;See also: &lt;a href=&#34;https://aminer.org/ranks/conf&#34;&gt;aminer conference ranking&lt;/a&gt;, &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE2014 conference ranking&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See also: 
+&lt;a href=&#34;https://aminer.org/ranks/conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aminer conference ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CORE2014 conference ranking&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -287,10 +333,11 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/joining-cipsa-in-august/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/joining-cipsa-in-august/</guid>
-      <description>&lt;p&gt;In August 2018, I will leave SUTD and join &lt;a href=&#34;https://cispa.saarland/&#34;&gt;CISPA&lt;/a&gt; as faculty member. CISPA is a German research center focusing on world-class security research, headed by &lt;a href=&#34;https://scholar.google.de/citations?user=ZVS3KOEAAAAJ&amp;amp;hl=en&#34;&gt;Michael Backes&lt;/a&gt;. CISPA is currently in process to become a member of the Helmholtz Association and is planned to grow quickly in the upcoming years, aiming to become the leading security research center in Europe. CISPA is co-located with the University of Saarbrucken, which is recognized to be one of the best places (top 5, according to CHE) in Germany for computer science degrees (both graduate and undergrad). In particular, it has a dedicated undergrad program in cybersecurity!&lt;/p&gt;
-
-&lt;p&gt;I will continue to work on security topics related to Cyber-Physical systems in general, and Industrial Control Systems, Internet of Things, and physical layer wireless in particular. I have funding for several PhD students with attractive salary. I am now looking for interested candidates with strong undergrad GPA (or ideally a MSc) in computer science/engineering or related fields. If you are interested, please &lt;a href=&#34;https://tippenhauer.de/#contact&#34;&gt;send me&lt;/a&gt; a short statement about your motivation, and a CV.&lt;/p&gt;
-
+      <description>&lt;p&gt;In August 2018, I will leave SUTD and join 
+&lt;a href=&#34;https://cispa.saarland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISPA&lt;/a&gt; as faculty member. CISPA is a German research center focusing on world-class security research, headed by 
+&lt;a href=&#34;https://scholar.google.de/citations?user=ZVS3KOEAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Backes&lt;/a&gt;. CISPA is currently in process to become a member of the Helmholtz Association and is planned to grow quickly in the upcoming years, aiming to become the leading security research center in Europe. CISPA is co-located with the University of Saarbrucken, which is recognized to be one of the best places (top 5, according to CHE) in Germany for computer science degrees (both graduate and undergrad). In particular, it has a dedicated undergrad program in cybersecurity!&lt;/p&gt;
+&lt;p&gt;I will continue to work on security topics related to Cyber-Physical systems in general, and Industrial Control Systems, Internet of Things, and physical layer wireless in particular. I have funding for several PhD students with attractive salary. I am now looking for interested candidates with strong undergrad GPA (or ideally a MSc) in computer science/engineering or related fields. If you are interested, please 
+&lt;a href=&#34;https://tippenhauer.de/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;send me&lt;/a&gt; a short statement about your motivation, and a CV.&lt;/p&gt;
 &lt;p&gt;I am sad to leave my fellow faculty members at SUTD and Singapore, but look forward to this excellent opportunity in Germany!&lt;/p&gt;
 </description>
     </item>
@@ -300,14 +347,11 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/cfp-cps-spc18/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cps-spc18/</guid>
-      <description>
-
-&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp; Privacy (CPS-SPC) this year, together with Awais Rashid. CPS-SPC aims to be the premier workshop for research on security of Cyber-Physical Systems (such as medical devices, manufacturing and industrial control, robotics and autonomous vehicles). The workshop will run for the fourth time, co-located with CCS (19 October, Toronto, Canada). We just released the website (&lt;a href=&#34;https://cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;) and the full &lt;a href=&#34;https://www.cps-spc.org/2018/cfp.pdf&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am co-chairing the ACM Workshop on Cyber-Physical Systems Security &amp;amp; Privacy (CPS-SPC) this year, together with Awais Rashid. CPS-SPC aims to be the premier workshop for research on security of Cyber-Physical Systems (such as medical devices, manufacturing and industrial control, robotics and autonomous vehicles). The workshop will run for the fourth time, co-located with CCS (19 October, Toronto, Canada). We just released the website (
+&lt;a href=&#34;https://cps-spc.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cps-spc.org&lt;/a&gt;) and the full 
+&lt;a href=&#34;https://www.cps-spc.org/2018/cfp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Submitted papers can be up to 12 pages including appendices and references. Submissions must use the ACM SIG Proceedings Templates.&lt;/p&gt;
-
 &lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Paper Submission Deadline: July 1, 2018 (23:59 Anywhere on Earth time)&lt;/li&gt;
 &lt;li&gt;Notification of Acceptance/Rejection: July 30, 2018&lt;/li&gt;
@@ -331,15 +375,12 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetuptuhh318/</guid>
       <description>&lt;p&gt;We plan to have another meetup of the local TUHH Alumni chapter on March 27th, 7 pm at Restaurant Brotzeit at Harbourfront! Keep in touch with your alma mater and former fellow students. Several visiting TUHH staff members will also attend this event and report about developments at the Hamburg University of Technology.&lt;/p&gt;
-
-&lt;p&gt;To register, please send a message to Vera Lindenlaub at tuandyou@tuhh.de with your full name, your contact details, and your connection to TUHH (e.g. study, work).&lt;/p&gt;
-
+&lt;p&gt;To register, please send a message to Vera Lindenlaub at &lt;a href=&#34;mailto:tuandyou@tuhh.de&#34;&gt;tuandyou@tuhh.de&lt;/a&gt; with your full name, your contact details, and your connection to TUHH (e.g. study, work).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;March 27th 2018, 7pm&lt;/li&gt;
 &lt;li&gt;Restaurant Brotzeit&lt;/li&gt;
 &lt;li&gt;VivoCity Singapore 098585&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
 </description>
     </item>
@@ -358,13 +399,14 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/2017-in-numbers/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/2017-in-numbers/</guid>
-      <description>&lt;p&gt;As a follow-up to last year’s &lt;a href=&#34;https://tippenhauer.de/post/2016-in-numbers/&#34;&gt;post&lt;/a&gt;, a quick personal note on my scholar profile. As of now, second week of January 2018, my publications reached 1001 citations according to &lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34;&gt;Google scholar&lt;/a&gt; (vs. ~700 at this time last year/ 500 two years ago). Google scholar currently lists 53 publications (vs. 43 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 203 cites. My h-index has increased to 15 (from 11), my i10-index is currently 18, from ~12 last year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34;&gt;Semantic scholar&lt;/a&gt; stopped listing total citation numbers for profiles. I noted they revised/reduced my citation estimate for 2016 quite a bit, down to 111 (was &amp;gt;200 before). They still indicate how many papers were strongly influenced by my work (54), compared to 7 in the previous year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 39 publications, ~450 citations), but they now provide a number of co-authors: 66.&lt;/p&gt;
-
-&lt;p&gt;Other numbers for 2017: Github lists 450 commits to repositories (after 807 in 2016). I received 16,285 mails on my university account (after removal of spam). Per working day, that would make around 64 mails. I sent 4,733 mails (~19 per working day). Both numbers are quite close to my &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt; statistics.&lt;/p&gt;
+      <description>&lt;p&gt;As a follow-up to last year’s 
+&lt;a href=&#34;https://tippenhauer.de/post/2016-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;, a quick personal note on my scholar profile. As of now, second week of January 2018, my publications reached 1001 citations according to 
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~700 at this time last year/ 500 two years ago). Google scholar currently lists 53 publications (vs. 43 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 203 cites. My h-index has increased to 15 (from 11), my i10-index is currently 18, from ~12 last year.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; stopped listing total citation numbers for profiles. I noted they revised/reduced my citation estimate for 2016 quite a bit, down to 111 (was &amp;gt;200 before). They still indicate how many papers were strongly influenced by my work (54), compared to 7 in the previous year.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 39 publications, ~450 citations), but they now provide a number of co-authors: 66.&lt;/p&gt;
+&lt;p&gt;Other numbers for 2017: Github lists 450 commits to repositories (after 807 in 2016). I received 16,285 mails on my university account (after removal of spam). Per working day, that would make around 64 mails. I sent 4,733 mails (~19 per working day). Both numbers are quite close to my 2016/2015 statistics.&lt;/p&gt;
 </description>
     </item>
     
@@ -374,14 +416,12 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/visit-by-ralph-holz/</guid>
       <description>&lt;p&gt;Prof. Ralph Holz from Syndey University will visit SUTD on 7 Nov. At 3pm in LT3, he will give a public talk on the following topic.&lt;/p&gt;
-
 &lt;p&gt;Title: Consensus, security and the network – measuring Blockchain&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Over the last years, blockchains have developed into a mainstream technology that entire industry sectors are talking about.
-   The latest generation even supports smart contracts – programs that are executed by all participants and that may govern everything from simple transactions to the setup of organisations. Beyond the hype, however, we find that there is little deployment beyond the two most prominent examples, Bitcoin and Ethereum.
-   In this talk, we are going to explore some of the reasons. In particular, we show that the P2P networks that underlie blockchains impact their functionality in decisive ways. We look at dependability and abortion of transactions, both of which are crucial for enterprises, and we inspect the network structure and its influence on transaction execution. We present some early numbers from more than 2,500 scans
-   of a blockchain network. Finally, we discuss some research directions that could prove fruitful in a number of systems, blockchains or beyond.&lt;/p&gt;
+The latest generation even supports smart contracts – programs that are executed by all participants and that may govern everything from simple transactions to the setup of organisations. Beyond the hype, however, we find that there is little deployment beyond the two most prominent examples, Bitcoin and Ethereum.
+In this talk, we are going to explore some of the reasons. In particular, we show that the P2P networks that underlie blockchains impact their functionality in decisive ways. We look at dependability and abortion of transactions, both of which are crucial for enterprises, and we inspect the network structure and its influence on transaction execution. We present some early numbers from more than 2,500 scans
+of a blockchain network. Finally, we discuss some research directions that could prove fruitful in a number of systems, blockchains or beyond.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -391,12 +431,9 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</guid>
-      <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. www.nse.sg, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. &lt;a href=&#34;http://www.nse.sg&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
 &lt;p&gt;For everyone interested: please write me a quick mail, so I can make sure to keep you updated.&lt;/p&gt;
-
 &lt;p&gt;As a special guest, we will be joined by Prof. Ed Brinksma, who was just elected as next President of TUHH! So don’t miss this opportunity to connect back to TUHH.&lt;/p&gt;
-
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
 </description>
     </item>
@@ -406,19 +443,13 @@ released the website (&lt;a href=&#34;cps-spc.org&#34;&gt;cps-spc.org&lt;/a&gt;)
       <link>https://tippenhauer.de/post/visit-by-debdeep-mukhopadhyay/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/visit-by-debdeep-mukhopadhyay/</guid>
-      <description>
-
-&lt;p&gt;We are hosting Prof. Debdeep Mukhopadhyay on Oct 12 at SUTD. He will give a public talk with the title Break one link and the whole chain falls apart!: Embedding Security in Things to Cloud.&lt;/p&gt;
-
+      <description>&lt;p&gt;We are hosting Prof. Debdeep Mukhopadhyay on Oct 12 at SUTD. He will give a public talk with the title Break one link and the whole chain falls apart!: Embedding Security in Things to Cloud.&lt;/p&gt;
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract:&lt;/h4&gt;
-
 &lt;p&gt;With the advent of Internet of Things (IoT) the need and challenges of security have increased manifold. Starting from the miniature devices, which are often resource constrained, to the pervasive omni-present cloud, all avenues for a potential attack need to be mitigated. In this talk, we discuss the research activities in this direction, starting from physical security of the “things” in an IoT framework to developing dedicated cryptographic techniques for delegating data in the cloud. The talk also summarizes the research activities at the Secured Embedded Architecture Laboratory (SEAL), IIT Kharagpur, India.&lt;/p&gt;
-
 &lt;h4 id=&#34;bio&#34;&gt;Bio:&lt;/h4&gt;
-
 &lt;p&gt;Debdeep is currently an Associate Professor at the Department of Computer Science and Engineering, IIT-Kharagpur, India and a visiting scientist
 at School of Computer Science and Engineering at NTU-Singapore. At IIT Kharagpur he initiated the Secured Embedded Architecture Laboratory (SEAL), with a focus on Embedded Security and Side Channel Attacks. Prior to this he worked as a visiting Associate Professor of NYU-Shanghai, Assistant Professor at IIT-Madras, and as Visiting Researcher at NYU Tandon-School-of-Engineering, USA. He holds a PhD, MS, and B. Tech from IIT-Kharagpur. His research interests are Cryptography, Hardware Security, and VLSI. He is in the Program Committee of several top-tier conferences in his area like CHES, DATE, etc. and is the Associate Editor of Journal of Hardware and Systems Security, Springer.
-He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scientist award from the Indian National Science Academy, Young Engineer award from the Indian National Academy of Engineers, and is Young Associate of the Indian Academy of Science. He has incubated a start-up, ESP Pvt Ltd at IIT Kharagpur (&lt;a href=&#34;http://esp-research.com/&#34;&gt;http://esp-research.com/&lt;/a&gt;).&lt;/p&gt;
+He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scientist award from the Indian National Science Academy, Young Engineer award from the Indian National Academy of Engineers, and is Young Associate of the Indian Academy of Science. He has incubated a start-up, ESP Pvt Ltd at IIT Kharagpur (&lt;a href=&#34;http://esp-research.com/)&#34;&gt;http://esp-research.com/)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -427,9 +458,10 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/finals-of-nse-data-challenge-2017/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/finals-of-nse-data-challenge-2017/</guid>
-      <description>&lt;p&gt;We held our finals for the National Science Experiment Data Challenge 2017 at SUTD on September 13. 11 finalist teams from secondary and post-secondary schools came to present their projects. Our guest of honour, Minister Yaacob Ibrahim, gave out the awards together with our sponsors. I served as on of the 6 Jury members for the selection of the winners. Overall, the event went great and it was amazing to see all the excited students discussing their science projects. Some impressions were shared on the minister’s facebook page, and in &lt;a href=&#34;http://www.straitstimes.com/singapore/nanyang-girls-high-the-big-winner-in-data-challenge&#34;&gt;local media&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/yaacobibrahim/posts/1641819522519216&#34;&gt;Facebook post of Singapore&amp;rsquo;s Minister Yaacob Ibrahim&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We held our finals for the National Science Experiment Data Challenge 2017 at SUTD on September 13. 11 finalist teams from secondary and post-secondary schools came to present their projects. Our guest of honour, Minister Yaacob Ibrahim, gave out the awards together with our sponsors. I served as on of the 6 Jury members for the selection of the winners. Overall, the event went great and it was amazing to see all the excited students discussing their science projects. Some impressions were shared on the minister’s facebook page, and in 
+&lt;a href=&#34;http://www.straitstimes.com/singapore/nanyang-girls-high-the-big-winner-in-data-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;local media&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.facebook.com/yaacobibrahim/posts/1641819522519216&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook post of Singapore&amp;rsquo;s Minister Yaacob Ibrahim&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -439,12 +471,10 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-first-industry-workshop-2017/</guid>
       <description>&lt;p&gt;I am happy to announce that my PhD students Hamid and Daniele both won an award each at the FIRST industry workshop, held at SUTD. In particular, they won:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Daniele Antonioli:  ST Electronics Poster Award&lt;/li&gt;
 &lt;li&gt;Hamid Reza:  Kulicke &amp;amp; Soffa Poster Award&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Hamid presented our ongoing work on IDS for ICS, and Daniele presented our Honeypot for ICS. Congratulations to both of them!&lt;/p&gt;
 </description>
     </item>
@@ -454,10 +484,12 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2017/</link>
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2017/</guid>
-      <description>&lt;p&gt;As a follow up to the two previous &lt;a href=&#34;../googles-security-conferencejournal-ranking-2016/&#34;&gt;posts&lt;/a&gt; on the &lt;a href=&#34;../security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2017 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. Google also now added a &amp;ldquo;Classic Papers&amp;rdquo; category for papers (&lt;a href=&#34;https://scholar.google.com.sg/citations?view_op=list_classic_articles&amp;amp;amp;hl=en&amp;amp;amp;by=2006&amp;amp;amp;vq=eng_computersecuritycryptography&#34;&gt;link&lt;/a&gt;)&amp;mdash;but there was essentially nothing in that which I recognized.&lt;/p&gt;
-
-&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
-
+      <description>&lt;p&gt;As a follow up to the two previous 
+&lt;a href=&#34;../googles-security-conferencejournal-ranking-2016/&#34;&gt;posts&lt;/a&gt; on the 
+&lt;a href=&#34;../security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2017 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. Google also now added a &amp;ldquo;Classic Papers&amp;rdquo; category for papers (
+&lt;a href=&#34;https://scholar.google.com.sg/citations?view_op=list_classic_articles&amp;amp;amp;hl=en&amp;amp;amp;by=2006&amp;amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;)&amp;mdash;but there was essentially nothing in that which I recognized.&lt;/p&gt;
+&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=Pg42P_rbavwJ.2017&#34;&gt;ACM Symposium on Computer and Communications Security &lt;/a&gt;(71)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=INF_DsfwVdsJ.2017&#34;&gt;IEEE Symposium on Security and Privacy&lt;/a&gt; (68, +1 position)&lt;/li&gt;
@@ -473,43 +505,44 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
 &lt;li&gt;International Conference on Financial Cryptography and Data Security (35, not in top 15 last year)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=N1UH-idNKnIJ.2017&#34;&gt;Theory of cryptography&lt;/a&gt; (34)&lt;/li&gt;
 &lt;li&gt;Workshop on Cryptographic Hardware and Embedded Systems (CHES) (33)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=3VLtGPwkq54J.2017&#34;&gt;ACM Symposium on Information, Computer and Communications Security (ASIACCS)&lt;/a&gt; (31)
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=3VLtGPwkq54J.2017&#34;&gt;ACM Symposium on Information, Computer and Communications Security (ASIACCS)&lt;/a&gt; (31)&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/ol&gt;
 &lt;p&gt;Some other honourable mentions where I published before, am involved, or consider submitting:&lt;/p&gt;
-&lt;ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=rSFezoMlQZkJ.2017&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM) &lt;/a&gt;(80)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=HKQoOwyk8SQJ.2017&#34;&gt;Computer Networks&lt;/a&gt; (54)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=0mhk3_x__KIJ.2017&#34;&gt;International Conference on Mobile systems, applications, and services&lt;/a&gt; (MOBISYS) (47)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=CYo1GjC2fW8J.2017&#34;&gt;Annual International Conference on Mobile computing and networking (Mobicom)&lt;/a&gt; (45)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pkDnymGAC58J.2017&#34;&gt;International Conference on Dependable Systems and Networks (DSN)&lt;/a&gt; (32)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=eLhWa3qzEDsJ.2017&#34;&gt;ACM Symposium on Applied Computing (SAC)&lt;/a&gt; (32, but only small security track)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=88oopSfS28MJ.2017&#34;&gt;Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt; (29)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=x1AY1yaO1mQJ.2017&#34;&gt;European Conference on Research in Computer Security&lt;/a&gt; (ESORICS) (28)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LWRwHw7mGBMJ.2017&#34;&gt;ACM conference on Data and Application Security and Privacy (CODASPY)&lt;/a&gt; (25)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GtwA7m_XqZUJ.2017&#34;&gt; International Conference on Cyber-Physical Systems (ICCPS)&lt;/a&gt; (23)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JDO_KUA4CYMJ.2017&#34;&gt;Wireless Network Security&lt;/a&gt; (WISEC) (21)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=826ERjda8dUJ.2017&#34;&gt;Symposium on Research in Attacks, Intrusions and Defenses (RAID)&lt;/a&gt; (19)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=XMT5iZMNh1MJ.2017&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=mDgNlZgOboEJ.2017&#34;&gt; (18)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=TG-6tNCI7d0J.2017&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE) &lt;/a&gt;(14)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=mDgNlZgOboEJ.2017&#34;&gt;Network and Systems Security (NSS)&lt;/a&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=XMT5iZMNh1MJ.2017&#34;&gt; (13)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=Two3itQ-Tm8J.2017&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)&lt;/a&gt; (13)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2017&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (13)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LIYEKQ4Mf5YJ.2017&#34;&gt;Conference on Formal Engineering Methods (ICFEM)&lt;/a&gt; (12)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=qiszAbdiCtkJ.2017&#34;&gt;Conference on Security and Privacy in Communication Networks (SecureComm&lt;/a&gt;) (10)
+&lt;ol&gt;
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=rSFezoMlQZkJ.2017&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM) &lt;/a&gt;(80)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=HKQoOwyk8SQJ.2017&#34;&gt;Computer Networks&lt;/a&gt; (54)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=0mhk3_x__KIJ.2017&#34;&gt;International Conference on Mobile systems, applications, and services&lt;/a&gt; (MOBISYS) (47)
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=CYo1GjC2fW8J.2017&#34;&gt;Annual International Conference on Mobile computing and networking (Mobicom)&lt;/a&gt; (45)
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pkDnymGAC58J.2017&#34;&gt;International Conference on Dependable Systems and Networks (DSN)&lt;/a&gt; (32)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=eLhWa3qzEDsJ.2017&#34;&gt;ACM Symposium on Applied Computing (SAC)&lt;/a&gt; (32, but only small security track)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=88oopSfS28MJ.2017&#34;&gt;Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt; (29)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=x1AY1yaO1mQJ.2017&#34;&gt;European Conference on Research in Computer Security&lt;/a&gt; (ESORICS) (28)
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LWRwHw7mGBMJ.2017&#34;&gt;ACM conference on Data and Application Security and Privacy (CODASPY)&lt;/a&gt; (25)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GtwA7m_XqZUJ.2017&#34;&gt; International Conference on Cyber-Physical Systems (ICCPS)&lt;/a&gt; (23)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JDO_KUA4CYMJ.2017&#34;&gt;Wireless Network Security&lt;/a&gt; (WISEC) (21)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=826ERjda8dUJ.2017&#34;&gt;Symposium on Research in Attacks, Intrusions and Defenses (RAID)&lt;/a&gt; (19)
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=XMT5iZMNh1MJ.2017&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=mDgNlZgOboEJ.2017&#34;&gt; (18)&lt;/a&gt;
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=TG-6tNCI7d0J.2017&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE) &lt;/a&gt;(14)
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=mDgNlZgOboEJ.2017&#34;&gt;Network and Systems Security (NSS)&lt;/a&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=XMT5iZMNh1MJ.2017&#34;&gt; (13)&lt;/a&gt;
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=Two3itQ-Tm8J.2017&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)&lt;/a&gt; (13)
+1. &lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2017&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (13)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LIYEKQ4Mf5YJ.2017&#34;&gt;Conference on Formal Engineering Methods (ICFEM)&lt;/a&gt; (12)
+1. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=qiszAbdiCtkJ.2017&#34;&gt;Conference on Security and Privacy in Communication Networks (SecureComm&lt;/a&gt;) (10)
 &lt;/ol&gt;
 &lt;p&gt;There are some interesting observations I made from the ranking (updated from last iteration):&lt;/p&gt;
-&lt;ol&gt;&lt;/li&gt;
-&lt;li&gt;The h5 index of the top venues increased by about 5-9 points, with S&amp;amp;P returning to place 2. For CCS, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.&lt;/li&gt;
-&lt;li&gt;Computer &amp;amp; Security joined the other two journals in the top ten list&lt;/li&gt;
-&lt;li&gt;Financial Cryptography and Data Security makes its first entry into top 15, probably due to Bitcoin/blockchain/smart contract related content and FinTec&lt;/li&gt;
-&lt;li&gt;ArXiv is in the list, but can hardly be counted as &amp;#8220;peer reviewed&amp;#8221;.&lt;/li&gt;
-&lt;li&gt;5 of the top 14 venues (w/o Arxiv) have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
-&lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 110, for top 10-20 between 40 and 65&lt;/li&gt;
-&lt;li&gt;Clearly, for h5 it helps to accept more papers (see ArXiv and Infocom rank). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34;&gt;here&lt;/a&gt;).
-&lt;/ol&gt;&lt;/li&gt;
+&lt;ol&gt;
+1. The h5 index of the top venues increased by about 5-9 points, with S&amp;amp;P returning to place 2. For CCS, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.
+1. Computer &amp;amp; Security joined the other two journals in the top ten list
+1. Financial Cryptography and Data Security makes its first entry into top 15, probably due to Bitcoin/blockchain/smart contract related content and FinTec
+1. ArXiv is in the list, but can hardly be counted as &amp;#8220;peer reviewed&amp;#8221;.
+1. 5 of the top 14 venues (w/o Arxiv) have a strong crypto focus, further limiting the options for general security papers to be published at.
+1. Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 110, for top 10-20 between 40 and 65
+1. Clearly, for h5 it helps to accept more papers (see ArXiv and Infocom rank). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34;&gt;here&lt;/a&gt;).
 &lt;/ol&gt;
-
-&lt;p&gt;See also: &lt;a href=&#34;https://aminer.org/ranks/conf&#34;&gt;aminer conference ranking&lt;/a&gt;, &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE2014 conference ranking&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See also: 
+&lt;a href=&#34;https://aminer.org/ranks/conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aminer conference ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CORE2014 conference ranking&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -518,7 +551,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/scy-phy-systems-week-2017-completed/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/scy-phy-systems-week-2017-completed/</guid>
-      <description>&lt;p&gt;We just concluded our main event for this year, the Secure Cyber-Physical Systems Week at SUTD. This year, I was leading the organization for the event. We had about 160 registered attendants, 5 panels with total of 15 panelists, a keynote by Neil Hershfield, Deputy Director of ICS-CERT, and 4 invited talks. We also had another S3 event, in which invited teams attack our testbeds to test our detection mechanisms. Overall, the event was quite successful! More info &lt;a href=&#34;https://2017.scy-phy.net/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;We just concluded our main event for this year, the Secure Cyber-Physical Systems Week at SUTD. This year, I was leading the organization for the event. We had about 160 registered attendants, 5 panels with total of 15 panelists, a keynote by Neil Hershfield, Deputy Director of ICS-CERT, and 4 invited talks. We also had another S3 event, in which invited teams attack our testbeds to test our detection mechanisms. Overall, the event was quite successful! More info 
+&lt;a href=&#34;https://2017.scy-phy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -527,8 +561,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/think-in-event-at-scy-phy-systems-week/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/think-in-event-at-scy-phy-systems-week/</guid>
-      <description>&lt;p&gt;We have finalized our selection of panelists for the 2-day Think-In event at next week’s &lt;a href=&#34;https://2017.scy-phy.net/&#34;&gt;SCy-Phy Systems week&lt;/a&gt;. We were fortunate to find a set of excellent speakers, for in total 5 panels&lt;/p&gt;
-
+      <description>&lt;p&gt;We have finalized our selection of panelists for the 2-day Think-In event at next week’s 
+&lt;a href=&#34;https://2017.scy-phy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCy-Phy Systems week&lt;/a&gt;. We were fortunate to find a set of excellent speakers, for in total 5 panels&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Keynote: Neil Hershfield, Deputy Director, ICS-CERT&lt;/li&gt;
 &lt;li&gt;Threats Panel: Neil Hershfield, Marina Krotofil, and Soon Chia Lim&lt;/li&gt;
@@ -537,10 +571,9 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
 &lt;li&gt;Defences Panel: Mauro Conti, Gerhard Hancke, and Biplab Sikdar&lt;/li&gt;
 &lt;li&gt;Translating to Industry Panel: Jorge Cuellar, Matthieu Lec’Hvien, and David Ong&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;In addition, we will have invited talks by Marina, Dieter, Sjouke, and Sahra on Wednesday and Thursday.&lt;/p&gt;
-
-&lt;p&gt;The program sheet can be found &lt;a href=&#34;https://2017.scy-phy.net/program.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The program sheet can be found 
+&lt;a href=&#34;https://2017.scy-phy.net/program.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -549,7 +582,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/kopipacket-ranks-first-in-cross-ctf-qualifiers/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/kopipacket-ranks-first-in-cross-ctf-qualifiers/</guid>
-      <description>&lt;p&gt;A three-member selection of our Kopipacket team scored first place at the &lt;a href=&#34;https://www.crossctf.com/&#34;&gt;Cross-CTF qualifiers&lt;/a&gt;. Congratulations Flavio, John, and Randy!&lt;/p&gt;
+      <description>&lt;p&gt;A three-member selection of our Kopipacket team scored first place at the 
+&lt;a href=&#34;https://www.crossctf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cross-CTF qualifiers&lt;/a&gt;. Congratulations Flavio, John, and Randy!&lt;/p&gt;
 </description>
     </item>
     
@@ -558,7 +592,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/first-place-for-kopipacket-at-ics-scada-hacking-competition/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/first-place-for-kopipacket-at-ics-scada-hacking-competition/</guid>
-      <description>&lt;p&gt;Kopipacket placed first in &lt;a href=&#34;http://singapore.icscybersecurityconference.com/event/AT61/icsscada-hacking-competition-ctf-part-1&#34;&gt;ICS/SCADA Hacking Competition&lt;/a&gt; at the 2017 Singapore ICS Cyber Security Conference. Congratulations to our members Eric, Juan and Athul (all working with Prof. Ochoa)!&lt;/p&gt;
+      <description>&lt;p&gt;Kopipacket placed first in 
+&lt;a href=&#34;http://singapore.icscybersecurityconference.com/event/AT61/icsscada-hacking-competition-ctf-part-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS/SCADA Hacking Competition&lt;/a&gt; at the 2017 Singapore ICS Cyber Security Conference. Congratulations to our members Eric, Juan and Athul (all working with Prof. Ochoa)!&lt;/p&gt;
 </description>
     </item>
     
@@ -567,10 +602,9 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/best-paper-award-at-cpss-17/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/best-paper-award-at-cpss-17/</guid>
-      <description>&lt;p&gt;Our paper “SIPHON: Towards Scalable High-Interaction Physical Honeypots” won the best paper award at the 3rd ACM Cyber-Physical System Security Workshop (CPSS), co-located with AsiaCCS. The paper was co-authored by Juan Guarnizo, Amit Tambe, Suman Sankar Bhunia, Martín Ochoa, Asaf Shabtai, Yuval Elovici. The paper is available &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=3055192&#34;&gt;here&lt;/a&gt;, and as pre-print on arxiv.&lt;/p&gt;
-
+      <description>&lt;p&gt;Our paper “SIPHON: Towards Scalable High-Interaction Physical Honeypots” won the best paper award at the 3rd ACM Cyber-Physical System Security Workshop (CPSS), co-located with AsiaCCS. The paper was co-authored by Juan Guarnizo, Amit Tambe, Suman Sankar Bhunia, Martín Ochoa, Asaf Shabtai, Yuval Elovici. The paper is available 
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=3055192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and as pre-print on arxiv.&lt;/p&gt;
 &lt;p&gt;From the abstract:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;In recent years, the emerging Internet-of-Things (IoT) has led to rising concerns about the security of networked embedded devices. In this work, we propose the SIPHON architecture—a Scalable high-Interaction Honeypot platform for IoT devices. Our architecture leverages IoT devices that are physically at one location and are connected to the Internet through so-called wormholes distributed around the world. The resulting architecture allows exposing few physical devices over a large number of geographically distributed IP addresses. We demonstrate the proposed architecture in a large scale experiment with 39 wormhole instances in 16 cities in 9 countries. Based on this setup, five physical IP cameras, one NVR and one IP printer are presented as 85 real IoT devices on the Internet, attracting a daily traffic of 700MB for a period of two months. A preliminary analysis of the collected traffic indicates that devices in some cities attracted significantly more traffic than others (ranging from 600 000 incoming TCP connections for the most popular destination to less than 50 000 for the least popular). We recorded over 400 brute-force login attempts to the web-interface of our devices using a total of 1826 distinct credentials, from which 11 attempts were successful. Moreover, we noted login attempts to Telnet and SSH ports some of which used credentials found in the recently disclosed Mirai malware.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -583,9 +617,7 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cans-2017/</guid>
       <description>&lt;p&gt;I am on the TPC for the Conference on Cryptology and Network Security (CANS), and the CfP was released. CANS 2017 will be held in Hong Kong on November 30-December 2.&lt;/p&gt;
-
 &lt;p&gt;The submission should be at most 16 pages (LNCS). The conference will also consider short submissions of up to 8 pages for results that are preliminary or that simply require few pages to describe. Authors of regular submitted papers will indicate at the time of submission whether they would like their paper to also be considered for publication as a short paper (8 proceedings pages).&lt;/p&gt;
-
 &lt;p&gt;Important dates: Abstract deadline July 18, 2017, full paper on July 25&lt;/p&gt;
 </description>
     </item>
@@ -595,7 +627,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/scy-phy-systems-week-2017/</link>
       <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/scy-phy-systems-week-2017/</guid>
-      <description>&lt;p&gt;We will organize the third SCy-Phy systems week in June, from 5 June 2017 to 9 June 2017. As part of the event, we will have a 2 day Think-In session with panelists and interactive discussions, and another iteration of the S3 event (this year’s name: S317). At the S317, international teams from academia and industry will try to attack our Industrial Control System testbeds. More information &lt;a href=&#34;https://2017.scy-phy.net/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;We will organize the third SCy-Phy systems week in June, from 5 June 2017 to 9 June 2017. As part of the event, we will have a 2 day Think-In session with panelists and interactive discussions, and another iteration of the S3 event (this year’s name: S317). At the S317, international teams from academia and industry will try to attack our Industrial Control System testbeds. More information 
+&lt;a href=&#34;https://2017.scy-phy.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -604,12 +637,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
       <link>https://tippenhauer.de/post/visit-by-ahmad-reza-sadeghi/</link>
       <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/visit-by-ahmad-reza-sadeghi/</guid>
-      <description>
-
-&lt;p&gt;We are hosting Professor Ahmad-Reza Sadeghi from TU Darmstadt at SUTD on March 23. He will give a talk at 3:30 in LT3, titled &lt;em&gt;Things, Trouble, Trust: On Building Trust in IoT Systems&lt;/em&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;We are hosting Professor Ahmad-Reza Sadeghi from TU Darmstadt at SUTD on March 23. He will give a talk at 3:30 in LT3, titled &lt;em&gt;Things, Trouble, Trust: On Building Trust in IoT Systems&lt;/em&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract:&lt;/h4&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The emerging and much-touted Internet of Things (IoT) under the slogan “connecting the unconnected” presents a variety of security and privacy challenges in a broad spectrum of application domains, ranging from large-scale smart energy grids to smart vehicles, homes and personal wearable devices. Prominent among these challenges is the establishment of trust in remote IoT devices typically attained via remote attestation, a distinct security service that aims to ascertain the current state of potentially compromised remote devices.
 However, recent studies have revealed many security vulnerabilities in embedded devices that are core components of the IoT. On the other hand, established protection measures for traditional computing platforms and networks may not always directly apply to IoT due to their diversity, resource constrains and large scale.
@@ -632,7 +661,8 @@ In this talk we survey the landscape of the recent research on security architec
       <link>https://tippenhauer.de/post/yavw/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/yavw/</guid>
-      <description>&lt;p&gt;As part of the exercises for my 50.020 Security class, we needed a simple setup to test XSS, SQL injection, and command injection attacks. Instead of using solutions such as the standard OWASP webserver, this year I decided to write my own minimal application  (using Python/Flask) which I called YAVW.  Using Flask resulted in a very small codebase, which should be easier to understand for students. In case this is useful for others, I made it public &lt;a href=&#34;https://github.com/noleti/yavw&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;As part of the exercises for my 50.020 Security class, we needed a simple setup to test XSS, SQL injection, and command injection attacks. Instead of using solutions such as the standard OWASP webserver, this year I decided to write my own minimal application  (using Python/Flask) which I called YAVW.  Using Flask resulted in a very small codebase, which should be easier to understand for students. In case this is useful for others, I made it public 
+&lt;a href=&#34;https://github.com/noleti/yavw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -641,10 +671,11 @@ In this talk we survey the landscape of the recent research on security architec
       <link>https://tippenhauer.de/post/2016-in-numbers/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/2016-in-numbers/</guid>
-      <description>&lt;p&gt;As a follow-up to last year’s &lt;a href=&#34;..//google-scholar-milestone/&#34;&gt;post&lt;/a&gt;, a quick personal note on my scholar profile. At the end of January 2017, my publications reached 700 citations according to &lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34;&gt;Google scholar&lt;/a&gt; (vs. 500 at this time last year). Google scholar currently lists 43 publications (vs 22 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 138 cites, and the Wi-Fi localization paper also crossed the 100 cite threshold with total of 110 cites. My h-index has gone down to 11 due to some removal of cites (I assume).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34;&gt;Semantic scholar&lt;/a&gt; lists my profile with 1008 cites. They seem to extrapolate yearly cites. They also indicate how many papers were strongly influenced by my work (7), which seems like a nice feature.&lt;/p&gt;
-
+      <description>&lt;p&gt;As a follow-up to last year’s 
+&lt;a href=&#34;..//google-scholar-milestone/&#34;&gt;post&lt;/a&gt;, a quick personal note on my scholar profile. At the end of January 2017, my publications reached 700 citations according to 
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. 500 at this time last year). Google scholar currently lists 43 publications (vs 22 last year, most peer-reviewed), and one US patent. Our first GPS paper currently has 138 cites, and the Wi-Fi localization paper also crossed the 100 cite threshold with total of 110 cites. My h-index has gone down to 11 due to some removal of cites (I assume).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists my profile with 1008 cites. They seem to extrapolate yearly cites. They also indicate how many papers were strongly influenced by my work (7), which seems like a nice feature.&lt;/p&gt;
 &lt;p&gt;Other numbers for 2016: Github lists 807 commits to repositories. I received 16,623 mails on my university account (after removal of spam). Per working day, that would make around 64 mails. I sent 4,400 mails (18 per working day). Both numbers are quite close to my 2015 statistics, so at least it’s not getting worse.&lt;/p&gt;
 </description>
     </item>
@@ -654,12 +685,11 @@ In this talk we survey the landscape of the recent research on security architec
       <link>https://tippenhauer.de/post/cfp-esorics-2017/</link>
       <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-esorics-2017/</guid>
-      <description>&lt;p&gt;I am in the TPC of ESORICS 2017, and the &lt;a href=&#34;https://www.ntnu.edu/web/esorics2017/call-for-papers&#34;&gt;call for papers&lt;/a&gt; has been released. The conference will be held 11-15 September in Oslo.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am in the TPC of ESORICS 2017, and the 
+&lt;a href=&#34;https://www.ntnu.edu/web/esorics2017/call-for-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt; has been released. The conference will be held 11-15 September in Oslo.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ESORICS is the annual European research event in Computer Security. The Symposium started in 1990 and has been held in several European countries, attracting a wide international audience from both the academic and industrial communities. Papers offering novel research contributions in computer security are solicited for submission to the Symposium. The primary focus is on original, high quality, unpublished research and implementation experiences. We encourage submissions of papers discussing industrial research and development.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Paper submission deadline: April 19&lt;/p&gt;
 </description>
     </item>
@@ -670,12 +700,11 @@ In this talk we survey the landscape of the recent research on security architec
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/mssd-program-at-sutd/</guid>
       <description>&lt;p&gt;I am involved in designing SUTD’s upcoming Masters’ in Security by Design (MSSD) Program. This will be ISTD’s first Masters’ program, the start is scheduled to be in September 2017. Applications can be submitted now on our website linked above. About the program:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The MSSD programme is one-of-a-kind in that it focuses on bringing cybersecurity at the design stage of critical infrastructure and enterprise networks. This focus enables the training of a special type of engineer who can not only contribute to the security of organizations that do online business, but also to the security of large scale public infrastructures such as power grid, water treatment and distribution, transportation, and oil and natural gas processing.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;More information can be found &lt;a href=&#34;https://istd.sutd.edu.sg/mssd/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information can be found 
+&lt;a href=&#34;https://istd.sutd.edu.sg/mssd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -695,9 +724,10 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
                     d88            d88                                                 
                     ?8P            ?8P                                                 
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Together with &lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34;&gt;Martin Ochoa&lt;/a&gt;, I founded SUTD’s first CTF team Kopipacket in January 2016. While we were pretty busy with other &lt;a href=&#34;https://tippenhauer.de/scy-phy-systems-week-2016/&#34;&gt;things&lt;/a&gt; for most of the summer, we still managed to participate in 12 CTF events (with placements between 11th and 893rd). Overall, we end the year on place 209 of the global CTF team &lt;a href=&#34;https://ctftime.org/team/21875&#34;&gt;leaderboard&lt;/a&gt;. In Singapore, we placed third (behind narwhals (126) and greyhats (157)).&lt;/p&gt;
-
+&lt;p&gt;Together with 
+&lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Ochoa&lt;/a&gt;, I founded SUTD’s first CTF team Kopipacket in January 2016. While we were pretty busy with other 
+&lt;a href=&#34;https://tippenhauer.de/scy-phy-systems-week-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;things&lt;/a&gt; for most of the summer, we still managed to participate in 12 CTF events (with placements between 11th and 893rd). Overall, we end the year on place 209 of the global CTF team 
+&lt;a href=&#34;https://ctftime.org/team/21875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leaderboard&lt;/a&gt;. In Singapore, we placed third (behind narwhals (126) and greyhats (157)).&lt;/p&gt;
 &lt;p&gt;We are still looking for interested players – ideally from SUTD, but we also welcome outsiders.&lt;/p&gt;
 </description>
     </item>
@@ -707,21 +737,18 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/cfp-wisec-2017/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-wisec-2017/</guid>
-      <description>&lt;p&gt;I’m on the TPC for WiSec, and the &lt;a href=&#34;http://wisec2017.ccs.neu.edu/call-for-papers-posters-demos.html&#34;&gt;call for papers&lt;/a&gt; has been released:&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the TPC for WiSec, and the 
+&lt;a href=&#34;http://wisec2017.ccs.neu.edu/call-for-papers-posters-demos.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt; has been released:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the security and privacy of mobile software platforms, usable security and privacy, biometrics, cryptography, and the increasingly diverse range of mobile or wireless applications such as Internet of Things, and Cyber-Physical Systems. The conference welcomes both theoretical as well as systems contributions.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;This year, there are a couple of interesting formats:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Full and short papers (&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt; pages ACM format)&lt;/li&gt;
+&lt;li&gt;Full and short papers (12/6 pages ACM format)&lt;/li&gt;
 &lt;li&gt;Opinion papers (3 pages)&lt;/li&gt;
 &lt;li&gt;Reproducibility label (for results reproduced by third party)&lt;/li&gt;
 &lt;li&gt;WiSec also solicits submission of posters and demos.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Abstract submission: March 13, 2017&lt;/p&gt;
 </description>
     </item>
@@ -731,40 +758,51 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/cfp-sems-2017/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-sems-2017/</guid>
-      <description>&lt;p&gt;I am on the TPC of SEMS 2017, held in between with IEEE S&amp;amp;P and EUROCRYPT 2017 in Paris. The CfP was just released. More info &lt;a href=&#34;http://sems2017.cs.ru.nl/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am on the TPC of SEMS 2017, held in between with IEEE S&amp;amp;P and EUROCRYPT 2017 in Paris. The CfP was just released. More info 
+&lt;a href=&#34;http://sems2017.cs.ru.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Embedded and mobile devices that provide security and crypto functionalities, and manage private and confidential data are omnipresent in our daily lives. Examples of such devices range from smart cards and RFID tags, to mobile phones, tablets, and IoT devices. Ensuring the security and privacy of these devices is a challenging problem, as witnessed by recent breaking of crypto and security systems used in mobile phones, car keys, and RFID-enabled cards. Typical threats to extract the keys include side-channel and fault analysis. Additionally, the vulnerabilities of the devices imply also privacy concerns. The operating systems supporting some of those devices, particularly mobile phones and tablets, but also IoT ones, have become very complex. Various sorts of malware present a constant threat for users. Although measures like application sandboxing take place, they also open the court for new attacks by constantly collecting and organizing sensitive information about the user.&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;The workshop seeks submissions from academia and industry presenting novel research results on the following topics of interest:&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Security architectures for embedded and mobile systems&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Physical (side-channel and fault) attacks on embedded and mobile systems&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Hardware security of mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– (mobile) Malware detection and prevention&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Machine learning applications to highlight possible threats to user privacy&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Privacy-preserving issues for mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Secure localization and location privacy for mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Security and privacy in the Internet of Things&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Secure execution environments (e.g., TrustZone, TPMs) on mobile devices&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;– Sensor spoofing attacks&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;The one-day workshop will include presentation of peer-reviewed papers and two renowned keynote speakers, Prof. Srdjan Capkun (ETH Zurich, Switzerland) and Prof. Bart Preneel (KU Leuven, Belgium).&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Accepted papers will be published by IEEE as the proceedings in “IEEE EuroS&amp;amp;P Workshops”.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Important dates:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Submission deadline: 17 December 2016&lt;/li&gt;
 &lt;li&gt;Notification: 20 January 2017&lt;/li&gt;
@@ -779,7 +817,8 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/keynote-at-rfidsec-2016/</link>
       <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/keynote-at-rfidsec-2016/</guid>
-      <description>&lt;p&gt;I will give a keynote talk at &lt;a href=&#34;http://rfidsec2016.org/&#34;&gt;RFIDsec&lt;/a&gt;, December 1, in Hong Kong. The tentative title is “IT+OT=IOT? On Security for Industrial Control Systems”&lt;/p&gt;
+      <description>&lt;p&gt;I will give a keynote talk at 
+&lt;a href=&#34;http://rfidsec2016.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFIDsec&lt;/a&gt;, December 1, in Hong Kong. The tentative title is “IT+OT=IOT? On Security for Industrial Control Systems”&lt;/p&gt;
 </description>
     </item>
     
@@ -789,8 +828,8 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/open-positions-in-nse-project/</guid>
       <description>&lt;p&gt;We have several open positions in the National Science Experiment: Research Assistant (Data analytics, Python), Web Dev (MEAN stack), Research Assistant/PostDoc (Data analytics).&lt;/p&gt;
-
-&lt;p&gt;More info on our new &lt;a href=&#34;http://research.nse.sg/&#34;&gt;research webpage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info on our new 
+&lt;a href=&#34;http://research.nse.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research webpage&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -800,8 +839,8 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/10-years-of-system-security-circus/</guid>
       <description>&lt;p&gt;Very nice analysis of academic research on security as published in the Top4 venues in the last 10 years. Worth a read for everyone in the community. I was happy to see that I made it into the extended researchers list on position ~611 (together with many others).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://s3.eurecom.fr/~balzarot/notes/top4/index.html&#34;&gt;http://s3.eurecom.fr/~balzarot/notes/top4/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://s3.eurecom.fr/~balzarot/notes/top4/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://s3.eurecom.fr/~balzarot/notes/top4/index.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -810,12 +849,11 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <link>https://tippenhauer.de/post/cfp-cpss-2017/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cpss-2017/</guid>
-      <description>&lt;p&gt;I am on the PC of the Cyber-Physical System Security Workshop (CPSS), and the &lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss17/&#34;&gt;CfP&lt;/a&gt; was just released&lt;/p&gt;
-
+      <description>&lt;p&gt;I am on the PC of the Cyber-Physical System Security Workshop (CPSS), and the 
+&lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt; was just released&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cyber-Physical Systems (CPS) consist of large-scale interconnected systems of heterogeneous components interacting with their physical environments. There are a multitude of CPS devices and applications being deployed to serve critical functions in our lives. The security of CPS becomes extremely important. This workshop will provide a platform for professionals from academia, government, and industry to discuss how to address the increasing security challenges facing CPS. Besides invited talks, we also seek novel submissions describing theoretical and practical security solutions to CPS. Papers that are pertinent to the security of embedded systems, SCADA, smart grid, and critical infrastructure networks are all welcome, especially in the domains of energy and transportation.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Submission deadline is December 1. CPSS will be held in conjunction with ACM AsiaCCS’17
 Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
 </description>
@@ -826,7 +864,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/tuhh-alumni-chapter-in-singapore-founded/</link>
       <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/tuhh-alumni-chapter-in-singapore-founded/</guid>
-      <description>&lt;p&gt;Yesterday, we met with delegates from my alma mater, the &lt;a href=&#34;https://www.tuhh.de/alt/tuhh/startpage.html&#34;&gt;Hamburg University of Technology (TUHH)&lt;/a&gt; to officially found the Singaporean Alumni Chapter (second one in Asia, following Shanghai). As president of the chapter I plan to organize regular meet-ups with TUHH affiliates, and support them with advice and networking if needed.&lt;/p&gt;
+      <description>&lt;p&gt;Yesterday, we met with delegates from my alma mater, the 
+&lt;a href=&#34;https://www.tuhh.de/alt/tuhh/startpage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamburg University of Technology (TUHH)&lt;/a&gt; to officially found the Singaporean Alumni Chapter (second one in Asia, following Shanghai). As president of the chapter I plan to organize regular meet-ups with TUHH affiliates, and support them with advice and networking if needed.&lt;/p&gt;
 </description>
     </item>
     
@@ -835,12 +874,11 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/batadal-announced/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/batadal-announced/</guid>
-      <description>&lt;p&gt;We have now officially announced the &lt;a href=&#34;http://batadal.net/&#34;&gt;BATADAL&lt;/a&gt; competition.&lt;/p&gt;
-
+      <description>&lt;p&gt;We have now officially announced the 
+&lt;a href=&#34;http://batadal.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BATADAL&lt;/a&gt; competition.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The BATtle of the Attack Detection ALgorithms (BATADAL) will objectively compare the performance of algorithms for the detection of cyber attacks in water distribution systems. Participants will contribute an attack detection algorithm for a given water network following a set of rules that determine the exact goal of the algorithms.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Training datasets are now available. Deadline for first participant submissions is October 2 2016&lt;/p&gt;
 </description>
     </item>
@@ -851,7 +889,6 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/svn-over-ssh/</guid>
       <description>&lt;p&gt;&lt;em&gt;Disclaimer: might only be interesting to SVN users&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;I use SVN for my personal documents, research and teaching material. I finally got around to configure the server in what I expect to be a secure and usuable setup for multiple users. In particular, I am now using SSH for authentication, without giving users a shell or requiring software like apache to be installed. The setup is super easy, and I would like to thank this blog for the detailed and helpful instructions. In the end, you just create SSH public/private keys for your SVN users, add an additional dummy linux user, set up the keys in that user’s SSH config in a specific way, and create corresponding SVN users with dummy passwords. Then, everything works out of the box. Way better than going with plain SVN or using monsters like apache. It only took 10 years to realize that this is possible 😉&lt;/p&gt;
 </description>
     </item>
@@ -862,14 +899,15 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/bibrest-restful-bibtex-server/</guid>
       <description>&lt;p&gt;I recently got bibrest into a usable state, a pet project that is aimed at providing dynamic .bib files for websites. The goal is to have one central point to keep all the publication data, which then gets automatically updated on various websites. The secret long term goal is to use bibrest to keep all of ISTDs or even SUTDs publication data. As bibrest is using an HTTP api, it should be easy to integrate in other tools (e.g. to produce yearly reports). The RESTful part is currently limited to way the resources that are represented, and GET. I plan to add POST/PUT/PATCH in the future, but that will then also require authentication.&lt;/p&gt;
-
-&lt;p&gt;In particular, I use bibrest to provide the .bib data for the &lt;a href=&#34;https://tippenhauer.de/publications/&#34;&gt;publication list&lt;/a&gt; on this webpage, together with the lists for individual projects (e.g., &lt;a href=&#34;https://tippenhauer.de/research/cypro/&#34;&gt;here&lt;/a&gt;). I also use it for similar lists on the &lt;a href=&#34;http://scy-phy.net/publications.html&#34;&gt;scy-phy webpage&lt;/a&gt;. The API allows to query a large .bib database for a list of authors, projects (which are stored as new field in the .bib file), and years. Results are sorted chronologically or anti-chronologically. Example calls to the API look like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bibs.scy-phy.net/bibs?author=tippenhauer,rocchetto&amp;amp;project=aspire&amp;amp;start=2013&amp;amp;inverted=True&#34;&gt;http://bibs.scy-phy.net/bibs?author=tippenhauer,rocchetto&amp;amp;project=aspire&amp;amp;start=2013&amp;amp;inverted=True&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;In particular, I use bibrest to provide the .bib data for the 
+&lt;a href=&#34;https://tippenhauer.de/publications/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication list&lt;/a&gt; on this webpage, together with the lists for individual projects (e.g., 
+&lt;a href=&#34;https://tippenhauer.de/research/cypro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). I also use it for similar lists on the 
+&lt;a href=&#34;http://scy-phy.net/publications.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scy-phy webpage&lt;/a&gt;. The API allows to query a large .bib database for a list of authors, projects (which are stored as new field in the .bib file), and years. Results are sorted chronologically or anti-chronologically. Example calls to the API look like this:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://bibs.scy-phy.net/bibs?author=tippenhauer,rocchetto&amp;amp;project=aspire&amp;amp;start=2013&amp;amp;inverted=True&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://bibs.scy-phy.net/bibs?author=tippenhauer,rocchetto&amp;amp;project=aspire&amp;amp;start=2013&amp;amp;inverted=True&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The returned data is a bib.bib file with proper MIME type.&lt;/p&gt;
-
-&lt;p&gt;bibrest is based on python (flask+pybtex), and available as open source &lt;a href=&#34;http://github.com/noleti/bibrest&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;bibrest is based on python (flask+pybtex), and available as open source 
+&lt;a href=&#34;http://github.com/noleti/bibrest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -879,12 +917,11 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-rfidsec-2016/</guid>
       <description>&lt;p&gt;I am on the TPC for the 12th Workshop on RFID and IoT Security (RFIDsec) 2016, and the call for papers was just released. Submission Date is 12 September 2016.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Started in 2005, RFIDsec has become the premier venue devoted to security and privacy of Radio Frequency Identification (RFID). The nature of radio-enabled item identification and automatic data capture has significantly changed overthe years driven by the interest in overarching applications such as the Internet-of-Things and cyber-physical systems. As such, RFIDsec has also broadened its scope and seeks papers describing any contributions to security and privacy in any application area related to any constrained wireless devices, such as sensor nodes, smart wearables, contactless smart cards, programmable logic controllers (PLCs) and RFID tags.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;More details &lt;a href=&#34;http://rfidsec2016.org/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More details 
+&lt;a href=&#34;http://rfidsec2016.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -893,8 +930,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/cfp-aps-cps-2016/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-aps-cps-2016/</guid>
-      <description>&lt;p&gt;I’m on the PC for the “Automation Protocols Security in Cyber-Physical Systems” (APS-CPS), held in conjunction with ICNP  2016 in Singapore on Nov 8 2016 – &lt;a href=&#34;http://www.aps-cps.org/callforpapers.html&#34;&gt;link&lt;/a&gt;. The deadline was just extended to July 30.&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the PC for the “Automation Protocols Security in Cyber-Physical Systems” (APS-CPS), held in conjunction with ICNP  2016 in Singapore on Nov 8 2016 – 
+&lt;a href=&#34;http://www.aps-cps.org/callforpapers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;. The deadline was just extended to July 30.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The International Workshop on Automation Protocols Security in Cyber-Physical Systems (APS-CPS) seeks novel submissions describing practical and theoretical solutions to securing automation protocols. Submissions may represent any application area for APS-CPS. Hence, papers that are pertinent to the security of embedded systems, Internet of Things, SCADA Systems, Smart-Grid Systems, Critical Infrastructure Networks, Transportation Systems, Medical Devices are all welcome.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -906,16 +943,11 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/cfp-sg-crc-2017/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-sg-crc-2017/</guid>
-      <description>
-
-&lt;p&gt;I’m on the TPC for the Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) 2017, and the CfP was just released. The conference will be held in Singapore on 21-22 February 2017 at the National University of Singapore (NUS). More details here. The conference’s theme is “Systems Approach to Cyber Security”&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the TPC for the Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) 2017, and the CfP was just released. The conference will be held in Singapore on 21-22 February 2017 at the National University of Singapore (NUS). More details here. The conference’s theme is “Systems Approach to Cyber Security”&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This conference will bring together academics and practitioners from across the world to participate in a vibrant programme consisting of research papers, industrial best practices, and tools exhibition. This conference focus on techniques and methodologies oriented to construct resilient systems against cyber-attacks that will helps to construct safe execution environments, improving security of both hardware and software by means of using mathematical tools and engineering approaches for designing, verifying, and monitoring cyber physical systems.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Research Track Deadline: 1 October 2016&lt;/li&gt;
 &lt;li&gt;Practice Track Deadline: 8 October 2016&lt;/li&gt;
@@ -930,7 +962,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/open-positions-2016/</link>
       <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/open-positions-2016/</guid>
-      <description>&lt;p&gt;My SCy-Phy group is currently looking for at least one Post-Doc from October 2016 onwards. Potential projects are ASPIRE and ReSILIoT. For more information, see &lt;a href=&#34;https://tippenhauer.de/positions/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;My SCy-Phy group is currently looking for at least one Post-Doc from October 2016 onwards. Potential projects are ASPIRE and ReSILIoT. For more information, see 
+&lt;a href=&#34;https://tippenhauer.de/positions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -939,10 +972,10 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2016/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2016/</guid>
-      <description>&lt;p&gt;As a follow up to the previous  &lt;a href=&#34;../security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;post on the topic&lt;/a&gt;, here is the version with the newly released 2017 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
-
+      <description>&lt;p&gt;As a follow up to the previous  
+&lt;a href=&#34;../security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;post on the topic&lt;/a&gt;, here is the version with the newly released 2017 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=Pg42P_rbavwJ.2016&#34;&gt;ACM Symposium on Computer and Communications Security &lt;/a&gt;(62, +1 position)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=6UIvqBSMSUsJ.2016&#34;&gt;IEEE Transactions on Information Forensics and Security  &lt;/a&gt;(61, +2 positions)&lt;/li&gt;
@@ -959,9 +992,7 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
 &lt;li&gt;Computers &amp;amp; Security (32)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=3VLtGPwkq54J.2016&#34;&gt;ACM Symposium on Information, Computer and Communications Security (ASIACCS)&lt;/a&gt; (31)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Some other honourable mentions where I published before, am involved, or consider submitting:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=rSFezoMlQZkJ.2016&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM) &lt;/a&gt;(80)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=HKQoOwyk8SQJ.2016&#34;&gt;Computer Networks&lt;/a&gt; (50)&lt;/li&gt;
@@ -979,20 +1010,19 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=Two3itQ-Tm8J.2016&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing (CPSCom)&lt;/a&gt; (13)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=TG-6tNCI7d0J.2016&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE) &lt;/a&gt;(13)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;There are some interesting observations I made from the ranking (updated from last iteration):&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Oakland lost 2 positions to CCS and the best journal (Trans. Inf. Forens. &amp;amp; Sec.). NDSS gained 4 positions (with lots of Android themed publications it seems).&lt;/li&gt;
 &lt;li&gt;There are only two journals in the top ten list (like last year)&lt;/li&gt;
-&lt;li&gt;ArXiv is in the list, but can hardly be counted as &amp;#8220;peer reviewed&amp;#8221;.&lt;/li&gt;
+&lt;li&gt;ArXiv is in the list, but can hardly be counted as “peer reviewed”.&lt;/li&gt;
 &lt;li&gt;5 of the top 11 venues (w/o Arxiv) have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
 &lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 60 and 100, for top 10-20 between 40 and 50&lt;/li&gt;
 &lt;li&gt;Clearly, for h5 it helps to accept more papers (see ArXiv and Infocom rank). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;Again, I checked for the placing of my papers in the conferences&amp;#8217; respective &amp;#8220;last 5 year highscore&amp;#8221;. My GPS paper at CCS is the venue&amp;#8217;s top 27 paper of the last 5 years. My IFIP wireless days paper is the&lt;em&gt; most cited of that venue&lt;/em&gt; for the last 5 years. Our Wireless signal manipulation paper is in Top 20 of Esorics.&lt;/li&gt;
+&lt;li&gt;Again, I checked for the placing of my papers in the conferences’ respective “last 5 year highscore”. My GPS paper at CCS is the venue’s top 27 paper of the last 5 years. My IFIP wireless days paper is the&lt;em&gt; most cited of that venue&lt;/em&gt; for the last 5 years. Our Wireless signal manipulation paper is in Top 20 of Esorics.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;See also: &lt;a href=&#34;https://aminer.org/ranks/conf&#34;&gt;aminer conference ranking&lt;/a&gt;, &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE2014 conference ranking&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See also: 
+&lt;a href=&#34;https://aminer.org/ranks/conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aminer conference ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CORE2014 conference ranking&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1001,7 +1031,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/scy-phy-systems-week-2016/</link>
       <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/scy-phy-systems-week-2016/</guid>
-      <description>&lt;p&gt;We are currently preparing for the &lt;a href=&#34;http://itrust.sutd.edu.sg/scy-phy-systems-week/2016/&#34;&gt;SCy-Phy Systems week 2016&lt;/a&gt;, on July 25-29 2016. The SCy-Phy Systems week is an invitation-only event including one day of panel discussions, two days of practical security assessment and defences using our SWaT testbed, and further outreach activites. We started this format last year, and had great success with a team of excellent attendees and many fruitful discussions.&lt;/p&gt;
+      <description>&lt;p&gt;We are currently preparing for the 
+&lt;a href=&#34;http://itrust.sutd.edu.sg/scy-phy-systems-week/2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCy-Phy Systems week 2016&lt;/a&gt;, on July 25-29 2016. The SCy-Phy Systems week is an invitation-only event including one day of panel discussions, two days of practical security assessment and defences using our SWaT testbed, and further outreach activites. We started this format last year, and had great success with a team of excellent attendees and many fruitful discussions.&lt;/p&gt;
 </description>
     </item>
     
@@ -1010,56 +1041,54 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/visit-by-adrian-perrig/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/visit-by-adrian-perrig/</guid>
-      <description>
-
-&lt;p&gt;I’m hosting Prof. Adrian Perrig from ETH Zurich at SUTD on May 11 2016. He will give a public talk with the following details.&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m hosting Prof. Adrian Perrig from ETH Zurich at SUTD on May 11 2016. He will give a public talk with the following details.&lt;/p&gt;
 &lt;h4 id=&#34;towards-a-next-generation-secure-internet-architecture&#34;&gt;Towards a Next-generation Secure Internet Architecture&lt;/h4&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The Internet has been successful beyond even the most optimistic
-    expectations. It permeates and intertwines with almost all aspects
-    of our society and economy. The success of the Internet has
-    created a dependency on communication as many of the processes
-    underpinning the foundations of modern society would grind to a
-    halt should communication become unavailable. However, much to our
-    dismay, the current state of safety and availability of the
-    Internet is far from commensurate given its importance.&lt;/p&gt;
-
-&lt;p&gt;Although we cannot conclusively determine what the impact of a
-    1-minute, 1-hour, 1-day, or 1-week outage of Internet connectivity
-    on our society would be, anecdotal evidence indicates that even
-    short outages have a profound negative impact on governmental,
-    economic, and societal operations. To make matters worse, the
-    Internet has not been designed for high availability in the face
-    of malicious actions by adversaries. Recent patches to improve
-    Internet security and availability have been constrained by the
-    current Internet architecture, business models, and legal
-    aspects. Moreover, there are fundamental design decisions of the
-    current Internet that inherently complicate secure operation.&lt;/p&gt;
-
-&lt;p&gt;Given the diverse nature of constituents in today’s Internet,
-    another important challenge is how to scale authentication of
-    entities (e.g., AS ownership for routing, name servers for DNS, or
-    domains for TLS) to a global environment. Currently prevalent PKI
-    models (monopoly and oligarchy) do not scale globally because
-    mutually distrusting entities cannot agree on a single trust root,
-    and because everyday users cannot evaluate the trustworthiness of
-    each of the many root CAs in their browsers.&lt;/p&gt;
-
-&lt;p&gt;To address these issues, we study the design of a next-generation
-    Internet architecture that is secure, available, and offers
-    privacy by design; that provides incentives for a transition to
-    the new architecture; and that considers economic and policy
-    issues at the design stage. Such a research environment offers a
-    bonanza for security researchers: a critically important problem
-    space with a medley of challenges to address, and unfettered
-    freedom to think creatively in the absence of limiting
-    constraints. Once we know how good a network could be, we can then
-    engage in incorporating these ideas into the current Internet or
-    study strategies for transition to a next-generation network.&lt;/p&gt;
+expectations. It permeates and intertwines with almost all aspects
+of our society and economy. The success of the Internet has
+created a dependency on communication as many of the processes
+underpinning the foundations of modern society would grind to a
+halt should communication become unavailable. However, much to our
+dismay, the current state of safety and availability of the
+Internet is far from commensurate given its importance.&lt;/p&gt;
 &lt;/blockquote&gt;
-
+&lt;blockquote&gt;
+&lt;p&gt;Although we cannot conclusively determine what the impact of a
+1-minute, 1-hour, 1-day, or 1-week outage of Internet connectivity
+on our society would be, anecdotal evidence indicates that even
+short outages have a profound negative impact on governmental,
+economic, and societal operations. To make matters worse, the
+Internet has not been designed for high availability in the face
+of malicious actions by adversaries. Recent patches to improve
+Internet security and availability have been constrained by the
+current Internet architecture, business models, and legal
+aspects. Moreover, there are fundamental design decisions of the
+current Internet that inherently complicate secure operation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Given the diverse nature of constituents in today’s Internet,
+another important challenge is how to scale authentication of
+entities (e.g., AS ownership for routing, name servers for DNS, or
+domains for TLS) to a global environment. Currently prevalent PKI
+models (monopoly and oligarchy) do not scale globally because
+mutually distrusting entities cannot agree on a single trust root,
+and because everyday users cannot evaluate the trustworthiness of
+each of the many root CAs in their browsers.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To address these issues, we study the design of a next-generation
+Internet architecture that is secure, available, and offers
+privacy by design; that provides incentives for a transition to
+the new architecture; and that considers economic and policy
+issues at the design stage. Such a research environment offers a
+bonanza for security researchers: a critically important problem
+space with a medley of challenges to address, and unfettered
+freedom to think creatively in the absence of limiting
+constraints. Once we know how good a network could be, we can then
+engage in incorporating these ideas into the current Internet or
+study strategies for transition to a next-generation network.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Date: May 11 2016&lt;/li&gt;
 &lt;li&gt;Time: 2:30pm to 3:30pm&lt;/li&gt;
@@ -1073,7 +1102,8 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <link>https://tippenhauer.de/post/nse-wins-sg-mark-award/</link>
       <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/nse-wins-sg-mark-award/</guid>
-      <description>&lt;p&gt;Our National Science Experiment team at SUTD was awarded the SG Mark 2016 from the Design Business Chamber Singapore. More information &lt;a href=&#34;http://www.sgmark.org/winners/singapore-university-of-technology-and-design-sutd-nse-virtual-and-physical-interfaces-project/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Our National Science Experiment team at SUTD was awarded the SG Mark 2016 from the Design Business Chamber Singapore. More information 
+&lt;a href=&#34;http://www.sgmark.org/winners/singapore-university-of-technology-and-design-sutd-nse-virtual-and-physical-interfaces-project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1084,11 +1114,9 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <guid>https://tippenhauer.de/post/visit-by-dieter-gollmann/</guid>
       <description>&lt;p&gt;I’m hosting Prof. Dieter Gollmann from TUHH on March 17 2016. He will give a public talk with the following details.
 Cyber-physical Systems Security&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;We argue that cyber-physical systems cannot be protected just by protecting their IT infrastructure and that the CIA approach familiar from communications security is insufficient in CPS security. Rather, the IT components should be treated as a control system, inputs to that control system should be checked for veracity, and control algorithms should be designed in a way that they can handle a certain amount of adversarial actions. We will discuss some open research questions that need to be addressed in this domain.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Date: March 16 2016&lt;/li&gt;
 &lt;li&gt;Time: 3pm to 4pm&lt;/li&gt;
@@ -1103,9 +1131,7 @@ Cyber-physical Systems Security&lt;/p&gt;
       <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/google-scholar-milestone/</guid>
       <description>&lt;p&gt;At the beginning of February 2016, my publications reached 500 citations according to Google scholar. I’m glad to see that many of my earlier papers are still being cited frequently. Google scholar currently lists 22 publications (most peer-reviewed), and one US patent.&lt;/p&gt;
-
 &lt;p&gt;/edit on April 4: Our GPS paper has now reached 100 cites since Oct 2010&lt;/p&gt;
-
 &lt;p&gt;/edit: just to capture numbers of 2015: I received 15,700 emails, and sent 4,500 emails.&lt;/p&gt;
 </description>
     </item>
@@ -1115,7 +1141,9 @@ Cyber-physical Systems Security&lt;/p&gt;
       <link>https://tippenhauer.de/post/sutd-ctf-team/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-ctf-team/</guid>
-      <description>&lt;p&gt;Together with Asst. Prof. &lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34;&gt;Martín Ochoa&lt;/a&gt;, I am currently setting up a &lt;a href=&#34;https://ctftime.org/team/21875&#34;&gt;team&lt;/a&gt; of researchers and students to compete in capture-the-flag (CTF) competitions. Such competitions are held on/ and offline, and usually consist of a range of individual security challenges (web, pwnage, crypto, forensics). We aim to participate in online events regularly to showcase our practical skills and train students. If you are interested to join, please contact me or Prof. Martín.&lt;/p&gt;
+      <description>&lt;p&gt;Together with Asst. Prof. 
+&lt;a href=&#34;http://people.sutd.edu.sg/~martin_ochoa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martín Ochoa&lt;/a&gt;, I am currently setting up a 
+&lt;a href=&#34;https://ctftime.org/team/21875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt; of researchers and students to compete in capture-the-flag (CTF) competitions. Such competitions are held on/ and offline, and usually consist of a range of individual security challenges (web, pwnage, crypto, forensics). We aim to participate in online events regularly to showcase our practical skills and train students. If you are interested to join, please contact me or Prof. Martín.&lt;/p&gt;
 </description>
     </item>
     
@@ -1124,18 +1152,12 @@ Cyber-physical Systems Security&lt;/p&gt;
       <link>https://tippenhauer.de/post/writing-presentations-in-org-mode-markup/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/writing-presentations-in-org-mode-markup/</guid>
-      <description>
-
-&lt;p&gt;For two years now, I am almost exclusively using the toolchain of org-mode+emacs+beamer+pdflatex to prepare my presentations for conferences and lectures. In this post, I want to share the basic setup to quickly reproduce for others. &lt;em&gt;Disclaimer: If you have never used Emacs, then this method might not be very interesting for you.&lt;/em&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;For two years now, I am almost exclusively using the toolchain of org-mode+emacs+beamer+pdflatex to prepare my presentations for conferences and lectures. In this post, I want to share the basic setup to quickly reproduce for others. &lt;em&gt;Disclaimer: If you have never used Emacs, then this method might not be very interesting for you.&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&#34;install&#34;&gt;Install&lt;/h4&gt;
-
-&lt;p&gt;Install the org-mode for Emacs using &lt;a href=&#34;http://www.emacswiki.org/emacs-test/ELPA&#34;&gt;ELPA&lt;/a&gt;. Make sure the mode is loaded when opening an .org file. Currently, I am using Emacs 24.5.1 (Org mode 8.2.7b).&lt;/p&gt;
-
+&lt;p&gt;Install the org-mode for Emacs using 
+&lt;a href=&#34;http://www.emacswiki.org/emacs-test/ELPA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ELPA&lt;/a&gt;. Make sure the mode is loaded when opening an .org file. Currently, I am using Emacs 24.5.1 (Org mode 8.2.7b).&lt;/p&gt;
 &lt;h4 id=&#34;minimal-example&#34;&gt;Minimal Example&lt;/h4&gt;
-
 &lt;p&gt;Create a test.org file in Emacs:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;#+startup: beamer
 #+LaTeX_CLASS: beamer
 #+LaTeX_CLASS_OPTIONS: [presentation, aspectratio=54]
@@ -1156,29 +1178,22 @@ Cyber-physical Systems Security&lt;/p&gt;
 - You can *highlight* words
 - You can /emphasize/ words
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;I assume that you have the &lt;a href=&#34;https://tippenhauer.de/sutd-beamer-theme/&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
-Now, you should be able to compile this to slides by using “C-C C-e l O” Emacs magic. The output can be seen here: &lt;a href=&#34;https://tippenhauer.de/wp-content/uploads/2016/01/test.pdf&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;I assume that you have the 
+&lt;a href=&#34;https://tippenhauer.de/sutd-beamer-theme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
+Now, you should be able to compile this to slides by using “C-C C-e l O” Emacs magic. The output can be seen here: 
+&lt;a href=&#34;https://tippenhauer.de/wp-content/uploads/2016/01/test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;images&#34;&gt;Images&lt;/h4&gt;
-
 &lt;p&gt;To include a centered image into the slide, I normally use the following code, which should be self-explanatory&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;#+begin_center
 #+ATTR_LATEX: :width \linewidth
 #+RESULTS:
 file:figs/greatFigure.png
 #+end_center
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;h4 id=&#34;animations-only&#34;&gt;Animations, Only&lt;/h4&gt;
-
-&lt;p&gt;This is where things become a bit messy, but still easy enough. I normally use the “&lt;2-&gt;” style animations to put additional bullet points or answers to questions on a slide. The additional text will be invisible at the beginning, but still influence the layout. The “only” style animations do not consider the later content in the first layout, so it is not as useful for text. I use it exclusively to do “manual” animations of figures. For that, I draw each animation step separately (in Inkscape), and exchange the images on each slide.&lt;/p&gt;
-
+&lt;p&gt;This is where things become a bit messy, but still easy enough. I normally use the “&amp;lt;2-&amp;gt;” style animations to put additional bullet points or answers to questions on a slide. The additional text will be invisible at the beginning, but still influence the layout. The “only” style animations do not consider the later content in the first layout, so it is not as useful for text. I use it exclusively to do “manual” animations of figures. For that, I draw each animation step separately (in Inkscape), and exchange the images on each slide.&lt;/p&gt;
 &lt;p&gt;I use separate blocks for each. In my theme, the standard block actually has same colors as background, so it is invisible. You generate block code by starting a new heading (without title) with ***, and then using C-C C-B b. I then manually add the BEAMER_act line into the block header.&lt;/p&gt;
-
 &lt;p&gt;Uncover example:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;- This will be displayed first
 *** :B_block:
 :PROPERTIES:
@@ -1187,9 +1202,7 @@ file:figs/greatFigure.png
 :END:
 - Then this will appear on the second animation slide
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;Beamer-style “only” is also possible, by using a block like this:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;- This will be displayed first
 *** :B_block:
 :PROPERTIES:
@@ -1198,9 +1211,7 @@ file:figs/greatFigure.png
 :END:
 - Then this will appear on the second animation slide
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;To export the onlyenv, you need to add the following to your .emacs:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;;; only env for org-mode beamer
 (add-to-list &#39;org-beamer-environments-extra
 &#39;(&amp;quot;onlyenv&amp;quot; &amp;quot;O&amp;quot; &amp;quot;\\begin{onlyenv}%a&amp;quot; &amp;quot;\\end{onlyenv}&amp;quot;))
@@ -1214,11 +1225,9 @@ file:figs/greatFigure.png
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-scspw-2016/</guid>
       <description>&lt;p&gt;I’m on the TPC for the “Smart City Security and Privacy Workshop” (SCSP-W 2016), held in conjunction with CPS Week 2016 in Vienna, Austria on 11-14 April, 2016 – link.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;CPS Week is the premier event on Cyber-Physical Systems and brings together academicians, industry experts, and government representatives from around the world. The SCSP-W workshop will focus on security and privacy aspects of smart cities that are pertinent to areas like Internet of Things (IoT), Smart Buildings, Smart‑Grid Systems, Critical Infrastructure Networks, Intelligent Transportation Systems, and Medical Devices. SCSP-W is a full day workshop and will include research papers, invited talks, and discussion sessions to facilitate exchange of research ideas in a community environment.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Submission deadline: January 822, 2016&lt;/p&gt;
 </description>
     </item>
@@ -1228,7 +1237,8 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/national-science-experiment-coverage/</link>
       <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/national-science-experiment-coverage/</guid>
-      <description>&lt;p&gt;Our National Science experiment was recently featured in the Straits Times, our national newspaper. More info &lt;a href=&#34;http://www.straitstimes.com/singapore/education/bringing-science-alive-for-students&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Our National Science experiment was recently featured in the Straits Times, our national newspaper. More info 
+&lt;a href=&#34;http://www.straitstimes.com/singapore/education/bringing-science-alive-for-students&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1238,9 +1248,8 @@ file:figs/greatFigure.png
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-ifip-sec-2016/</guid>
       <description>&lt;p&gt;I’m on the TPC for the 31th IFIP TC-11 SEC 2016 International Information Security and Privacy Conference. Its CfP was just released, more details here. Deadline for paper submissions is December 24, 2015. From the CfP:&lt;/p&gt;
-
 &lt;blockquote&gt;
-&lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, www.ifiptc11.org  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
+&lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, &lt;a href=&#34;http://www.ifiptc11.org&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1250,7 +1259,8 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/skyhook-article-on-the-national-science-project/</link>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/skyhook-article-on-the-national-science-project/</guid>
-      <description>&lt;p&gt;Skyhook is the localization service we use to determine locations of measurements taken in the National Science Experiment. They did a quick interview on the project with me, you can find it &lt;a href=&#34;http://blog.skyhookwireless.com/devices/customer-spotlight-singapore-national-science-experiment-using-location&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Skyhook is the localization service we use to determine locations of measurements taken in the National Science Experiment. They did a quick interview on the project with me, you can find it 
+&lt;a href=&#34;http://blog.skyhookwireless.com/devices/customer-spotlight-singapore-national-science-experiment-using-location&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1259,7 +1269,8 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/first-run-of-national-science-experiment-underway/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/first-run-of-national-science-experiment-underway/</guid>
-      <description>&lt;p&gt;This week, the first run of the National Science Experiment started with about 15,000 sensor nodes distributed to schools all over Singapore. The nodes were designed by SUTD together with Delta Electronics, and most of the backend infrastructure is designed and implemented by SUTD (together with IHPC). So far, the experiment has been a success. The following is a quick visualization of the reported positions of the nodes at the end of day 1. More info on the NSE &lt;a href=&#34;http://www.nse.sg/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This week, the first run of the National Science Experiment started with about 15,000 sensor nodes distributed to schools all over Singapore. The nodes were designed by SUTD together with Delta Electronics, and most of the backend infrastructure is designed and implemented by SUTD (together with IHPC). So far, the experiment has been a success. The following is a quick visualization of the reported positions of the nodes at the end of day 1. More info on the NSE 
+&lt;a href=&#34;http://www.nse.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1268,7 +1279,8 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/scy-phy-site-online/</link>
       <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/scy-phy-site-online/</guid>
-      <description>&lt;p&gt;We now  have a website for the SCy-Phy group at SUTD, follow this &lt;a href=&#34;https://scy-phy.net&#34;&gt;link&lt;/a&gt;. We will use it to provide updates on our research projects, and the group members.&lt;/p&gt;
+      <description>&lt;p&gt;We now  have a website for the SCy-Phy group at SUTD, follow this 
+&lt;a href=&#34;https://scy-phy.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;. We will use it to provide updates on our research projects, and the group members.&lt;/p&gt;
 </description>
     </item>
     
@@ -1277,8 +1289,8 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/cfp-sg-crc-2016/</link>
       <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-sg-crc-2016/</guid>
-      <description>&lt;p&gt;We are organizing the inaugural Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) in 2016. The call for papers is now available &lt;a href=&#34;http://itrust.sutd.edu.sg/sg-crc-2016/&#34;&gt;online&lt;/a&gt;, deadline for papers is October 26, 2015. About the conference:&lt;/p&gt;
-
+      <description>&lt;p&gt;We are organizing the inaugural Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) in 2016. The call for papers is now available 
+&lt;a href=&#34;http://itrust.sutd.edu.sg/sg-crc-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;, deadline for papers is October 26, 2015. About the conference:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The conference will bring together academics and practitioners from across the world to participate in a vibrant program consisting of research papers,  industrial best practices, and tools exhibition. Students, undergraduate and graduate are encouraged to participate in specially organized sessions.  Several cash awards and certificates will be given to the best contributions in various categories.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1290,22 +1302,22 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/cfp-cpss-2016/</link>
       <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-cpss-2016/</guid>
-      <description>&lt;p&gt;I’m on the TPC for the 2nd ACM Cyber-Physical System Security Workshop. Its CfP was just released, more details &lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss16/&#34;&gt;here&lt;/a&gt;. Deadline for paper submissions is December 5, 2015. From the CfP:&lt;/p&gt;
-
+      <description>&lt;p&gt;I’m on the TPC for the 2nd ACM Cyber-Physical System Security Workshop. Its CfP was just released, more details 
+&lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss16/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Deadline for paper submissions is December 5, 2015. From the CfP:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cyber-Physical Systems (CPS) consist of large-scale interconnected
-    systems of heterogeneous components interacting with their
-    physical environments. There are a multitude of CPS devices and
-    applications being deployed to serve critical functions in our
-    lives. The security of CPS becomes extremely important. This
-    workshop will provide a platform for professionals from academia,
-    government, and industry to discuss how to address the increasing
-    security challenges facing CPS. Besides invited talks, we also
-    seek novel submissions describing theoretical and practical
-    security solutions to CPS. Papers that are pertinent to the
-    security of embedded systems, SCADA, smart grid, and critical
-    infrastructure networks are all welcome, especially in the domains
-    of energy and transportation.&lt;/p&gt;
+systems of heterogeneous components interacting with their
+physical environments. There are a multitude of CPS devices and
+applications being deployed to serve critical functions in our
+lives. The security of CPS becomes extremely important. This
+workshop will provide a platform for professionals from academia,
+government, and industry to discuss how to address the increasing
+security challenges facing CPS. Besides invited talks, we also
+seek novel submissions describing theoretical and practical
+security solutions to CPS. Papers that are pertinent to the
+security of embedded systems, SCADA, smart grid, and critical
+infrastructure networks are all welcome, especially in the domains
+of energy and transportation.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1333,7 +1345,9 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/searching-google-scholar-for-institution-publications/</link>
       <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/searching-google-scholar-for-institution-publications/</guid>
-      <description>&lt;p&gt;I recently discovered that you can also use Google scholar to search for all articles hosted by an institution, and all faculty members with a Scholar profile at that institution. The trick is to use the institution domain name in the search. Examples: &lt;a href=&#34;https://scholar.google.com/citations?mauthors=sutd.edu.sg&amp;amp;hl=en&amp;amp;view_op=search_authors&#34;&gt;all faculty at SUTD&lt;/a&gt;, and &lt;a href=&#34;https://scholar.google.com.sg/scholar?hl=en&amp;amp;q=site%3Asutd.edu.sg&#34;&gt;all articles hosted by SUTD&lt;/a&gt;. Disclaimer: for faculty the search actually matches the registered email addresses, so those in the profile should be the official email addresses. Similarly, the paper must be made available on a website of the domain to be found.&lt;/p&gt;
+      <description>&lt;p&gt;I recently discovered that you can also use Google scholar to search for all articles hosted by an institution, and all faculty members with a Scholar profile at that institution. The trick is to use the institution domain name in the search. Examples: 
+&lt;a href=&#34;https://scholar.google.com/citations?mauthors=sutd.edu.sg&amp;amp;hl=en&amp;amp;view_op=search_authors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;all faculty at SUTD&lt;/a&gt;, and 
+&lt;a href=&#34;https://scholar.google.com.sg/scholar?hl=en&amp;amp;q=site%3Asutd.edu.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;all articles hosted by SUTD&lt;/a&gt;. Disclaimer: for faculty the search actually matches the registered email addresses, so those in the profile should be the official email addresses. Similarly, the paper must be made available on a website of the domain to be found.&lt;/p&gt;
 </description>
     </item>
     
@@ -1342,12 +1356,10 @@ file:figs/greatFigure.png
       <link>https://tippenhauer.de/post/security-conferencejournal-ranking-according-to-google-scholar-metrics/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/security-conferencejournal-ranking-according-to-google-scholar-metrics/</guid>
-      <description>
-
-&lt;p&gt;Gogle Scholar just released their 2015 version of &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&#34;&gt;Metrics&lt;/a&gt;. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
-
+      <description>&lt;p&gt;Gogle Scholar just released their 2015 version of 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metrics&lt;/a&gt;. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;amp;hl=en&amp;amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=INF_DsfwVdsJ.2015&#34;&gt;IEEE Symposium on Security and Privacy&lt;/a&gt;    (58)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=LY1cSycZE0AJ.2015&#34;&gt;ACM Symposium on Computer and Communications Security &lt;/a&gt;(58)&lt;/li&gt;
@@ -1360,32 +1372,27 @@ file:figs/greatFigure.png
 &lt;li&gt;ArXiv (see discussion)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=xmBo6QN6NQcJ.2015&#34;&gt;International Conference on The Theory and Application of Cryptology and Information Security (ASIACRYPT)&lt;/a&gt;    (35)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Some other honorable mentions where I published before:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=e4WG5lE2gWQJ.2015&#34;&gt;European Conference on Research in Computer Security&lt;/a&gt; (ESORICS) (24)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=n7usXUIj76kJ.2015&#34;&gt;Wireless Network Security&lt;/a&gt; (WISEC) (22)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=0mhk3_x__KIJ.2015&amp;amp;cstart=20&#34;&gt;International Conference on Mobile systems, applications, and services&lt;/a&gt;  (MOBICOM)  (49)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;There are some interesting observations I made from the ranking:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Oakland and CCS are ranked higher than the best journal (Trans. Inf. Forens. &amp;amp; Sec.)&lt;/li&gt;
 &lt;li&gt;There are only two journals in the top ten list.&lt;/li&gt;
-&lt;li&gt;ArXiv is in the list, but can hardly be counted as &amp;#8220;peer reviewed&amp;#8221;.&lt;/li&gt;
+&lt;li&gt;ArXiv is in the list, but can hardly be counted as “peer reviewed”.&lt;/li&gt;
 &lt;li&gt;Several of the top 20 items have a strong crypto focus, further limiting the options for general security papers to be published at&lt;/li&gt;
 &lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 10 venues, this is between 70 and 100, for top 10-20 between 40 and 70&lt;/li&gt;
 &lt;li&gt;Clearly, for h5 it helps to accept more papers (see ArXiv rank). It would be great to award selectivity somehow.&lt;/li&gt;
 &lt;li&gt;Based on the Google Metrics page, it is now easily possible to find how well a publication performed relatively to other publications at the same venue. I found it interesting to check for some of my publications (e.g. my GPS paper at CCS is within the Top40 papers of the last 5 years). My paper at the Workshop on Positioning, Navigation and Communication is the top 3 most cited in the last 5 years.&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h4 id=&#34;related-rankings&#34;&gt;Related rankings&lt;/h4&gt;
-
-&lt;p&gt;References to related rankings: &lt;a href=&#34;http://lipn.univ-paris13.fr/~bennani/CSRank.html&#34;&gt;LIPN&lt;/a&gt;, &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34;&gt;A*STAR&lt;/a&gt;.
-LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&lt;/em&gt;), EUROCRYPT (A*), ACSAC (A), ASIACRYPT (A), CSF (A), ESORICS (A), Financial Cryptography (A),  NDSS (A), S&amp;amp;P(A), SecureCom (A), Usenix Sec (A), AsiaCCS (B), IFIP Security (B)&lt;/p&gt;
-
+&lt;p&gt;References to related rankings: 
+&lt;a href=&#34;http://lipn.univ-paris13.fr/~bennani/CSRank.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIPN&lt;/a&gt;, 
+&lt;a href=&#34;http://jianying.space/conference-ranking.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A*STAR&lt;/a&gt;.
+LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRYPT (A*), ACSAC (A), ASIACRYPT (A), CSF (A), ESORICS (A), Financial Cryptography (A),  NDSS (A), S&amp;amp;P(A), SecureCom (A), Usenix Sec (A), AsiaCCS (B), IFIP Security (B)&lt;/p&gt;
 &lt;p&gt;Most other security conferences of level B or lower are not known to me, level C includes a lot of workshops as well. Notably, WiSec is not in the ranking (yet?)&lt;/p&gt;
 </description>
     </item>
@@ -1396,19 +1403,12 @@ LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&l
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;slide0.png&#34; alt=&#34;slide0&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;slide1.png&#34; alt=&#34;slide1&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;slide2.png&#34; alt=&#34;slide2&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
 &lt;li&gt;Author name (footer)&lt;/li&gt;
@@ -1416,8 +1416,8 @@ LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&l
 &lt;li&gt;Date (footer)&lt;/li&gt;
 &lt;li&gt;Page number (footer)&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;The theme can be found on &lt;a href=&#34;https://github.com/scy-phy/public/tree/master/themeSUTD&#34;&gt;Github&lt;/a&gt;. I am looking forward to comments and feedback!&lt;/p&gt;
+&lt;p&gt;The theme can be found on 
+&lt;a href=&#34;https://github.com/scy-phy/public/tree/master/themeSUTD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. I am looking forward to comments and feedback!&lt;/p&gt;
 </description>
     </item>
     
@@ -1427,8 +1427,8 @@ LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&l
       <pubDate>Fri, 20 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/secure-water-treatment-testbed-launched/</guid>
       <description>&lt;p&gt;SWaT, our testbed for security research on industrial control systems, was launched this week. SWaT faithfully replicates a water treatment system, including the physical process with pipes, tanks, filter, and chemical treatment. SWaT also covers the industrial communications systems and SCADA system. I was contributing to both planning and realization of this testbed, and I’m happy to announce that it is now open for research. Interested researchers from outside SUTD are also invited to contact us for shared projects.&lt;/p&gt;
-
-&lt;p&gt;Official press release &lt;a href=&#34;http://www.sutd.edu.sg/newsdetails.aspx?news_sid=20150318aEHk71XY8opt&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Official press release 
+&lt;a href=&#34;http://www.sutd.edu.sg/newsdetails.aspx?news_sid=20150318aEHk71XY8opt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1437,7 +1437,8 @@ LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&l
       <link>https://tippenhauer.de/post/new-phd-student-hamid/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/new-phd-student-hamid/</guid>
-      <description>&lt;p&gt;Hamid Reza Ghaeini joined my group as PhD student in January. He earned his MSc from Tarbiat Modares University, Teheran. Hamid research interests include Wireless Networking, Network Coding, Distributed Systems and Overlay Networks. His personal page can be found &lt;a href=&#34;http://people.sutd.edu.sg/~1001407/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Hamid Reza Ghaeini joined my group as PhD student in January. He earned his MSc from Tarbiat Modares University, Teheran. Hamid research interests include Wireless Networking, Network Coding, Distributed Systems and Overlay Networks. His personal page can be found 
+&lt;a href=&#34;http://people.sutd.edu.sg/~1001407/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1447,9 +1448,7 @@ LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&l
       <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/national-experiment-grant-accepted/</guid>
       <description>&lt;p&gt;Our &lt;em&gt;national experiment&lt;/em&gt; proposal was announced by President Dr Tony Tan. This project is led by Prof. Erik Wilhelm of the EPD pillar at SUTD. The project aims to provide Singaporean school students with smart sensors that can be used for scientific experiments at school. In total, it will involve 250,000 students over the next three years.&lt;/p&gt;
-
 &lt;p&gt;I will be involved in design and implementation of the communication infrastructure and centralized processing of the collected data.&lt;/p&gt;
-
 &lt;p&gt;The project is a joint effort by the Ministry of Education, National Research Foundation, Singapore University of Technology and Design, and Science Centre Singapore.&lt;/p&gt;
 </description>
     </item>
@@ -1459,10 +1458,10 @@ LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&l
       <link>https://tippenhauer.de/post/sutd-aspire-proposal-accepted-by-nrf/</link>
       <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-aspire-proposal-accepted-by-nrf/</guid>
-      <description>&lt;p&gt;NRF has announced the 7 accepted proposals (out of 20) for the National Cybersecurity Research programme, for a total funding of S$42M (&lt;a href=&#34;http://www.channelnewsasia.com/news/singapore/seven-cyber-security/1415680.html&#34;&gt;link&lt;/a&gt;). Our proposal, &lt;a href=&#34;https://tippenhauer.de/aspire/&#34;&gt;SUTD-ASPIRE&lt;/a&gt;, was selected as one of them. I will be track-PI for two out of the 6 tracks of SUTD-ASPIRE, for the track on “orthogonal defenses” and “Attacker models”. SUTD-ASPIRE focuses on “Advancing the Security of Public Infrastructure using Resilience and Economics”, in particular power and water infrastructure. We plan to launch a website with more details on ASPIRE soon.&lt;/p&gt;
-
+      <description>&lt;p&gt;NRF has announced the 7 accepted proposals (out of 20) for the National Cybersecurity Research programme, for a total funding of S$42M (
+&lt;a href=&#34;http://www.channelnewsasia.com/news/singapore/seven-cyber-security/1415680.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;). Our proposal, 
+&lt;a href=&#34;https://tippenhauer.de/aspire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-ASPIRE&lt;/a&gt;, was selected as one of them. I will be track-PI for two out of the 6 tracks of SUTD-ASPIRE, for the track on “orthogonal defenses” and “Attacker models”. SUTD-ASPIRE focuses on “Advancing the Security of Public Infrastructure using Resilience and Economics”, in particular power and water infrastructure. We plan to launch a website with more details on ASPIRE soon.&lt;/p&gt;
 &lt;p&gt;From the proposal:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Our objective is to conduct fundamental scientific research to improve the security of Cyber-Physical Systems (CPS) that offer key services such as power. Our contributions will be: (a) principles, techniques, and software tools, and (b) validation of principles and design techniques through experiments using SUTD’s realistic testbeds. Together with our public and private partners, we ensure that the outcomes of the proposed research will have real-world impact. Consequently, our work will benefit Singapore along three dimensions: government interests, commercial interests and manpower development.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1476,29 +1475,24 @@ LIPN ranking of security conferences: CCS (A&lt;em&gt;), Advances in Crypto (A&l
       <guid>https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/</guid>
       <description>&lt;p&gt;This short post summarizes the settings required to connect to SUTD’s Juniper VPN box from Ubuntu (other distros might slightly differ). This is enabled due to MadScientist’s perl scripting magic, and some trial &amp;amp; error on my side.
 This setup works for my staff account. Hopefully, it should work for student account, just change the realm to SUTD_Student and the url_1 part in the URLs into url_0&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Get the client software from the VPN portal:
-Visit &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;, enter your credentials to get a running session. Then, you are able to download the app using the following commands. Check if the received .jar is correct, it should be 2MB large.&lt;/p&gt;
-
+&lt;li&gt;Get the client software from the VPN portal:
+Visit &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&lt;/a&gt; enter your credentials to get a running session. Then, you are able to download the app using the following commands. Check if the received .jar is correct, it should be 2MB large.
 &lt;pre&gt;&lt;code&gt;$ mkdir ~/.juniper_networks
 $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_networks/ncLinuxApp.jar --no-check-certificate
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;get msjnc from &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img src=&#34;vpn0.png&#34; alt=&#34;vpn0&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Create a new profile with the following settings:
-&lt;img src=&#34;vpn1.png&#34; alt=&#34;vpn1&#34; /&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;get msjnc from &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
+&lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
+&lt;img src=&#34;vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Create a new profile with the following settings:
+&lt;img src=&#34;vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
 the full Server/URL is:
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
-Save the profile&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hit the “connect” button, and you should connect!
-&lt;img src=&#34;vpn2.png&#34; alt=&#34;vpn2&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+Save the profile&lt;/li&gt;
+&lt;li&gt;Hit the “connect” button, and you should connect!
+&lt;img src=&#34;vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -1508,7 +1502,8 @@ Save the profile&lt;/p&gt;&lt;/li&gt;
       <link>https://tippenhauer.de/post/joining-cypro-itrust-stage-1/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/joining-cypro-itrust-stage-1/</guid>
-      <description>&lt;p&gt;I will join the CYPRO project of the iTrust centre as Co-PI. In particular, I will be responsible for the research task &lt;em&gt;Defending against physical attacks&lt;/em&gt;. For that grant, I will work together with &lt;a href=&#34;http://istd.sutd.edu.sg/researchers/dr-he-liang/&#34;&gt;Dr. He Liang&lt;/a&gt; from SUTD.&lt;/p&gt;
+      <description>&lt;p&gt;I will join the CYPRO project of the iTrust centre as Co-PI. In particular, I will be responsible for the research task &lt;em&gt;Defending against physical attacks&lt;/em&gt;. For that grant, I will work together with 
+&lt;a href=&#34;http://istd.sutd.edu.sg/researchers/dr-he-liang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. He Liang&lt;/a&gt; from SUTD.&lt;/p&gt;
 </description>
     </item>
     
@@ -1518,7 +1513,6 @@ Save the profile&lt;/p&gt;&lt;/li&gt;
       <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/project-safe-accepted/</guid>
       <description>&lt;p&gt;My proposal for Project SAFE was accepted by SUTD last week. The project will start in August’14 and is planned to run for three years. Overall funding is 100k SGD. From the proposal:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;In recent years, the cyber-security of large-scale heterogeneous engineered systems such as public infrastructure and other distributed control systems has become an important problem. […] In this project, we will develop methods to perform practical and theoretical security assessments of devices typically found in such networks. In addition, we will also design strategies to detect and investigate past attacks.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1530,7 +1524,9 @@ Save the profile&lt;/p&gt;&lt;/li&gt;
       <link>https://tippenhauer.de/post/website-updated/</link>
       <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/website-updated/</guid>
-      <description>&lt;p&gt;I started to put of preliminary information on 50.020 Security for Fall term 2014 &lt;a href=&#34;https://tippenhauer.de/security/&#34;&gt;here&lt;/a&gt;. I also added the &lt;a href=&#34;https://tippenhauer.de/contact/&#34;&gt;contact info&lt;/a&gt; with some directions.&lt;/p&gt;
+      <description>&lt;p&gt;I started to put of preliminary information on 50.020 Security for Fall term 2014 
+&lt;a href=&#34;https://tippenhauer.de/security/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. I also added the 
+&lt;a href=&#34;https://tippenhauer.de/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact info&lt;/a&gt; with some directions.&lt;/p&gt;
 </description>
     </item>
     
