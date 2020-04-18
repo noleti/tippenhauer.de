@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Apparatus and method for monitoring a wireless network</title>
+      <link>https://tippenhauer.de/publication/tippenhauer-20-apparatus/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/tippenhauer-20-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Serving as ACNS 2021 Program Co-Chair</title>
       <link>https://tippenhauer.de/post/acns-co-chair21/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
@@ -55,6 +63,14 @@
 &lt;p&gt;Other numbers for 2019: Github lists 52 commits to repositories (after 96 in 2018), as we shifted most collaborations to use Overleaf. I received 4967 mails on my university accounts (after removal of spam). Per working day, that would make around 20 (previous years: 36) mails. I sent 1147 mails (~5 per working day, last year 9). Both numbers are lower than my 2018 statistics, due to the lower size of my group after joining CISPA. A well-used chat system (Mattermost) to communicate with others also likely plays a role to reduce mail load.&lt;/p&gt;
 &lt;p&gt;I re-activated my twitter account (from&amp;rsquo;11), and currently follow 47, with 96 followers, and 26 tweets.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
+      <link>https://tippenhauer.de/publication/antonioli-20-tops/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/antonioli-20-tops/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -478,6 +494,7 @@ released the website (
 &lt;h4 id=&#34;journal-reviewer&#34;&gt;Journal Reviewer&lt;/h4&gt;
 &lt;p&gt;I am/was reviewer for the following journals:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Elsevier Journal of Critical Infrastructure Protection&lt;/li&gt;
 &lt;li&gt;OUP Journal of Cybersecurity&lt;/li&gt;
 &lt;li&gt;IEEE/ACM Transactions on Networking (ToN)&lt;/li&gt;
 &lt;li&gt;ACM Transactions on Privacy and Security (TOPS, former TISSEC)&lt;/li&gt;
