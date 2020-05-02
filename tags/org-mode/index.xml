@@ -44,9 +44,9 @@
 - You can /emphasize/ words
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;I assume that you have the 
-&lt;a href=&#34;https://tippenhauer.de/sutd-beamer-theme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
+&lt;a href=&#34;https://tippenhauer.de/post/sutd-beamer-theme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
 Now, you should be able to compile this to slides by using “C-C C-e l O” Emacs magic. The output can be seen here: 
-&lt;a href=&#34;https://tippenhauer.de/wp-content/uploads/2016/01/test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://tippenhauer.de/files/test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;images&#34;&gt;Images&lt;/h4&gt;
 &lt;p&gt;To include a centered image into the slide, I normally use the following code, which should be self-explanatory&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#+begin_center

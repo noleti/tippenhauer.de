@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Apparatus and method for monitoring a wireless network</title>
+      <link>https://tippenhauer.de/publication/tippenhauer-20-apparatus/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/tippenhauer-20-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Serving as ACNS 2021 Program Co-Chair</title>
       <link>https://tippenhauer.de/post/acns-co-chair21/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
@@ -55,6 +63,14 @@
 &lt;p&gt;Other numbers for 2019: Github lists 52 commits to repositories (after 96 in 2018), as we shifted most collaborations to use Overleaf. I received 4967 mails on my university accounts (after removal of spam). Per working day, that would make around 20 (previous years: 36) mails. I sent 1147 mails (~5 per working day, last year 9). Both numbers are lower than my 2018 statistics, due to the lower size of my group after joining CISPA. A well-used chat system (Mattermost) to communicate with others also likely plays a role to reduce mail load.&lt;/p&gt;
 &lt;p&gt;I re-activated my twitter account (from&amp;rsquo;11), and currently follow 47, with 96 followers, and 26 tweets.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
+      <link>https://tippenhauer.de/publication/antonioli-20-tops/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/antonioli-20-tops/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -440,7 +456,7 @@ released the website (
       <description>&lt;h4 id=&#34;tpc-membership-selection&#34;&gt;TPC Membership (selection)&lt;/h4&gt;
 &lt;p&gt;I am/was involved in the following conferences:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;USENIX Security Symposium, 2020&lt;/li&gt;
+&lt;li&gt;USENIX Security Symposium, 2020-2021&lt;/li&gt;
 &lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018 + 2019&lt;/li&gt;
 &lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2020&lt;/li&gt;
 &lt;li&gt;European Symposium on Research in Computer Security (ESORICS), 2017-2020&lt;/li&gt;
@@ -453,6 +469,7 @@ released the website (
 &lt;/ul&gt;
 &lt;p&gt;I am/was involved in the following workshops:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Workshop on the Security of Industrial Control Systems &amp;amp; of Cyber-Physical Systems (CyberICPS), 2020  (co-located with Esorics)&lt;/li&gt;
 &lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020 (co-located with S&amp;amp;P)&lt;/li&gt;
 &lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2020 (co-located with ASIA-CCS)&lt;/li&gt;
 &lt;li&gt;ACM Workshop on Cyber-Physical Systems-Security and PrivaCy (CPS-SPC), 2016-2019 (co-located with CCS)&lt;/li&gt;
@@ -477,6 +494,7 @@ released the website (
 &lt;h4 id=&#34;journal-reviewer&#34;&gt;Journal Reviewer&lt;/h4&gt;
 &lt;p&gt;I am/was reviewer for the following journals:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Elsevier Journal of Critical Infrastructure Protection&lt;/li&gt;
 &lt;li&gt;OUP Journal of Cybersecurity&lt;/li&gt;
 &lt;li&gt;IEEE/ACM Transactions on Networking (ToN)&lt;/li&gt;
 &lt;li&gt;ACM Transactions on Privacy and Security (TOPS, former TISSEC)&lt;/li&gt;
@@ -1603,9 +1621,9 @@ Cyber-physical Systems Security&lt;/p&gt;
 - You can /emphasize/ words
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;I assume that you have the 
-&lt;a href=&#34;https://tippenhauer.de/sutd-beamer-theme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
+&lt;a href=&#34;https://tippenhauer.de/post/sutd-beamer-theme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-light beamer&lt;/a&gt; theme installed in ../misc/, but you can also comment out that LATEX_HEADER line to get the default beamer style.
 Now, you should be able to compile this to slides by using “C-C C-e l O” Emacs magic. The output can be seen here: 
-&lt;a href=&#34;https://tippenhauer.de/wp-content/uploads/2016/01/test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://tippenhauer.de/files/test.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;org-mode test&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;images&#34;&gt;Images&lt;/h4&gt;
 &lt;p&gt;To include a centered image into the slide, I normally use the following code, which should be self-explanatory&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#+begin_center
