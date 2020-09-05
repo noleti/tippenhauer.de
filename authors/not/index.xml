@@ -5,12 +5,198 @@
     <link>https://tippenhauer.de/authors/not/</link>
       <atom:link href="https://tippenhauer.de/authors/not/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/authors/not/</link>
     </image>
+    
+    <item>
+      <title>CfP ACNS 2021 deadline extension</title>
+      <link>https://tippenhauer.de/post/cfp-acns-21-extended/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/cfp-acns-21-extended/</guid>
+      <description>&lt;p&gt;The first round ACNS&amp;rsquo;21 deadline is extended by
+3 days until September 7th AoE due to unexpected outage of the
+conference website. Submissions can be made via easychair directly at&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://easychair.org/my/login_author?conference=250210&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://easychair.org/my/login_author?conference=250210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For any questions regarding the submission or the conference, please
+write to &lt;a href=&#34;mailto:acns2021-contact@googlegroups.com&#34;&gt;acns2021-contact@googlegroups.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Detailed formatting instructions are given below in this post.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&lt;/a&gt; (should be reachable
+again by Sept 7)&lt;/p&gt;
+&lt;h1 id=&#34;important-dates&#34;&gt;Important Dates:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;First Submission Deadline 7 Sept 2020 AoE (Anytime on Earth)&lt;/li&gt;
+&lt;li&gt;First Submission Notification 9 Nov 2020&lt;/li&gt;
+&lt;li&gt;Second Submission Deadline 15 Jan 2021 AoE (Anytime on Earth)&lt;/li&gt;
+&lt;li&gt;Second Submission Notification 22 Mar 2021&lt;/li&gt;
+&lt;li&gt;Conference Date 21-24 June 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Submissions are double-blind, LNCS format 20+10 pages. Papers rejected
+at the first round can be submitted at the second round, together with a
+response letter addressing the reviewer&amp;rsquo;s points.&lt;/p&gt;
+&lt;h1 id=&#34;conference-topics&#34;&gt;Conference Topics&lt;/h1&gt;
+&lt;p&gt;Areas of interest for ACNS 2021 include but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Access control&lt;/li&gt;
+&lt;li&gt;Applied cryptography&lt;/li&gt;
+&lt;li&gt;Automated security analysis&lt;/li&gt;
+&lt;li&gt;Biometric security/privacy&lt;/li&gt;
+&lt;li&gt;Blockchain and cryptocurrencies&lt;/li&gt;
+&lt;li&gt;Cloud security/privacy&lt;/li&gt;
+&lt;li&gt;Complex systems security&lt;/li&gt;
+&lt;li&gt;Critical infrastructure security&lt;/li&gt;
+&lt;li&gt;Cryptographic primitives&lt;/li&gt;
+&lt;li&gt;Cryptographic protocols&lt;/li&gt;
+&lt;li&gt;Data protection&lt;/li&gt;
+&lt;li&gt;Database/system security&lt;/li&gt;
+&lt;li&gt;Digital rights management&lt;/li&gt;
+&lt;li&gt;Email, app and web security&lt;/li&gt;
+&lt;li&gt;Future Internet security&lt;/li&gt;
+&lt;li&gt;Human factors in security&lt;/li&gt;
+&lt;li&gt;Identity management&lt;/li&gt;
+&lt;li&gt;IP protection&lt;/li&gt;
+&lt;li&gt;Internet fraud, cybercrime&lt;/li&gt;
+&lt;li&gt;Internet-of-Things (IoT) security&lt;/li&gt;
+&lt;li&gt;Intrusion detection&lt;/li&gt;
+&lt;li&gt;Key management&lt;/li&gt;
+&lt;li&gt;Malware&lt;/li&gt;
+&lt;li&gt;Mobile/wireless/5G security&lt;/li&gt;
+&lt;li&gt;Network security protocols&lt;/li&gt;
+&lt;li&gt;Privacy/anonymity, PETs&lt;/li&gt;
+&lt;li&gt;Security/privacy metrics&lt;/li&gt;
+&lt;li&gt;Side channel attacks (e.g., microarchitectural, physical-layer)&lt;/li&gt;
+&lt;li&gt;Trust management&lt;/li&gt;
+&lt;li&gt;Ubiquitous security/privacy&lt;/li&gt;
+&lt;li&gt;Usable security/privacy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;submission-instructions&#34;&gt;Submission Instructions&lt;/h1&gt;
+&lt;p&gt;Submissions must not substantially duplicate work that any of the
+authors has published elsewhere or has submitted in parallel to any
+other venue with formally published proceedings. Information about
+submissions may be shared with program chairs of other conferences for
+that purpose. Submissions must be anonymous, with no author names,
+affiliations, acknowledgement or obvious references. Each submission
+must begin with a title and short abstract. The introduction should
+summarise the contributions of the paper at a level appropriate
+for a non-specialist reader. All submissions must follow the original
+LNCS format (see &lt;a href=&#34;http://www.springeronline.com/lncs&#34;&gt;http://www.springeronline.com/lncs&lt;/a&gt;​ ) with a page limit
+of 20 pages (incl. references) for the main part (reviewers are not
+required to read beyond this limit) and 30 pages in total. Papers should
+be submitted electronically in PDF format. Papers rejected at the first
+round can be submitted at the second round (together with a response
+letter). Submissions not meeting the submission guidelines risk
+rejection without consideration of their merits. We encourage
+submissions in LaTeX. Authors of accepted papers must guarantee that
+their paper will be presented at the conference and must make a full
+version of their paper available online. Note that the page limit
+for camera-ready version is 20 pages with up to 10 additional pages of
+Appendix.&lt;/p&gt;
+&lt;h1 id=&#34;conflicts-of-interests&#34;&gt;Conflicts of Interests&lt;/h1&gt;
+&lt;p&gt;We use the following definition on conflicts of Interest, based on
+Usenix Security’20: The program co-chairs require cooperation from both
+authors and program committee members to prevent submissions from being
+evaluated by reviewers who have a conflict of interest. During the
+submission process, we will ask authors to identify members of the
+program committee with whom they share a conflict of interest. This
+includes: (1) anyone who shares an institutional affiliation with an
+author at the time of submission, (2) anyone who was the advisor or
+advisee of an author at any time in the past, (3) anyone the author has
+collaborated or published with in the prior two years, (4) anyone who is
+serving as the sponsor or administrator of a grant that funds
+your research, or (5) close personal friendships. For other forms of
+conflict, authors must contact the chairs and explain the perceived
+conflict. Program committee members who are in conflict of interest with
+a paper, including program co-chairs, will be excluded from evaluation
+and discussion of the paper by default.&lt;/p&gt;
+&lt;h1 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h1&gt;
+&lt;h2 id=&#34;general-co-chairs&#34;&gt;General Co-Chairs&lt;/h2&gt;
+&lt;p&gt;Chunhua Su, University of Aizu, Japan
+Kauzmasa Omote, University of Tsukuba, Japan&lt;/p&gt;
+&lt;h2 id=&#34;program-co-chairs&#34;&gt;Program Co-Chairs&lt;/h2&gt;
+&lt;p&gt;Kazue Sako, Waseda University, Japan
+Nils Ole Tippenhauer, CISPA, Germany&lt;/p&gt;
+&lt;h2 id=&#34;publicity-chair&#34;&gt;Publicity Chair&lt;/h2&gt;
+&lt;p&gt;Keita Emura, NICT, Japan&lt;/p&gt;
+&lt;h2 id=&#34;workshop-chair&#34;&gt;Workshop Chair&lt;/h2&gt;
+&lt;p&gt;Jianying Zhou, Singapore University of Technology and Design, Singapore&lt;/p&gt;
+&lt;h2 id=&#34;poster-chair&#34;&gt;Poster Chair&lt;/h2&gt;
+&lt;p&gt;Masaki Shimaoka, University of Tsukuba/SECOM CO., LTD., Japan&lt;/p&gt;
+&lt;h1 id=&#34;program-committee&#34;&gt;Program Committee&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Mitsuaki Akiyama, NTT, Japan&lt;/li&gt;
+&lt;li&gt;Cristina Alcaraz, University of Malaga, Spain&lt;/li&gt;
+&lt;li&gt;Man Ho Au, The Hong Kong Polytechnic University, Hong Kong&lt;/li&gt;
+&lt;li&gt;Lejla Batina, Radboud Universiteit, Netherlands&lt;/li&gt;
+&lt;li&gt;Alex Biryukov, University of Luxembourg, Luxembourg&lt;/li&gt;
+&lt;li&gt;Alexandra Boldyreva, Georgia Tech, USA&lt;/li&gt;
+&lt;li&gt;Ferdinand Brasser, TU Darmstadt, Germany&lt;/li&gt;
+&lt;li&gt;Chris Brzuska, Aalto University, Finland&lt;/li&gt;
+&lt;li&gt;Alvaro Cardenas, University of California at Santa Clara, USA&lt;/li&gt;
+&lt;li&gt;Sudipta Chattopadhyay, SUTD, Singapore&lt;/li&gt;
+&lt;li&gt;Xiaofeng Chen, Xidian University, China&lt;/li&gt;
+&lt;li&gt;Liqun Chen, University of Surrey, UK&lt;/li&gt;
+&lt;li&gt;Jiska Classen, TU Darmstadt, Germany&lt;/li&gt;
+&lt;li&gt;Hervé Debar, Télécom SudParis, France&lt;/li&gt;
+&lt;li&gt;Stéphanie Delaune, IRISA, France&lt;/li&gt;
+&lt;li&gt;Christian Doerr, TU Delft, Netherlands&lt;/li&gt;
+&lt;li&gt;Nico Döttling, CISPA, Germany&lt;/li&gt;
+&lt;li&gt;F. Betül Durak, Robert Bosch LLC, USA&lt;/li&gt;
+&lt;li&gt;Karim Eldefrawy, SRI International, USA&lt;/li&gt;
+&lt;li&gt;Zekeriya Erkin, TU Delft, Netherlands&lt;/li&gt;
+&lt;li&gt;Olga Gadyatskaya, Leiden University, Netherlands&lt;/li&gt;
+&lt;li&gt;Joaquin Garcia-Alfaro, Telecom SudParis, France&lt;/li&gt;
+&lt;li&gt;Paolo Gasti, New York Institute of Technology, USA&lt;/li&gt;
+&lt;li&gt;Dieter Gollmann, TUHH, Germany&lt;/li&gt;
+&lt;li&gt;Stefanos Gritzalis, University of the Aegean, Greece&lt;/li&gt;
+&lt;li&gt;Xinyi Huang, Fujian Normal University, China&lt;/li&gt;
+&lt;li&gt;Antoine Joux, Sorbonne &amp;amp; CISPA, France&lt;/li&gt;
+&lt;li&gt;Ghassan Karame, NEC Laboratories Europe, Germany&lt;/li&gt;
+&lt;li&gt;Stefan Katzenbeisser, TU Darmstadt, Germany&lt;/li&gt;
+&lt;li&gt;Hiroaki Kikuchi, Meiji University, Japan&lt;/li&gt;
+&lt;li&gt;Qi Li, Tsinghua University, China&lt;/li&gt;
+&lt;li&gt;Zhiqiang Lin, Ohio State University, USA&lt;/li&gt;
+&lt;li&gt;Joseph Liu, Monash University, Australia&lt;/li&gt;
+&lt;li&gt;Xiapu Luo, Hong Kong Polytechnic University, Hong Kong&lt;/li&gt;
+&lt;li&gt;Emil Lupu, Imperial College, UK&lt;/li&gt;
+&lt;li&gt;Di Ma, University of Michigan, USA&lt;/li&gt;
+&lt;li&gt;Mark Manulis, University of Surrey, UK&lt;/li&gt;
+&lt;li&gt;Takahiro Matsuda, AIST, Japan&lt;/li&gt;
+&lt;li&gt;Sjouke Mauw, University of Luxembourg, Luxembourg&lt;/li&gt;
+&lt;li&gt;Catherine Meadows, Naval Research Laboratory, USA&lt;/li&gt;
+&lt;li&gt;Nele Mentens, KU Leuven, Belgium&lt;/li&gt;
+&lt;li&gt;Veelasha Moonsamy, Radboud University, Netherlands&lt;/li&gt;
+&lt;li&gt;Satoshi Obana, Hosei University, Japan&lt;/li&gt;
+&lt;li&gt;Martín Ochoa,Cyxtera Technologies, Colombia&lt;/li&gt;
+&lt;li&gt;Wakaha Ogata, Tokyo Institute of Technology, Japan&lt;/li&gt;
+&lt;li&gt;Miyako Okubo, NICT, Japan&lt;/li&gt;
+&lt;li&gt;Roberto Di Pietro, HBKU, Qatar&lt;/li&gt;
+&lt;li&gt;Christina Pöpper, New York University Abu Dhabi, UAE&lt;/li&gt;
+&lt;li&gt;Aanjhan Ranganathan, Northeastern University, USA&lt;/li&gt;
+&lt;li&gt;Joel Reardon, University of Calgary, Canada&lt;/li&gt;
+&lt;li&gt;Ruben Rios, University of Malaga, Spain&lt;/li&gt;
+&lt;li&gt;Sushmita Ruj, ISI Kolkata, India&lt;/li&gt;
+&lt;li&gt;Mark Ryan, University of Birmingham, UK&lt;/li&gt;
+&lt;li&gt;Rei Safavi-Naini, University of Calgary, Canada&lt;/li&gt;
+&lt;li&gt;Kazue Sako (co-chair), Waseda University, Japan&lt;/li&gt;
+&lt;li&gt;Steve Schneider, University of Surrey, UK&lt;/li&gt;
+&lt;li&gt;Sooel Son, KAIST, Korea&lt;/li&gt;
+&lt;li&gt;Hung-Min Sun, National Tsing Hua University, Taiwan&lt;/li&gt;
+&lt;li&gt;Willy Susilo, University of Wollongong, Australia&lt;/li&gt;
+&lt;li&gt;Pawel Szalachowski, SUTD, Singapore&lt;/li&gt;
+&lt;li&gt;Qiang Tang, New Jersey Institute of Technology, USA&lt;/li&gt;
+&lt;li&gt;Nils Ole Tippenhauer (co-chair), CISPA, Germany&lt;/li&gt;
+&lt;li&gt;Selcuk Uluagac, FIU, USA&lt;/li&gt;
+&lt;li&gt;Edgar Weippl, Vienna University of Technology, Austria&lt;/li&gt;
+&lt;li&gt;Christian Wressnegger, KIT, Germany&lt;/li&gt;
+&lt;li&gt;Kehuan Zhang, Chinese University of Hong Kong, Hong Kong&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CfP ACNS 2021</title>
