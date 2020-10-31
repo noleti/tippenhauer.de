@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federico Turrin | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/federico-turrin/</link>
+      <atom:link href="https://tippenhauer.de/authors/federico-turrin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Federico Turrin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
+      <title>Federico Turrin</title>
+      <link>https://tippenhauer.de/authors/federico-turrin/</link>
+    </image>
+    
+    <item>
+      <title>A Statistical Analysis Framework for ICS Process Datasets</title>
+      <link>https://tippenhauer.de/publication/turrin-20-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/turrin-20-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

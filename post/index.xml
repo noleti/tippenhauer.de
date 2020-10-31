@@ -359,6 +359,8 @@ and discussion of the paper by default.&lt;/p&gt;
 &lt;li&gt;Clearly, for h5 it helps to accept more papers (see Infocom rank, the journals on the list, CCS&amp;rsquo;s dominance). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see 
 &lt;a href=&#34;http://jianying.space/conference-ranking.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;I&amp;rsquo;m not a big fan of CORE ranking. Based on the h5 metric, I would consider conferences/venues with h5 &amp;gt;= 50 as tier 1, conferences with h5 &amp;gt;= 30 as tier 2, and conferences with h5 &amp;gt;= 20 as tier 3. This would put RAID and WiSec still in tier 3, but for example ASIACCS clearly in tier 2 (CORE rank: B). Such a classification disadvantages niche topics, of course.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://secprivmeta.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://secprivmeta.net/&lt;/a&gt; also provides interesting analysis by topics in tier-1 security papers (unfortunately, only until 2015).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;See also: 
 &lt;a href=&#34;https://aminer.org/ranks/conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aminer conference ranking&lt;/a&gt;, 
