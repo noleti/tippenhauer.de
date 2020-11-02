@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>A Statistical Analysis Framework for ICS Process Datasets</title>
+      <link>https://tippenhauer.de/publication/turrin-20-analysis/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/turrin-20-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CfP ACNS 2021 deadline extension</title>
       <link>https://tippenhauer.de/post/cfp-acns-21-extended/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
@@ -428,14 +436,6 @@ and discussion of the paper by default.&lt;/p&gt;
 &lt;p&gt;Other numbers for 2019: Github lists 52 commits to repositories (after 96 in 2018), as we shifted most collaborations to use Overleaf. I received 4967 mails on my university accounts (after removal of spam). Per working day, that would make around 20 (previous years: 36) mails. I sent 1147 mails (~5 per working day, last year 9). Both numbers are lower than my 2018 statistics, due to the lower size of my group after joining CISPA. A well-used chat system (Mattermost) to communicate with others also likely plays a role to reduce mail load.&lt;/p&gt;
 &lt;p&gt;I re-activated my twitter account (from&amp;rsquo;11), and currently follow 47, with 96 followers, and 26 tweets.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Statistical Analysis Framework for ICS Process Datasets</title>
-      <link>https://tippenhauer.de/publication/turrin-20-analysis/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/turrin-20-analysis/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -857,7 +857,7 @@ released the website (
 &lt;ul&gt;
 &lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Industrial Control Systems &amp;amp; of Cyber-Physical Systems (CyberICPS), 2020  (co-located with Esorics)&lt;/li&gt;
-&lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020 (co-located with S&amp;amp;P)&lt;/li&gt;
+&lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020-2021 (co-located with S&amp;amp;P)&lt;/li&gt;
 &lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2021 (co-located with ASIA-CCS)&lt;/li&gt;
 &lt;li&gt;ACM Workshop on Cyber-Physical Systems-Security and PrivaCy (CPS-SPC), 2016-2019 (co-located with CCS)&lt;/li&gt;
 &lt;li&gt;IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec) co-located with CNS, 2016-2017, 2019-2020&lt;/li&gt;
