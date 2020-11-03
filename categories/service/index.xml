@@ -5,12 +5,21 @@
     <link>https://tippenhauer.de/categories/service/</link>
       <atom:link href="https://tippenhauer.de/categories/service/index.xml" rel="self" type="application/rss+xml" />
     <description>service</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>service</title>
       <link>https://tippenhauer.de/categories/service/</link>
     </image>
+    
+    <item>
+      <title>Serving as CPSS 2021 Program Co-Chair</title>
+      <link>https://tippenhauer.de/post/cpss-co-chair21/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/cpss-co-chair21/</guid>
+      <description>&lt;p&gt;Together with the program chair Mauro Conti, I will serve as program co-chair for the 7th ACM Cyber-Physical System Security Workshop in 2021, to be held in Hong Kong (or online). We plan to release the CfP with all details on deadlines etc. in the next weeks. Stay tuned!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CfP ACNS 2021 deadline extension</title>
