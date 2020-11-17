@@ -21,6 +21,29 @@
     </item>
     
     <item>
+      <title>CfP: CPSS 2021</title>
+      <link>https://tippenhauer.de/post/cfp-cpss20/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/cfp-cpss20/</guid>
+      <description>&lt;p&gt;I am co-chairing the 7th ACM Cyber-Physical System Security Workshop (CPSS 2021)
+next year, together with Mauro Conti. CPSS is a long established workshop for
+research on security of Cyber-Physical Systems (such as medical devices,
+manufacturing and industrial control, robotics and autonomous vehicles). The
+workshop will run for the seventh time, co-located with ASIACCS (7 June &amp;lsquo;21, Hong Kong). We just released the website (
+&lt;a href=&#34;cps-spc.or&#34;&gt;cps-spc.org&lt;/a&gt;) and the full
+
+&lt;a href=&#34;https://www.cps-spc.org/2019/cfp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submitted papers can be up to 12 pages including appendices and references. Submissions must use the ACM SIG Proceedings Templates.&lt;/p&gt;
+&lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper Submission Deadline: Jan 27, 2021 (23:59 Anywhere on Earth time)&lt;/li&gt;
+&lt;li&gt;Notification of Acceptance/Rejection: Feb 26, 2021&lt;/li&gt;
+&lt;li&gt;Camera Ready Papers Due: March 15, 2021 (hard deadline, see notification mails)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Statistical Analysis Framework for ICS Process Datasets</title>
       <link>https://tippenhauer.de/publication/turrin-20-analysis/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
@@ -872,6 +895,11 @@ released the website (
 &lt;li&gt;Workshop on Security and Privacy in the Internet of Things (SePrIoT), 2018&lt;/li&gt;
 &lt;li&gt;Workshop on RFID Security and Privacy (RFIDsec), 2016&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;steering-committee&#34;&gt;Steering Committee&lt;/h4&gt;
+&lt;p&gt;I am in the steering committee of the following event:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;other-pc-member&#34;&gt;Other PC Member&lt;/h4&gt;
 &lt;p&gt;I was/am involved in the following events:&lt;/p&gt;
 &lt;ul&gt;
@@ -915,7 +943,7 @@ released the website (
 &lt;ul&gt;
 &lt;li&gt;ACM (since 2015)&lt;/li&gt;
 &lt;li&gt;IEEE (since 2009)&lt;/li&gt;
-&lt;li&gt;President of TUHH’s Singapore Alumni Chapter (2016-2018)&lt;/li&gt;
+&lt;li&gt;President of TUHH&amp;rsquo;s Singapore Alumni Chapter (2016-2018)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;academic-committees&#34;&gt;Academic Committees&lt;/h4&gt;
 &lt;p&gt;I was member of the following committees at SUTD:&lt;/p&gt;
