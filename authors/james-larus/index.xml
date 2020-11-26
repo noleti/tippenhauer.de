@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Larus | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/james-larus/</link>
+      <atom:link href="https://tippenhauer.de/authors/james-larus/index.xml" rel="self" type="application/rss+xml" />
+    <description>James Larus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
+      <title>James Larus</title>
+      <link>https://tippenhauer.de/authors/james-larus/</link>
+    </image>
+    
+    <item>
+      <title>Decentralized Privacy-Preserving Proximity Tracing</title>
+      <link>https://tippenhauer.de/publication/troncoso-2020-decentralized/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/troncoso-2020-decentralized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
