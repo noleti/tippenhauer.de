@@ -5,20 +5,12 @@
     <link>https://tippenhauer.de/authors/stefano-galelli/</link>
       <atom:link href="https://tippenhauer.de/authors/stefano-galelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefano Galelli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>Stefano Galelli</title>
       <link>https://tippenhauer.de/authors/stefano-galelli/</link>
     </image>
-    
-    <item>
-      <title>Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems</title>
-      <link>https://tippenhauer.de/publication/erba-2020-concealment/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/erba-2020-concealment/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The Battle Of The Attack Detection Algorithms: Disclosing Cyber Attacks On Water Distribution Networks</title>

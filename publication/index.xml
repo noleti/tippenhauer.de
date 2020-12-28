@@ -5,28 +5,12 @@
     <link>https://tippenhauer.de/publication/</link>
       <atom:link href="https://tippenhauer.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://tippenhauer.de/publication/</link>
     </image>
-    
-    <item>
-      <title>Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems</title>
-      <link>https://tippenhauer.de/publication/erba-2020-concealment/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/erba-2020-concealment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Statistical Analysis Framework for ICS Process Datasets</title>
-      <link>https://tippenhauer.de/publication/turrin-20-analysis/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/turrin-20-analysis/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>BIAS: Bluetooth Impersonation AttackS</title>
@@ -41,14 +25,6 @@
       <link>https://tippenhauer.de/publication/tippenhauer-20-apparatus/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/tippenhauer-20-apparatus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decentralized Privacy-Preserving Proximity Tracing</title>
-      <link>https://tippenhauer.de/publication/troncoso-2020-decentralized/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/troncoso-2020-decentralized/</guid>
       <description></description>
     </item>
     
