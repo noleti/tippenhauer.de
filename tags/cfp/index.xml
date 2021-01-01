@@ -5,12 +5,44 @@
     <link>https://tippenhauer.de/tags/cfp/</link>
       <atom:link href="https://tippenhauer.de/tags/cfp/index.xml" rel="self" type="application/rss+xml" />
     <description>cfp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>cfp</title>
       <link>https://tippenhauer.de/tags/cfp/</link>
     </image>
+    
+    <item>
+      <title>CfP: CPSS 2021</title>
+      <link>https://tippenhauer.de/post/cfp-cpss20/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/cfp-cpss20/</guid>
+      <description>&lt;p&gt;I am co-chairing the 7th ACM Cyber-Physical System Security Workshop (CPSS 2021)
+next year, together with Mauro Conti. CPSS is a long established workshop for
+research on security of Cyber-Physical Systems (such as medical devices,
+manufacturing and industrial control, robotics and autonomous vehicles). The
+workshop will run for the seventh time, co-located with ASIACCS (7 June &amp;lsquo;21, Hong Kong). We just released the 
+&lt;a href=&#34;https://spritz.math.unipd.it/events/2021/CPSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; and the full
+
+&lt;a href=&#34;https://spritz.math.unipd.it/events/2021/CPSS/CPSS_2021_files/CPSS_CFP2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submitted papers can be up to 12 pages including appendices and references. Submissions must use the ACM SIG Proceedings Templates.&lt;/p&gt;
+&lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper Submission Deadline: Jan 27, 2021 (23:59 Anywhere on Earth time)&lt;/li&gt;
+&lt;li&gt;Notification of Acceptance/Rejection: Feb 26, 2021&lt;/li&gt;
+&lt;li&gt;Camera Ready Papers Due: March 15, 2021 (hard deadline, see notification mails)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Serving as CPSS 2021 Program Co-Chair</title>
+      <link>https://tippenhauer.de/post/cpss-co-chair21/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/cpss-co-chair21/</guid>
+      <description>&lt;p&gt;Together with the program chair Mauro Conti, I will serve as program co-chair for the 7th ACM Cyber-Physical System Security Workshop in 2021, to be held in Hong Kong (or online). We plan to release the CfP with all details on deadlines etc. in the next weeks. Stay tuned!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CfP ACNS 2021 deadline extension</title>
@@ -117,7 +149,7 @@ and discussion of the paper by default.&lt;/p&gt;
 &lt;h2 id=&#34;general-co-chairs&#34;&gt;General Co-Chairs&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Chunhua Su, University of Aizu, Japan&lt;/li&gt;
-&lt;li&gt;Kauzmasa Omote, University of Tsukuba, Japan&lt;/li&gt;
+&lt;li&gt;Kauzma Omote, University of Tsukuba, Japan&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;program-co-chairs&#34;&gt;Program Co-Chairs&lt;/h2&gt;
 &lt;ul&gt;
@@ -158,9 +190,9 @@ and discussion of the paper by default.&lt;/p&gt;
 &lt;li&gt;Dieter Gollmann, TUHH, Germany&lt;/li&gt;
 &lt;li&gt;Stefanos Gritzalis, University of the Aegean, Greece&lt;/li&gt;
 &lt;li&gt;Xinyi Huang, Fujian Normal University, China&lt;/li&gt;
-&lt;li&gt;Antoine Joux, Sorbonne &amp;amp; CISPA, France&lt;/li&gt;
+&lt;li&gt;Antoine Joux, Sorbonne, France &amp;amp; CISPA, Germany&lt;/li&gt;
 &lt;li&gt;Ghassan Karame, NEC Laboratories Europe, Germany&lt;/li&gt;
-&lt;li&gt;Stefan Katzenbeisser, TU Darmstadt, Germany&lt;/li&gt;
+&lt;li&gt;Stefan Katzenbeisser, Darmstadt, Germany&lt;/li&gt;
 &lt;li&gt;Hiroaki Kikuchi, Meiji University, Japan&lt;/li&gt;
 &lt;li&gt;Qi Li, Tsinghua University, China&lt;/li&gt;
 &lt;li&gt;Zhiqiang Lin, Ohio State University, USA&lt;/li&gt;
@@ -203,7 +235,7 @@ and discussion of the paper by default.&lt;/p&gt;
     </item>
     
     <item>
-      <title>CfP ACNS 2021</title>
+      <title>CfP: ACNS 2021</title>
       <link>https://tippenhauer.de/post/cfp-acns-21/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/cfp-acns-21/</guid>
