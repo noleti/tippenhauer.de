@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tippenhauer.de/post/2020-in-numbers/</loc>
+    <lastmod>2020-11-17T12:15:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/authors/</loc>
+    <lastmod>2020-12-14T10:28:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/categories/</loc>
+    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/tags/meta/</loc>
+    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/categories/research/</loc>
+    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/tags/</loc>
+    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tippenhauer.de/publication_types/1/</loc>
     <lastmod>2020-11-02T10:58:38+01:00</lastmod>
   </url>
@@ -10,11 +40,6 @@
   <url>
     <loc>https://tippenhauer.de/authors/alessandro-erba/</loc>
     <lastmod>2020-11-02T10:58:38+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/authors/</loc>
-    <lastmod>2020-12-14T10:28:58+01:00</lastmod>
   </url>
   
   <url>
@@ -58,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://tippenhauer.de/categories/</loc>
-    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tippenhauer.de/tags/cfp/</loc>
     <lastmod>2020-11-17T12:23:16+01:00</lastmod>
   </url>
@@ -75,11 +95,6 @@
   <url>
     <loc>https://tippenhauer.de/categories/service/</loc>
     <lastmod>2020-11-17T12:23:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/tags/</loc>
-    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
   </url>
   
   <url>
@@ -119,16 +134,6 @@
   
   <url>
     <loc>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2020/</loc>
-    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/tags/meta/</loc>
-    <lastmod>2020-11-27T12:40:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/categories/research/</loc>
     <lastmod>2020-11-27T12:40:36+01:00</lastmod>
   </url>
   
@@ -829,12 +834,12 @@
   
   <url>
     <loc>https://tippenhauer.de/</loc>
-    <lastmod>2020-12-28T13:54:08+01:00</lastmod>
+    <lastmod>2020-11-17T12:15:23+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://tippenhauer.de/service/</loc>
-    <lastmod>2020-12-28T13:54:08+01:00</lastmod>
+    <lastmod>2020-11-17T12:15:23+01:00</lastmod>
   </url>
   
   <url>
