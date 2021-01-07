@@ -5,12 +5,38 @@
     <link>https://tippenhauer.de/categories/service/</link>
       <atom:link href="https://tippenhauer.de/categories/service/index.xml" rel="self" type="application/rss+xml" />
     <description>service</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>service</title>
       <link>https://tippenhauer.de/categories/service/</link>
     </image>
+    
+    <item>
+      <title>CfP: ACNS 2021</title>
+      <link>https://tippenhauer.de/post/cfp-acns-21b/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/cfp-acns-21b/</guid>
+      <description>&lt;p&gt;The second submission deadline for ACNS is coming up on Jan 15 AoE. Consider submitting your work! Details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;19th International Conference on Applied Cryptography and Network Security (ACNS)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;21-24 June 2021 in Kamakura, Japan (or online, if the situation requires)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&#34;&gt;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Important Dates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Second Submission Deadline 15 Jan 2021 AoE (Anytime on Earth)&lt;/li&gt;
+&lt;li&gt;Second Submission Notification 22 Mar 2021&lt;/li&gt;
+&lt;li&gt;Conference Date 21-24 June 2021&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CfP: CPSS 2021</title>

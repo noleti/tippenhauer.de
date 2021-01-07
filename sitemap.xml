@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tippenhauer.de/post/2020-in-numbers/</loc>
-    <lastmod>2021-01-05T11:02:31+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tippenhauer.de/authors/</loc>
-    <lastmod>2021-01-05T11:02:31+01:00</lastmod>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tippenhauer.de/categories/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/tags/cfp/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/post/cfp-acns-21b/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/categories/service/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/tags/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/post/2020-in-numbers/</loc>
     <lastmod>2021-01-05T11:02:31+01:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://tippenhauer.de/categories/research/</loc>
-    <lastmod>2021-01-05T11:02:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/tags/</loc>
     <lastmod>2021-01-05T11:02:31+01:00</lastmod>
   </url>
   
@@ -83,17 +98,7 @@
   </url>
   
   <url>
-    <loc>https://tippenhauer.de/tags/cfp/</loc>
-    <lastmod>2020-11-17T12:23:16+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tippenhauer.de/post/cfp-cpss20/</loc>
-    <lastmod>2020-11-17T12:23:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/categories/service/</loc>
     <lastmod>2020-11-17T12:23:16+01:00</lastmod>
   </url>
   
