@@ -143,7 +143,7 @@
 &lt;p&gt;There are some interesting observations I made from the ranking (updated from last iteration):&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The h5 index of the top venues increased by about 5-9 points, without major changes in order (TIFS rose to position 2). For these tier 1 venues, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 10 years.&lt;/li&gt;
-&lt;li&gt;Our ProfilIoT paper at SAC&amp;rsquo;17 (which was only accepted as a poster!) is already the second most cited paper in the conference&amp;rsquo;s last 5 years. I expect it could end up on spot #1 next year (only 1 citation away), as no other recent paper comes close.&lt;/li&gt;
+&lt;li&gt;Our ProfilIoT paper at SAC&#39;17 (which was only accepted as a poster!) is already the second most cited paper in the conference&amp;rsquo;s last 5 years. I expect it could end up on spot #1 next year (only 1 citation away), as no other recent paper comes close.&lt;/li&gt;
 &lt;li&gt;CHES is not listed by Google metrics at all any more, not sure why&lt;/li&gt;
 &lt;li&gt;EuroSNP continues to rise quickly (+8), and has now surpassed ESORICS. It was started in &amp;lsquo;16 with great papers such as Papernot et al.&lt;/li&gt;
 &lt;li&gt;5 of the top 20 venues have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
@@ -177,7 +177,7 @@
 &lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; lists generally lower numbers (e.g. only 58 publications, ~1065 citations), but they provide a number of co-authors: 113 (106 last year).&lt;/p&gt;
 &lt;p&gt;Other numbers for 2019: Github lists 52 commits to repositories (after 96 in 2018), as we shifted most collaborations to use Overleaf. I received 4967 mails on my university accounts (after removal of spam). Per working day, that would make around 20 (previous years: 36) mails. I sent 1147 mails (~5 per working day, last year 9). Both numbers are lower than my 2018 statistics, due to the lower size of my group after joining CISPA. A well-used chat system (Mattermost) to communicate with others also likely plays a role to reduce mail load.&lt;/p&gt;
 &lt;p&gt;My first two PhD students (Daniele and Hamid) graduated successfully in July.&lt;/p&gt;
-&lt;p&gt;I re-activated my twitter account (from&amp;rsquo;11), and currently follow 47, with 96 followers, and 26 tweets.&lt;/p&gt;
+&lt;p&gt;I re-activated my twitter account (from&#39;11), and currently follow 47, with 96 followers, and 26 tweets.&lt;/p&gt;
 </description>
     </item>
     
@@ -279,7 +279,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=fSl1wy1IRIoJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Cryptology&lt;/a&gt; (26, used to be in top20)&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GoSvm-d8gKoJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE European Symposium on Security and Privacy (EuroSNP)&lt;/a&gt; (26, new/ first event in&amp;rsquo;16)&lt;/li&gt;
+&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GoSvm-d8gKoJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE European Symposium on Security and Privacy (EuroSNP)&lt;/a&gt; (26, new/ first event in&#39;16)&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GtwA7m_XqZUJ.2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Cyber-Physical Systems (ICCPS)&lt;/a&gt; (24, -1 position)&lt;/li&gt;
 &lt;li&gt;
@@ -309,7 +309,7 @@
 &lt;ol&gt;
 &lt;li&gt;The h5 index of the top venues increased by about 5-9 points, without major changes in order (Usenix rose to position 2, S&amp;amp;P lost 2 positions, now position 4). For these tier 1 venues, this is definitely expected, as the number of submissions/accepted papers has increased significantly in the last 5 years.&lt;/li&gt;
 &lt;li&gt;Usenix Security in particular increased the h5 score by 11, enough to almost reach CCS which was leader of this ranking for years (and has a larger number of accepted papers).&lt;/li&gt;
-&lt;li&gt;Our ProfilIoT paper at SAC&amp;rsquo;17 (which was only accepted as a poster!) is already the top 4 cited paper in the conference&amp;rsquo;s last 5 years. I expect it could end up on spot #1 soon, as no other recent paper comes close.&lt;/li&gt;
+&lt;li&gt;Our ProfilIoT paper at SAC&#39;17 (which was only accepted as a poster!) is already the top 4 cited paper in the conference&amp;rsquo;s last 5 years. I expect it could end up on spot #1 soon, as no other recent paper comes close.&lt;/li&gt;
 &lt;li&gt;SOUPS, Journal of Cryptology, and FSE left the top20 (from prior position 15, 18, 19). Fast Software Encryption (FSE) is actually not listed at all any more.&lt;/li&gt;
 &lt;li&gt;EuroSNP makes its first entry with h5 of 26, impressive given that the first instance was in &amp;lsquo;16. It kicked off with great papers such as Papernot et al.&lt;/li&gt;
 &lt;li&gt;7 of the top 20 venues have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
@@ -332,7 +332,7 @@
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/successful-defenses/</guid>
       <description>&lt;p&gt;My two first PhD students, Daniele Antonioli and Hamid Ghaeini, successfully defended their PhD in Singapore yesterday. Daniele presented his thesis with the title &amp;ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&amp;rdquo;, which included two recent tier one publications. Hamid&amp;rsquo;s thesis has the title &amp;ldquo;Threats to Industrial Control Systems and Process-based Countermeasures&amp;rdquo;, and included a recent RAID paper.&lt;/p&gt;
-&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&amp;rsquo; group as PostDoc.&lt;/p&gt;
+&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&#39; group as PostDoc.&lt;/p&gt;
 </description>
     </item>
     
