@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/publication_types/6/</link>
       <atom:link href="https://tippenhauer.de/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>6</title>
       <link>https://tippenhauer.de/publication_types/6/</link>
     </image>
+    
+    <item>
+      <title>Attack Detection for CPS</title>
+      <link>https://tippenhauer.de/publication/tippenhauer-2021-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/tippenhauer-2021-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design and Realization of Testbeds for Security Research in the Industrial Internet of Things</title>

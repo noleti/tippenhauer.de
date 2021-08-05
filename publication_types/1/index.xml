@@ -7,7 +7,7 @@
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://tippenhauer.de/publication_types/1/</link>
     </image>
@@ -17,6 +17,14 @@
       <link>https://tippenhauer.de/publication/wu-21-lightblue/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/wu-21-lightblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Use of Insecure ICS Protocols via IXP Network Traffic Analysis</title>
+      <link>https://tippenhauer.de/publication/barbieri-21-assessing/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/barbieri-21-assessing/</guid>
       <description></description>
     </item>
     
@@ -49,6 +57,14 @@
       <link>https://tippenhauer.de/publication/antonioli-20-bias/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/antonioli-20-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments</title>
+      <link>https://tippenhauer.de/publication/murillo-20-cosimulating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/murillo-20-cosimulating/</guid>
       <description></description>
     </item>
     
