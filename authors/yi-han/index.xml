@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Saman Zonouz | Nils Ole Tippenhauer</title>
-    <link>https://tippenhauer.de/authors/saman-zonouz/</link>
-      <atom:link href="https://tippenhauer.de/authors/saman-zonouz/index.xml" rel="self" type="application/rss+xml" />
-    <description>Saman Zonouz</description>
+    <title>Yi Han | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/yi-han/</link>
+      <atom:link href="https://tippenhauer.de/authors/yi-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
-      <title>Saman Zonouz</title>
-      <link>https://tippenhauer.de/authors/saman-zonouz/</link>
+      <title>Yi Han</title>
+      <link>https://tippenhauer.de/authors/yi-han/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://tippenhauer.de/publication/han-22-hiding/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/han-22-hiding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PAtt: Physics-based Attestation of Control Systems</title>
-      <link>https://tippenhauer.de/publication/ghaeini-19-patt/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/ghaeini-19-patt/</guid>
       <description></description>
     </item>
     

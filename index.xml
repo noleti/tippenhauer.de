@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring</title>
+      <link>https://tippenhauer.de/publication/han-22-hiding/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/han-22-hiding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks</title>
@@ -999,13 +1007,14 @@ released the website (
 &lt;h4 id=&#34;tpc-membership-selection&#34;&gt;TPC Membership (selection)&lt;/h4&gt;
 &lt;p&gt;I am/was involved in the following conferences:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;USENIX Security Symposium, 2020-2021&lt;/li&gt;
+&lt;li&gt;USENIX Security Symposium, 2020-2022&lt;/li&gt;
 &lt;li&gt;ACM AsiaCCS, 2021&lt;/li&gt;
 &lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018-2019&lt;/li&gt;
 &lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2021&lt;/li&gt;
 &lt;li&gt;European Symposium on Research in Computer Security (ESORICS), 2017-2021&lt;/li&gt;
 &lt;li&gt;International Conference on Critical Information Infrastructures (CRITIS), 2019-2021&lt;/li&gt;
 &lt;li&gt;ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2017-2021&lt;/li&gt;
+&lt;li&gt;GI Sicherheit, 2022&lt;/li&gt;
 &lt;li&gt;Conference on Cryptology and Network Security (CANS), 2017&lt;/li&gt;
 &lt;li&gt;Singapore-Cyber Security R&amp;amp;D Conference (SG-CRC) 2016-2017&lt;/li&gt;
 &lt;li&gt;International Symposium on High Assurance Systems Engineering (HASE), 2017&lt;/li&gt;
