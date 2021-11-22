@@ -5,7 +5,7 @@
     <link>https://tippenhauer.de/authors/nils-ole-tippenhauer/</link>
       <atom:link href="https://tippenhauer.de/authors/nils-ole-tippenhauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>Nils Ole Tippenhauer</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring</title>
+      <link>https://tippenhauer.de/publication/han-22-hiding/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/han-22-hiding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks</title>
       <link>https://tippenhauer.de/publication/wu-21-lightblue/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/wu-21-lightblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Use of Insecure ICS Protocols via IXP Network Traffic Analysis</title>
+      <link>https://tippenhauer.de/publication/barbieri-21-assessing/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/barbieri-21-assessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attack Detection for CPS</title>
+      <link>https://tippenhauer.de/publication/tippenhauer-2021-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/tippenhauer-2021-detection/</guid>
       <description></description>
     </item>
     

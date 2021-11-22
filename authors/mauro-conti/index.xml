@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/authors/mauro-conti/</link>
       <atom:link href="https://tippenhauer.de/authors/mauro-conti/index.xml" rel="self" type="application/rss+xml" />
     <description>Mauro Conti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>Mauro Conti</title>
       <link>https://tippenhauer.de/authors/mauro-conti/</link>
     </image>
+    
+    <item>
+      <title>Assessing the Use of Insecure ICS Protocols via IXP Network Traffic Analysis</title>
+      <link>https://tippenhauer.de/publication/barbieri-21-assessing/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/barbieri-21-assessing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COTS Drone Detection Using Video Streaming Characteristics</title>

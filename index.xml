@@ -5,7 +5,7 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>Nils Ole Tippenhauer</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring</title>
+      <link>https://tippenhauer.de/publication/han-22-hiding/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/han-22-hiding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks</title>
       <link>https://tippenhauer.de/publication/wu-21-lightblue/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/wu-21-lightblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Use of Insecure ICS Protocols via IXP Network Traffic Analysis</title>
+      <link>https://tippenhauer.de/publication/barbieri-21-assessing/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/barbieri-21-assessing/</guid>
       <description></description>
     </item>
     
@@ -65,6 +81,14 @@
 &lt;p&gt;My twitter account currently follows 81, has 214 followers, and 113 tweets.&lt;/p&gt;
 &lt;p&gt;Due to the homeoffice situation, I am a Youtuber now: 2.7k views (804h of watchtime) on 33 videos total (most from the two lectures I gave in 2020). 13 subscribers. The videos are private, so I won&amp;rsquo;t share them here. 26 likes total (100% like ratio).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Attack Detection for CPS</title>
+      <link>https://tippenhauer.de/publication/tippenhauer-2021-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/tippenhauer-2021-detection/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -562,6 +586,14 @@ and discussion of the paper by default.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments</title>
+      <link>https://tippenhauer.de/publication/murillo-20-cosimulating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/murillo-20-cosimulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decentralized Privacy-Preserving Proximity Tracing</title>
       <link>https://tippenhauer.de/publication/troncoso-2020-decentralized/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -969,14 +1001,36 @@ released the website (
 &lt;/ul&gt;
 &lt;h4 id=&#34;tpc-membership-selection&#34;&gt;TPC Membership (selection)&lt;/h4&gt;
 &lt;p&gt;I am/was involved in the following conferences:&lt;/p&gt;
+&lt;p&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;USENIX Security Symposium, 2020-2021&lt;/li&gt;
-&lt;li&gt;ACM AsiaCCS, 2021-2022&lt;/li&gt;
+&lt;li&gt;ACM AsiaCCS, 2021-2022
+=======&lt;/li&gt;
+&lt;li&gt;USENIX Security Symposium, 2020-2022&lt;/li&gt;
+&lt;li&gt;ACM AsiaCCS, 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;b7b089d06a90e75c766dfddd02197e04eb227e07&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
 &lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018-2019&lt;/li&gt;
 &lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2021&lt;/li&gt;
 &lt;li&gt;European Symposium on Research in Computer Security (ESORICS), 2017-2021&lt;/li&gt;
 &lt;li&gt;International Conference on Critical Information Infrastructures (CRITIS), 2019-2021&lt;/li&gt;
 &lt;li&gt;ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2017-2021&lt;/li&gt;
+&lt;li&gt;GI Sicherheit, 2022&lt;/li&gt;
 &lt;li&gt;Conference on Cryptology and Network Security (CANS), 2017&lt;/li&gt;
 &lt;li&gt;Singapore-Cyber Security R&amp;amp;D Conference (SG-CRC) 2016-2017&lt;/li&gt;
 &lt;li&gt;International Symposium on High Assurance Systems Engineering (HASE), 2017&lt;/li&gt;
@@ -987,7 +1041,7 @@ released the website (
 &lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020-21&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Industrial Control Systems &amp;amp; of Cyber-Physical Systems (CyberICPS), 2020-21  (co-located with Esorics)&lt;/li&gt;
 &lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020-2022 (co-located with S&amp;amp;P)&lt;/li&gt;
-&lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2021 (co-located with ASIA-CCS)&lt;/li&gt;
+&lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2022 (co-located with ASIA-CCS)&lt;/li&gt;
 &lt;li&gt;ACM Workshop on Cyber-Physical Systems-Security and PrivaCy (CPS-SPC), 2016-2019 (co-located with CCS)&lt;/li&gt;
 &lt;li&gt;IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec) co-located with CNS, 2016-2017, 2019-2020&lt;/li&gt;
 &lt;li&gt;Workshop on Cyber Security for Intelligent Transportation Systems (CSITS), 2018-2019 (co-located with Esorics)&lt;/li&gt;

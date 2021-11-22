@@ -198,44 +198,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-102288779-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-102288779-1', { 'anonymize_ip': true });
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -269,7 +231,7 @@
   <meta property="og:description" content="Faculty"><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-08-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2022-08-01T00:00:00&#43;00:00">
   
 
   
@@ -578,6 +540,21 @@
     
     
       
+      <li><a href="https://tippenhauer.de/authors/matthew-chan/">Matthew Chan</a></li>
+    
+      
+      <li><a href="https://tippenhauer.de/authors/nils-ole-tippenhauer/">Nils Ole Tippenhauer</a></li>
+    
+      
+      <li><a href="https://tippenhauer.de/authors/saman-zonouz/">Saman Zonouz</a></li>
+    
+      
+      <li><a href="https://tippenhauer.de/authors/yi-han/">Yi Han</a></li>
+    
+      
+      <li><a href="https://tippenhauer.de/authors/zahra-aref/">Zahra Aref</a></li>
+    
+      
       <li><a href="https://tippenhauer.de/authors/antonio-bianchi/">Antonio Bianchi</a></li>
     
       
@@ -596,10 +573,16 @@
       <li><a href="https://tippenhauer.de/authors/mathias-payer/">Mathias Payer</a></li>
     
       
-      <li><a href="https://tippenhauer.de/authors/nils-ole-tippenhauer/">Nils Ole Tippenhauer</a></li>
+      <li><a href="https://tippenhauer.de/authors/ruoyu-wu/">Ruoyu Wu</a></li>
     
       
-      <li><a href="https://tippenhauer.de/authors/ruoyu-wu/">Ruoyu Wu</a></li>
+      <li><a href="https://tippenhauer.de/authors/federico-turrin/">Federico Turrin</a></li>
+    
+      
+      <li><a href="https://tippenhauer.de/authors/giovanni-barbieri/">Giovanni Barbieri</a></li>
+    
+      
+      <li><a href="https://tippenhauer.de/authors/mauro-conti/">Mauro Conti</a></li>
     
       
       <li><a href="https://tippenhauer.de/authors/anas-alsoliman/">Anas Alsoliman</a></li>
@@ -612,9 +595,6 @@
     
       
       <li><a href="https://tippenhauer.de/authors/marco-levorato/">Marco Levorato</a></li>
-    
-      
-      <li><a href="https://tippenhauer.de/authors/mauro-conti/">Mauro Conti</a></li>
     
       
       <li><a href="https://tippenhauer.de/authors/alessandro-erba/">Alessandro Erba</a></li>
@@ -635,9 +615,6 @@
       <li><a href="https://tippenhauer.de/authors/stefano-zanero/">Stefano Zanero</a></li>
     
       
-      <li><a href="https://tippenhauer.de/authors/federico-turrin/">Federico Turrin</a></li>
-    
-      
       <li><a href="https://tippenhauer.de/authors/kasper-rasmussen/">Kasper Rasmussen</a></li>
     
       
@@ -651,6 +628,9 @@
     
       
       <li><a href="https://tippenhauer.de/authors/alain-barrat/">Alain Barrat</a></li>
+    
+      
+      <li><a href="https://tippenhauer.de/authors/andres-murillo/">Andres Murillo</a></li>
     
       
       <li><a href="https://tippenhauer.de/authors/apostolos-pyrgelis/">Apostolos Pyrgelis</a></li>
@@ -719,6 +699,9 @@
       <li><a href="https://tippenhauer.de/authors/nigel-smart/">Nigel Smart</a></li>
     
       
+      <li><a href="https://tippenhauer.de/authors/nils-tippenhauer/">Nils Tippenhauer</a></li>
+    
+      
       <li><a href="https://tippenhauer.de/authors/patrick-leu/">Patrick Leu</a></li>
     
       
@@ -758,13 +741,7 @@
       <li><a href="https://tippenhauer.de/authors/luis-garcia/">Luis Garcia</a></li>
     
       
-      <li><a href="https://tippenhauer.de/authors/matthew-chan/">Matthew Chan</a></li>
-    
-      
       <li><a href="https://tippenhauer.de/authors/raad-bahmani/">Raad Bahmani</a></li>
-    
-      
-      <li><a href="https://tippenhauer.de/authors/saman-zonouz/">Saman Zonouz</a></li>
     
       
       <li><a href="https://tippenhauer.de/authors/dominik-breitenbacher/">Dominik Breitenbacher</a></li>
@@ -861,21 +838,6 @@
     
       
       <li><a href="https://tippenhauer.de/authors/enrique-campbell/">Enrique Campbell</a></li>
-    
-      
-      <li><a href="https://tippenhauer.de/authors/g.-lima/">G. Lima</a></li>
-    
-      
-      <li><a href="https://tippenhauer.de/authors/i.-montalvo/">I. Montalvo</a></li>
-    
-      
-      <li><a href="https://tippenhauer.de/authors/j.-izquierdo/">J. Izquierdo</a></li>
-    
-      
-      <li><a href="https://tippenhauer.de/authors/jr-e.-luvizotto/">Jr, E. Luvizotto</a></li>
-    
-      
-      <li><a href="https://tippenhauer.de/authors/kelsey-haddad/">Kelsey Haddad</a></li>
     
   </ul>
 
