@@ -198,6 +198,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-102288779-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-102288779-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -206,8 +244,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://tippenhauer.de/publication_types/1/">
 
@@ -228,10 +266,10 @@
   <meta property="og:site_name" content="Nils Ole Tippenhauer">
   <meta property="og:url" content="https://tippenhauer.de/publication_types/1/">
   <meta property="og:title" content="1 | Nils Ole Tippenhauer">
-  <meta property="og:description" content="Faculty"><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Faculty"><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-08-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-08-01T00:00:00&#43;00:00">
   
 
   
@@ -540,29 +578,7 @@
     
     
     <div>
-      <h2><a href="/publication/han-22-hiding/" >Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring</a></h2>
-      <div class="article-style">
-        
-          Physical side-channel monitoring leverages the physical phenomena produced by a microcontroller (e.g. power consumption or electromagnetic radiation) to monitor program execution for malicious behavior. As such, it offers a promising intrusion detection solution for resource-constrained embedded systems, which are incompatible with conventional security measures. This method is especially relevant in safety and security-critical embedded systems such as in industrial control systems. Side-channel monitoring poses unique challenges for would-be attackers, such as: (1) limiting attack vectors by being physically isolated from the monitored system, (2) monitoring immutable physical side channels with uninterpretable data-driven models, and (3) being specifically trained for the architectures and programs on which they are applied to. As a result, physical side-channel monitors are conventionally believed to provide a high level of security. In this paper, we propose a novel attack to illustrate that, despite the many barriers to attack that side-channel monitoring systems create, they are still vulnerable to adversarial attacks. We present a method for crafting functional malware such that, when injected into a side-channel-monitored system, the detector is not triggered. Our experiments reveal that this attack is robust across detector models and hardware implementations. We evaluate our attack on the popular ARM microcontroller platform on several representative programs, demonstrating the feasibility of such an attack and highlighting the need for further research into side-channel monitors.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
       <h2><a href="/publication/wu-21-lightblue/" >LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/barbieri-21-assessing/" >Assessing the Use of Insecure ICS Protocols via IXP Network Traffic Analysis</a></h2>
       <div class="article-style">
         
       </div>
@@ -603,16 +619,6 @@
     
     <div>
       <h2><a href="/publication/antonioli-20-bias/" >BIAS: Bluetooth Impersonation AttackS</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/murillo-20-cosimulating/" >Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments</a></h2>
       <div class="article-style">
         
       </div>
@@ -1226,7 +1232,7 @@
     
     
     
-    <script src="/js/academic.min.4aaf2d64e50f8e54cf66dcc54147a22e.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

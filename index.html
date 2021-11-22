@@ -198,6 +198,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-102288779-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-102288779-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -206,8 +244,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://tippenhauer.de/">
 
@@ -228,10 +266,10 @@
   <meta property="og:site_name" content="Nils Ole Tippenhauer">
   <meta property="og:url" content="https://tippenhauer.de/">
   <meta property="og:title" content="Nils Ole Tippenhauer">
-  <meta property="og:description" content="Faculty"><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Faculty"><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-08-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-08-01T00:00:00&#43;00:00">
   
 
   
@@ -595,7 +633,7 @@
 
       
       
-      <img class="avatar avatar-circle" src="/authors/not/avatar_hub6425d3cb60243c60517e63ddad0b386_96945_270x270_fill_lanczos_center_3.png" alt="Nils Ole Tippenhauer">
+      <img class="avatar avatar-circle" src="/authors/not/avatar_hub6425d3cb60243c60517e63ddad0b386_96945_270x270_fill_lanczos_center_2.png" alt="Nils Ole Tippenhauer">
       
 
       <div class="portrait-title">
@@ -1346,64 +1384,6 @@
     
 
   
-  <span>Yi Han</span>, <span>Matthew Chan</span>, <span>Zahra Aref</span>, <span>Nils Ole Tippenhauer</span>, <span>Saman Zonouz</span>
-  </span>
-  (2022).
-  <a href="/publication/han-22-hiding/">Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring</a>.
-  <em>Proceedings of the USENIX Security Symposium (USENIX Security)</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/han-22-hiding/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
   <span>Jianliang Wu</span>, <span>Ruoyu Wu</span>, <span>Daniele Antonioli</span>, <span>Mathias Payer</span>, <span>Nils Ole Tippenhauer</span>, <span>Dongyan Xu</span>, <span>Dave (Jing) Tian</span>, <span>Antonio Bianchi</span>
   </span>
   (2021).
@@ -1936,14 +1916,14 @@
         
         <li>
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">Kaiserstrasse 170, St. Ingbert, 66386</span>
+          <span id="person-address">Stuhlsatzenhaus 5, Saarbrucken, 66123</span>
         </li>
       
 
       
       <li>
         <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-        <span>In the Beckerturm Innovation Park, contact me for detailed instructions.</span>
+        <span>CISPA main building, take the stairs to Office 2.10 on Floor 2</span>
       </li>
       
 
@@ -1959,9 +1939,9 @@
     
     <div class="d-none">
       <input id="map-provider" value="2">
-      <input id="map-lat" value="49.281623">
-      <input id="map-lng" value="7.123212">
-      <input id="map-dir" value="Kaiserstrasse 170, St. Ingbert, 66386">
+      <input id="map-lat" value="49.259515">
+      <input id="map-lng" value="7.051884">
+      <input id="map-dir" value="Stuhlsatzenhaus 5, Saarbrucken, 66123">
       <input id="map-zoom" value="15">
       <input id="map-api-key" value="">
     </div>
@@ -2069,7 +2049,7 @@
     
     
     
-    <script src="/js/academic.min.4aaf2d64e50f8e54cf66dcc54147a22e.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

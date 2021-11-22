@@ -7,7 +7,7 @@
     <description>research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>research</title>
       <link>https://tippenhauer.de/categories/research/</link>
     </image>
@@ -197,8 +197,7 @@
       <link>https://tippenhauer.de/post/knob-attack/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/knob-attack/</guid>
-      <description>&lt;p&gt;We are finally able to announce our KNOB attack work, a project with Daniele Antonioli (SUTD) and Kasper Rasmussen (Oxford). In the work, we show that the Bluetooth protocol as used by billions of devices is broken from a security perspective, and attackers can eavesdrop and manipulate communication in a stealthy way. More details and a summary of media coverage on 
-&lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://knobattack.com&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We are finally able to announce our KNOB attack work, a project with Daniele Antonioli (SUTD) and Kasper Rasmussen (Oxford). In the work, we show that the Bluetooth protocol as used by billions of devices is broken from a security perspective, and attackers can eavesdrop and manipulate communication in a stealthy way. More details and a summary of media coverage on &lt;a href=&#34;https://knobattack.com&#34;&gt;https://knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -486,8 +485,7 @@ of a blockchain network. Finally, we discuss some research directions that could
 &lt;h4 id=&#34;bio&#34;&gt;Bio:&lt;/h4&gt;
 &lt;p&gt;Debdeep is currently an Associate Professor at the Department of Computer Science and Engineering, IIT-Kharagpur, India and a visiting scientist
 at School of Computer Science and Engineering at NTU-Singapore. At IIT Kharagpur he initiated the Secured Embedded Architecture Laboratory (SEAL), with a focus on Embedded Security and Side Channel Attacks. Prior to this he worked as a visiting Associate Professor of NYU-Shanghai, Assistant Professor at IIT-Madras, and as Visiting Researcher at NYU Tandon-School-of-Engineering, USA. He holds a PhD, MS, and B. Tech from IIT-Kharagpur. His research interests are Cryptography, Hardware Security, and VLSI. He is in the Program Committee of several top-tier conferences in his area like CHES, DATE, etc. and is the Associate Editor of Journal of Hardware and Systems Security, Springer.
-He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scientist award from the Indian National Science Academy, Young Engineer award from the Indian National Academy of Engineers, and is Young Associate of the Indian Academy of Science. He has incubated a start-up, ESP Pvt Ltd at IIT Kharagpur (
-&lt;a href=&#34;http://esp-research.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://esp-research.com/)&lt;/a&gt;.&lt;/p&gt;
+He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scientist award from the Indian National Science Academy, Young Engineer award from the Indian National Academy of Engineers, and is Young Associate of the Indian Academy of Science. He has incubated a start-up, ESP Pvt Ltd at IIT Kharagpur (&lt;a href=&#34;http://esp-research.com/)&#34;&gt;http://esp-research.com/)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1048,21 +1046,18 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
 This setup works for my staff account. Hopefully, it should work for student account, just change the realm to SUTD_Student and the url_1 part in the URLs into url_0&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Get the client software from the VPN portal:
-Visit 
-&lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&lt;/a&gt; enter your credentials to get a running session. Then, you are able to download the app using the following commands. Check if the received .jar is correct, it should be 2MB large.
+Visit &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&lt;/a&gt; enter your credentials to get a running session. Then, you are able to download the app using the following commands. Check if the received .jar is correct, it should be 2MB large.
 &lt;pre&gt;&lt;code&gt;$ mkdir ~/.juniper_networks
 $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_networks/ncLinuxApp.jar --no-check-certificate
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
-&lt;li&gt;get msjnc from 
-&lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
+&lt;li&gt;get msjnc from &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
 &lt;img src=&#34;vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
 &lt;img src=&#34;vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
 the full Server/URL is:
-
-&lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
+&lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!

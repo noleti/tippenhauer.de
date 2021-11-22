@@ -198,6 +198,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-102288779-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-102288779-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -206,8 +244,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua225200734429db22ec36f52bdb16dff_217603_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://tippenhauer.de/authors/ciro-cattuto/">
 
@@ -228,8 +266,8 @@
   <meta property="og:site_name" content="Nils Ole Tippenhauer">
   <meta property="og:url" content="https://tippenhauer.de/authors/ciro-cattuto/">
   <meta property="og:title" content="Ciro Cattuto | Nils Ole Tippenhauer">
-  <meta property="og:description" content="Faculty"><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Faculty"><meta property="og:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-01-01T00:00:00&#43;00:00">
   
@@ -625,7 +663,7 @@
     
     
     
-    <script src="/js/academic.min.4aaf2d64e50f8e54cf66dcc54147a22e.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 
