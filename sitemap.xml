@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://tippenhauer.de/authors/</loc>
-    <lastmod>2021-10-05T11:30:24+02:00</lastmod>
+    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://tippenhauer.de/</loc>
-    <lastmod>2021-10-05T11:30:24+02:00</lastmod>
+    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -50,6 +50,31 @@
   <url>
     <loc>https://tippenhauer.de/authors/zahra-aref/</loc>
     <lastmod>2021-10-05T11:30:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/categories/</loc>
+    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/tags/meta/</loc>
+    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/categories/research/</loc>
+    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/tags/</loc>
+    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tippenhauer.de/post/2021-tenure/</loc>
+    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,11 +138,6 @@
   </url>
   
   <url>
-    <loc>https://tippenhauer.de/categories/</loc>
-    <lastmod>2021-03-08T19:36:49+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tippenhauer.de/tags/cfp/</loc>
     <lastmod>2021-01-23T12:51:18+01:00</lastmod>
   </url>
@@ -133,23 +153,8 @@
   </url>
   
   <url>
-    <loc>https://tippenhauer.de/tags/</loc>
-    <lastmod>2021-03-08T19:36:49+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tippenhauer.de/post/2020-in-numbers/</loc>
     <lastmod>2021-01-19T10:10:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/tags/meta/</loc>
-    <lastmod>2021-03-08T19:36:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tippenhauer.de/categories/research/</loc>
-    <lastmod>2021-03-08T19:36:49+01:00</lastmod>
   </url>
   
   <url>
@@ -949,7 +954,7 @@
   
   <url>
     <loc>https://tippenhauer.de/service/</loc>
-    <lastmod>2021-12-17T18:40:48+01:00</lastmod>
+    <lastmod>2021-12-23T09:00:43+01:00</lastmod>
   </url>
   
   <url>
