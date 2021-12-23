@@ -7,7 +7,7 @@
     <description>News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://tippenhauer.de/post/</link>
     </image>
@@ -26,8 +26,7 @@
 &lt;p&gt;21-24 June 2021 in Kamakura, Japan (or online, if the situation requires)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&#34;&gt;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Important Dates:&lt;/p&gt;
@@ -129,8 +128,7 @@ conference website. Submissions can be made via easychair directly at&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://easychair.org/my/login_author?conference=250210&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://easychair.org/my/login_author?conference=250210&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For any questions regarding the submission or the conference, please
-write to 
-&lt;a href=&#34;mailto:acns2021-contact@googlegroups.com&#34;&gt;acns2021-contact@googlegroups.com&lt;/a&gt;&lt;/p&gt;
+write to &lt;a href=&#34;mailto:acns2021-contact@googlegroups.com&#34;&gt;acns2021-contact@googlegroups.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Detailed formatting instructions are given below in this post.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&lt;/a&gt; (should be reachable
@@ -191,8 +189,7 @@ affiliations, acknowledgement or obvious references. Each submission
 must begin with a title and short abstract. The introduction should
 summarise the contributions of the paper at a level appropriate
 for a non-specialist reader. All submissions must follow the original
-LNCS format (see 
-&lt;a href=&#34;http://www.springeronline.com/lncs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.springeronline.com/lncs&lt;/a&gt;​ ) with a page limit
+LNCS format (see &lt;a href=&#34;http://www.springeronline.com/lncs&#34;&gt;http://www.springeronline.com/lncs&lt;/a&gt;​ ) with a page limit
 of 20 pages (incl. references) for the main part (reviewers are not
 required to read beyond this limit) and 30 pages in total. Papers should
 be submitted electronically in PDF format. Papers rejected at the first
@@ -334,8 +331,7 @@ and discussion of the paper by default.&lt;/p&gt;
 &lt;p&gt;21-24 June 2021 in Kamakura, Japan (or online, if the situation requires)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&#34;&gt;http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Important Dates:&lt;/p&gt;
@@ -533,8 +529,7 @@ and discussion of the paper by default.&lt;/p&gt;
       <link>https://tippenhauer.de/post/knob-attack/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/knob-attack/</guid>
-      <description>&lt;p&gt;We are finally able to announce our KNOB attack work, a project with Daniele Antonioli (SUTD) and Kasper Rasmussen (Oxford). In the work, we show that the Bluetooth protocol as used by billions of devices is broken from a security perspective, and attackers can eavesdrop and manipulate communication in a stealthy way. More details and a summary of media coverage on 
-&lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://knobattack.com&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We are finally able to announce our KNOB attack work, a project with Daniele Antonioli (SUTD) and Kasper Rasmussen (Oxford). In the work, we show that the Bluetooth protocol as used by billions of devices is broken from a security perspective, and attackers can eavesdrop and manipulate communication in a stealthy way. More details and a summary of media coverage on &lt;a href=&#34;https://knobattack.com&#34;&gt;https://knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -846,8 +841,7 @@ released the website (
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetuptuhh318/</guid>
       <description>&lt;p&gt;We plan to have another meetup of the local TUHH Alumni chapter on March 27th, 7 pm at Restaurant Brotzeit at Harbourfront! Keep in touch with your alma mater and former fellow students. Several visiting TUHH staff members will also attend this event and report about developments at the Hamburg University of Technology.&lt;/p&gt;
-&lt;p&gt;To register, please send a message to Vera Lindenlaub at 
-&lt;a href=&#34;mailto:tuandyou@tuhh.de&#34;&gt;tuandyou@tuhh.de&lt;/a&gt; with your full name, your contact details, and your connection to TUHH (e.g. study, work).&lt;/p&gt;
+&lt;p&gt;To register, please send a message to Vera Lindenlaub at &lt;a href=&#34;mailto:tuandyou@tuhh.de&#34;&gt;tuandyou@tuhh.de&lt;/a&gt; with your full name, your contact details, and your connection to TUHH (e.g. study, work).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;March 27th 2018, 7pm&lt;/li&gt;
 &lt;li&gt;Restaurant Brotzeit&lt;/li&gt;
@@ -903,8 +897,7 @@ of a blockchain network. Finally, we discuss some research directions that could
       <link>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</guid>
-      <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. 
-&lt;a href=&#34;http://www.nse.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
+      <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. &lt;a href=&#34;http://www.nse.sg&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
 &lt;p&gt;For everyone interested: please write me a quick mail, so I can make sure to keep you updated.&lt;/p&gt;
 &lt;p&gt;As a special guest, we will be joined by Prof. Ed Brinksma, who was just elected as next President of TUHH! So don’t miss this opportunity to connect back to TUHH.&lt;/p&gt;
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
@@ -922,8 +915,7 @@ of a blockchain network. Finally, we discuss some research directions that could
 &lt;h4 id=&#34;bio&#34;&gt;Bio:&lt;/h4&gt;
 &lt;p&gt;Debdeep is currently an Associate Professor at the Department of Computer Science and Engineering, IIT-Kharagpur, India and a visiting scientist
 at School of Computer Science and Engineering at NTU-Singapore. At IIT Kharagpur he initiated the Secured Embedded Architecture Laboratory (SEAL), with a focus on Embedded Security and Side Channel Attacks. Prior to this he worked as a visiting Associate Professor of NYU-Shanghai, Assistant Professor at IIT-Madras, and as Visiting Researcher at NYU Tandon-School-of-Engineering, USA. He holds a PhD, MS, and B. Tech from IIT-Kharagpur. His research interests are Cryptography, Hardware Security, and VLSI. He is in the Program Committee of several top-tier conferences in his area like CHES, DATE, etc. and is the Associate Editor of Journal of Hardware and Systems Security, Springer.
-He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scientist award from the Indian National Science Academy, Young Engineer award from the Indian National Academy of Engineers, and is Young Associate of the Indian Academy of Science. He has incubated a start-up, ESP Pvt Ltd at IIT Kharagpur (
-&lt;a href=&#34;http://esp-research.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://esp-research.com/)&lt;/a&gt;.&lt;/p&gt;
+He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scientist award from the Indian National Science Academy, Young Engineer award from the Indian National Academy of Engineers, and is Young Associate of the Indian Academy of Science. He has incubated a start-up, ESP Pvt Ltd at IIT Kharagpur (&lt;a href=&#34;http://esp-research.com/)&#34;&gt;http://esp-research.com/)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1723,8 +1715,7 @@ file:figs/greatFigure.png
       <guid>https://tippenhauer.de/post/cfp-ifip-sec-2016/</guid>
       <description>&lt;p&gt;I’m on the TPC for the 31th IFIP TC-11 SEC 2016 International Information Security and Privacy Conference. Its CfP was just released, more details here. Deadline for paper submissions is December 24, 2015. From the CfP:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, 
-&lt;a href=&#34;http://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
+&lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, &lt;a href=&#34;http://www.ifiptc11.org&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1802,8 +1793,7 @@ of energy and transportation.&lt;/p&gt;
       <link>https://tippenhauer.de/post/istd-india-recruitment-trip/</link>
       <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/istd-india-recruitment-trip/</guid>
-      <description>&lt;p&gt;I will visit India (Delhi/Mumbai/Chennai) in September with a SUTD delegation to recruit PhD candidates and researchers. If you or your friends are interested to join the event, please apply with us now! Details on 
-&lt;a href=&#34;https://istd.sutd.edu.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://istd.sutd.edu.sg/&lt;/a&gt; and the attached image.&lt;/p&gt;
+      <description>&lt;p&gt;I will visit India (Delhi/Mumbai/Chennai) in September with a SUTD delegation to recruit PhD candidates and researchers. If you or your friends are interested to join the event, please apply with us now! Details on &lt;a href=&#34;https://istd.sutd.edu.sg/&#34;&gt;https://istd.sutd.edu.sg/&lt;/a&gt; and the attached image.&lt;/p&gt;
 </description>
     </item>
     
@@ -1953,21 +1943,18 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
 This setup works for my staff account. Hopefully, it should work for student account, just change the realm to SUTD_Student and the url_1 part in the URLs into url_0&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Get the client software from the VPN portal:
-Visit 
-&lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;, enter your credentials to get a running session. Then, you are able to download the app using the following commands. Check if the received .jar is correct, it should be 2MB large.
+Visit &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi,&lt;/a&gt; enter your credentials to get a running session. Then, you are able to download the app using the following commands. Check if the received .jar is correct, it should be 2MB large.
 &lt;pre&gt;&lt;code&gt;$ mkdir ~/.juniper_networks
 $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_networks/ncLinuxApp.jar --no-check-certificate
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
-&lt;li&gt;get msjnc from 
-&lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
+&lt;li&gt;get msjnc from &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
 &lt;img src=&#34;vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
 &lt;img src=&#34;vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
 the full Server/URL is:
-
-&lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
+&lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
