@@ -5,12 +5,30 @@
     <link>https://tippenhauer.de/categories/research/</link>
       <atom:link href="https://tippenhauer.de/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <description>research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>research</title>
       <link>https://tippenhauer.de/categories/research/</link>
     </image>
+    
+    <item>
+      <title>2020 in numbers</title>
+      <link>https://tippenhauer.de/post/2021-in-numbers/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/2021-in-numbers/</guid>
+      <description>&lt;p&gt;2021 is over now, and unfortunately it went similar to 2020. I spent more than half of the year in home office (mostly with my kids at home as well). In December, I was awarded tenure (i.e. an unlimited contract) at CISPA after a positive evaluation. My numbers for 2021, continuing my 
+&lt;a href=&#34;https://tippenhauer.de/post/2020-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;. As of now, first week of January 2022, my publications reached ~4300 citations according to 
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~3100 at this time last year/ 2100 two years ago/ 1400 three years ago/ 1000 four years ago/ 700 five years ago). So I finally hit the 1k cites/year milestone, which is a (small) reason for celebration. Google scholar currently lists ~90 publications (vs. 80 last year, most peer-reviewed), and 2 US patents and several pending ones. Our first GPS paper currently has 495 cites (after 427 last year), in total 10 papers have &amp;gt;100 cites. My h-index has increased to 34 (from 29), my i10-index is currently 57, from 50 last year.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 3457 citations and 103 publications. They still indicate how many papers were strongly influenced by my work (203), compared to 169 in previous year. Authors listed as most influenced (unclear what that means) by my work are: Srdjan Capkun (146), Aditya Mathur (125), D. Antonioli (114), Alvaro Cardenas (92), and Sridhar Adepu (91).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; is currently down, and I will update numbers in this section later. Last year&amp;rsquo;s numbers: 63 publications, ~1558 citations, h-index 21, number of co-authors: 119 (113 last year).&lt;/p&gt;
+&lt;p&gt;Other numbers for 2021: Github lists 242 commits to repositories (after 697 in 2020), mostly for my BMBF project Kamaeleon. I received 10591 mails on my university accounts (after removal of spam). Per working day, that would make around 42 (previous year: 42) mails. I sent 2236 mails (~10 per working day, last year also 10). Both numbers have remained virtually the same as in 2020. While we still use Mattermost to communicate with others at CISPA, the work-from-home situation now introduced various other chat systems I need to keep track of.&lt;/p&gt;
+&lt;p&gt;My twitter account currently follows 97, has 290 followers, and ??? tweets (can&amp;rsquo;t find the count at the moment?).&lt;/p&gt;
+&lt;p&gt;Due to the homeoffice situation, I am a Youtuber now: 6k views (1.7kh of watchtime) on 52 videos total (most from the lectures I gave in 2020 and 2021). 18 subscribers. The videos are private, so I won&amp;rsquo;t share them here. ~50 likes total (100% like ratio).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tenure at CISPA</title>
@@ -39,24 +57,6 @@
 &lt;a href=&#34;https://github.com/neherlab/covid19_scenarios&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Covid19-Scenarios&lt;/a&gt;. I received 10832 mails on my university accounts (after removal of spam). Per working day, that would make around 42 (previous year: 20) mails. I sent 2167 mails (~10 per working day, last year 5). Both numbers have doubled compared to 2019 statistics, due to my growing group at CISPA, and involvement in projects such as DP3T. While we still use Mattermost to communicate with others at CISPA, the work-from-home situation now introduced various other chat systems I need to keep track of.&lt;/p&gt;
 &lt;p&gt;My twitter account currently follows 81, has 214 followers, and 113 tweets.&lt;/p&gt;
 &lt;p&gt;Due to the homeoffice situation, I am a Youtuber now: 2.7k views (804h of watchtime) on 33 videos total (most from the two lectures I gave in 2020). 13 subscribers. The videos are private, so I won&amp;rsquo;t share them here. 26 likes total (100% like ratio).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2020 in numbers</title>
-      <link>https://tippenhauer.de/post/2021-in-numbers/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/post/2021-in-numbers/</guid>
-      <description>&lt;p&gt;2021 is over now, and unfortunately it went similar to 2020. I spent more than half of the year in home office (mostly with my kids at home as well). In December, I was awarded tenure (i.e. an unlimited contract) at CISPA after a positive evaluation. My numbers for 2021, continuing my 
-&lt;a href=&#34;https://tippenhauer.de/post/2020-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;. As of now, first week of January 2022, my publications reached ~4300 citations according to 
-&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~3100 at this time last year/ 2100 two years ago/ 1400 three years ago/ 1000 four years ago/ 700 five years ago). So I finally hit the 1k cites/year milestone, which is a (small) reason for celebration. Google scholar currently lists ~90 publications (vs. 80 last year, most peer-reviewed), and 2 US patents and several pending ones. Our first GPS paper currently has 495 cites (after 427 last year), in total 10 papers have &amp;gt;100 cites. My h-index has increased to 34 (from 29), my i10-index is currently 57, from 50 last year.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 3457 citations and 103 publications. They still indicate how many papers were strongly influenced by my work (203), compared to 169 in previous year. Authors listed as most influenced (unclear what that means) by my work are: Srdjan Capkun (146), Aditya Mathur (125), D. Antonioli (114), Alvaro Cardenas (92), and Sridhar Adepu (91).&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; is currently down, and I will update numbers in this section later. Last year&amp;rsquo;s numbers: 63 publications, ~1558 citations, h-index 21, number of co-authors: 119 (113 last year).&lt;/p&gt;
-&lt;p&gt;Other numbers for 2021: Github lists 242 commits to repositories (after 697 in 2020), mostly for my BMBF project Kamaeleon. I received 10591 mails on my university accounts (after removal of spam). Per working day, that would make around 42 (previous year: 42) mails. I sent 2236 mails (~10 per working day, last year also 10). Both numbers have remained virtually the same as in 2020. While we still use Mattermost to communicate with others at CISPA, the work-from-home situation now introduced various other chat systems I need to keep track of.&lt;/p&gt;
-&lt;p&gt;My twitter account currently follows 97, has 290 followers, and ??? tweets (can&amp;rsquo;t find the count at the moment?).&lt;/p&gt;
-&lt;p&gt;Due to the homeoffice situation, I am a Youtuber now: 6k views (1.7kh of watchtime) on 52 videos total (most from the lectures I gave in 2020 and 2021). 18 subscribers. The videos are private, so I won&amp;rsquo;t share them here. ~50 likes total (100% like ratio).&lt;/p&gt;
 </description>
     </item>
     
