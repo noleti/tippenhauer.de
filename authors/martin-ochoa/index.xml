@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/authors/martin-ochoa/</link>
       <atom:link href="https://tippenhauer.de/authors/martin-ochoa/index.xml" rel="self" type="application/rss+xml" />
     <description>Martín Ochoa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_2.png</url>
       <title>Martín Ochoa</title>
       <link>https://tippenhauer.de/authors/martin-ochoa/</link>
     </image>
+    
+    <item>
+      <title>Constrained Proximity Attacks on Mobile Targets</title>
+      <link>https://tippenhauer.de/publication/wang-22-constrained/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/wang-22-constrained/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detection of Threats to IoT Devices using Scalable VPN-forwarded Honeypots</title>

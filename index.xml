@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Constrained Proximity Attacks on Mobile Targets</title>
+      <link>https://tippenhauer.de/publication/wang-22-constrained/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/wang-22-constrained/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2021 in numbers</title>
       <link>https://tippenhauer.de/post/2021-in-numbers/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
@@ -39,6 +47,14 @@
 &lt;p&gt;My twitter account currently follows 97, has 290 followers, and ??? tweets (can&amp;rsquo;t find the count at the moment?).&lt;/p&gt;
 &lt;p&gt;Due to the homeoffice situation, I am a Youtuber now: 6k views (1.7kh of watchtime) on 52 videos total (most from the lectures I gave in 2020 and 2021). 18 subscribers. The videos are private, so I won&amp;rsquo;t share them here. ~50 likes total (100% like ratio).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Blurtooth: Exploiting cross-transport key derivation in Bluetooth classic and Bluetooth low energy</title>
+      <link>https://tippenhauer.de/publication/antonioli-22-blurtooth/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/antonioli-22-blurtooth/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -122,10 +138,10 @@
     </item>
     
     <item>
-      <title>COTS Drone Detection Using Video Streaming Characteristics</title>
-      <link>https://tippenhauer.de/publication/alsoliman-21-drones/</link>
+      <title>COTS Drone Detection using Video Streaming Characteristics</title>
+      <link>https://tippenhauer.de/publication/alsoliman-21-drone/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/alsoliman-21-drones/</guid>
+      <guid>https://tippenhauer.de/publication/alsoliman-21-drone/</guid>
       <description></description>
     </item>
     
