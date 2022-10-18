@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/authors/alessandro-erba/</link>
       <atom:link href="https://tippenhauer.de/authors/alessandro-erba/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandro Erba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Alessandro Erba</title>
       <link>https://tippenhauer.de/authors/alessandro-erba/</link>
     </image>
+    
+    <item>
+      <title>Assessing Model-free Anomaly Detection in Industrial Control Systems Against Generic Concealment Attacks</title>
+      <link>https://tippenhauer.de/publication/erba-2022-modelfree/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/erba-2022-modelfree/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems</title>
