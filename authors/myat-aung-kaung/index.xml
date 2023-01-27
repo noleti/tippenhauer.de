@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nils Tippenhauer | Nils Ole Tippenhauer</title>
-    <link>https://tippenhauer.de/authors/nils-tippenhauer/</link>
-      <atom:link href="https://tippenhauer.de/authors/nils-tippenhauer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nils Tippenhauer</description>
+    <title>Myat Aung Kaung | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/myat-aung-kaung/</link>
+      <atom:link href="https://tippenhauer.de/authors/myat-aung-kaung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myat Aung Kaung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
-      <title>Nils Tippenhauer</title>
-      <link>https://tippenhauer.de/authors/nils-tippenhauer/</link>
+      <title>Myat Aung Kaung</title>
+      <link>https://tippenhauer.de/authors/myat-aung-kaung/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://tippenhauer.de/publication/mathur-2022-defense/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/mathur-2022-defense/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments</title>
-      <link>https://tippenhauer.de/publication/murillo-20-cosimulating/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/murillo-20-cosimulating/</guid>
       <description></description>
     </item>
     

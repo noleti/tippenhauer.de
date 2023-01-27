@@ -19,7 +19,7 @@
       <guid>https://tippenhauer.de/post/2022-in-numbers/</guid>
       <description>&lt;p&gt;2022 is over now, and COVID-wise things are somewhat getting back to normal. Our group started to return to the office most days. As highlight of 2023, CISPA had a quite successful external scientific evaluation in November. Metric-wise (continuing my 
 &lt;a href=&#34;https://tippenhauer.de/post/2022-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;), the year went as follows. As of now, first week of January 2023, my publications reached ~5500 citations according to 
-&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~4200 at this time last year/ 3100 two years ago/ 2100 three years ago/ 1400 four years ago/ 1000 five years ago). So growth has slowed  a bit, but so far I&amp;rsquo;m hoping to reach the 2021 citations numbers when some missing citations are added for 2022. Google scholar currently lists ~95 publications (vs. 90 last year, most peer-reviewed), and 2 US patents and several pending ones. Our first GPS paper currently has 581 cites (after 495 last year), in total 15 papers have &amp;gt;100 cites. My h-index has increased to 39 (from 34, my i10-index is currently 65, from 57 last year.&lt;/p&gt;
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~4200 at this time last year/ 3100 two years ago/ 2100 three years ago/ 1400 four years ago/ 1000 five years ago). So growth has slowed  a bit, but so far I&amp;rsquo;m hoping to reach the 2021 citations numbers when some missing citations are added for 2022. Google scholar currently lists ~95 publications (vs. 90 last year, most peer-reviewed), and 2 US patents and several pending ones. Our first GPS paper currently has 581 cites (after 495 last year), in total 15 papers have &amp;gt;100 cites. My h-index has increased to 39 (from 34, my i10-index is currently 65, from 57 last year. Unfortunately, our GPS paper did not get a &lt;code&gt;test-of-time&lt;/code&gt; award at CCS 2022, as the organizers chose to only award one paper from 2011 (compared to two in 2012), and that was &lt;code&gt;Android permissions demystifyied&lt;/code&gt; with almost 2k citations. I feel that our paper&amp;rsquo;s citation trajectory suggests an even better long term impact, with numbers still rising yearly after 10 years.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 4380 citations and 105 publications. They still indicate how many papers were strongly influenced by my work (332), compared to 203 in previous year.They don&amp;rsquo;t list which authors were  most influenced any more. I supposedly had 200 co-authors overall.&lt;/p&gt;
 &lt;p&gt;
@@ -29,6 +29,15 @@
 &lt;p&gt;My twitter account currently follows 108, has 357 followers. I set up a mastodon accound at well (
 &lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;, but am not very active on either.&lt;/p&gt;
 &lt;p&gt;My total Youtube stats: 8k views (2.2kh of watchtime) on ~65 videos total (most from the lectures I gave in &amp;lsquo;20-&amp;lsquo;22). 21 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here. ~55 likes total (100% like ratio).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two best paper awards</title>
+      <link>https://tippenhauer.de/post/two-best-paper-awards/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/two-best-paper-awards/</guid>
+      <description>&lt;p&gt;Two papers of my PhD student Alessandro Erba recently got a best paper award: &lt;code&gt; Assessing Model-free Anomaly Detection in Industrial Control Systems Against Generic Concealment Attacks&lt;/code&gt; at ACSAC&#39;22, and &lt;code&gt; Security Analysis of Vendor Implementations of the OPC UA Protocol for Industrial Control Systems&lt;/code&gt; at CPSIOTSec&#39;22 (co-authored by Anne Müller, who is now a PhD student with Nico Döttling). It is great to see this appreciation of these works, as both papers were previously rejected at other comparable venues.&lt;/p&gt;
 </description>
     </item>
     
@@ -138,6 +147,14 @@ Such artifacts will be evaluated by the artifact evaluation committee and corres
     </item>
     
     <item>
+      <title>Defense system and method against cyber-physical attacks</title>
+      <link>https://tippenhauer.de/publication/mathur-2022-defense/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/mathur-2022-defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring</title>
       <link>https://tippenhauer.de/publication/han-22-hiding/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
@@ -195,6 +212,14 @@ Such artifacts will be evaluated by the artifact evaluation committee and corres
       <link>https://tippenhauer.de/publication/ibrahim-22-templates/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/ibrahim-22-templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Analysis of Vendor Implementations of the OPC UA Protocol for Industrial Control Systems</title>
+      <link>https://tippenhauer.de/publication/erba-22-opcua/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/erba-22-opcua/</guid>
       <description></description>
     </item>
     

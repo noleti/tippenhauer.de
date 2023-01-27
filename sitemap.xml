@@ -3,24 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tippenhauer.de/post/2022-in-numbers/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T08:58:32+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/categories/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T08:58:32+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/tags/meta/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T08:58:32+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/categories/research/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T08:58:32+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/tags/</loc>
+    <lastmod>2023-01-27T08:58:32+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/post/two-best-paper-awards/</loc>
     <lastmod>2023-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/tags/cfp/</loc>
@@ -32,8 +35,20 @@
     <loc>https://tippenhauer.de/categories/service/</loc>
     <lastmod>2022-12-12T14:13:44+01:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication_types/0/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/publication_types/1/</loc>
-    <lastmod>2022-11-21T12:16:47+01:00</lastmod>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/authors/aditya-mathur/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/mathur-2022-defense/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/authors/giedre-sabaliauskaite/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/han-22-hiding/</loc>
     <lastmod>2022-04-23T09:07:20+02:00</lastmod>
@@ -41,14 +56,26 @@
     <loc>https://tippenhauer.de/authors/matthew-chan/</loc>
     <lastmod>2022-04-23T09:07:20+02:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/authors/myat-aung-kaung/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/authors/nils-ole-tippenhauer/</loc>
-    <lastmod>2022-11-21T12:16:47+01:00</lastmod>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/authors/nils-tippenhauer/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication_types/</loc>
-    <lastmod>2022-11-21T12:16:47+01:00</lastmod>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/saman-zonouz/</loc>
     <lastmod>2022-04-23T09:07:20+02:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/authors/siddhant-shrivastava/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/authors/sridhar-adepu/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/yi-han/</loc>
     <lastmod>2022-04-23T09:07:20+02:00</lastmod>
@@ -81,7 +108,10 @@
     <lastmod>2022-11-21T12:16:47+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/alessandro-erba/</loc>
-    <lastmod>2022-11-21T12:16:47+01:00</lastmod>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/authors/anne-muller/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/erba-2022-modelfree/</loc>
     <lastmod>2022-11-21T12:16:47+01:00</lastmod>
@@ -106,6 +136,9 @@
   </url><url>
     <loc>https://tippenhauer.de/publication/ibrahim-22-templates/</loc>
     <lastmod>2022-11-21T12:16:47+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/erba-22-opcua/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/till-schluter/</loc>
     <lastmod>2022-11-21T12:16:47+01:00</lastmod>
@@ -343,9 +376,6 @@
   </url><url>
     <loc>https://tippenhauer.de/authors/nigel-smart/</loc>
     <lastmod>2020-11-26T17:20:19+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/authors/nils-tippenhauer/</loc>
-    <lastmod>2022-01-07T14:13:44+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/patrick-leu/</loc>
     <lastmod>2020-11-26T17:20:19+01:00</lastmod>
@@ -618,7 +648,7 @@
     <lastmod>2022-10-18T09:49:47+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/service/</loc>
-    <lastmod>2022-12-12T14:13:44+01:00</lastmod>
+    <lastmod>2023-01-27T08:58:32+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/joining-cipsa-in-august/</loc>
     <lastmod>2019-12-18T18:59:37+01:00</lastmod>
@@ -670,9 +700,6 @@
   </url><url>
     <loc>https://tippenhauer.de/authors/sandra-siby/</loc>
     <lastmod>2020-11-26T17:20:19+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/authors/sridhar-adepu/</loc>
-    <lastmod>2019-12-18T18:59:37+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</loc>
     <lastmod>2019-12-18T18:59:37+01:00</lastmod>
@@ -938,9 +965,6 @@
     <loc>https://tippenhauer.de/post/visit-by-adrian-perrig/</loc>
     <lastmod>2019-12-18T18:59:37+01:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/authors/aditya-mathur/</loc>
-    <lastmod>2019-12-18T18:59:37+01:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/publication/mathur-16-swat/</loc>
     <lastmod>2019-12-18T18:59:37+01:00</lastmod>
   </url><url>
@@ -1161,7 +1185,7 @@
     <lastmod>2019-12-18T18:59:37+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/not/</loc>
-    <lastmod>2022-12-19T11:19:14+01:00</lastmod>
+    <lastmod>2023-01-27T08:58:32+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/</loc>
     <lastmod>2019-12-18T18:59:37+01:00</lastmod>
