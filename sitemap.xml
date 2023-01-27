@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tippenhauer.de/post/2022-in-numbers/</loc>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/authors/</loc>
-    <lastmod>2022-12-19T11:19:14+01:00</lastmod>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/categories/</loc>
-    <lastmod>2022-12-12T14:13:44+01:00</lastmod>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/tags/meta/</loc>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/</loc>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/categories/research/</loc>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/tags/</loc>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/tags/cfp/</loc>
     <lastmod>2022-12-12T14:13:44+01:00</lastmod>
@@ -14,13 +29,7 @@
     <loc>https://tippenhauer.de/post/cfp-wisec-23/</loc>
     <lastmod>2022-12-12T14:13:44+01:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/</loc>
-    <lastmod>2022-12-19T11:19:14+01:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/categories/service/</loc>
-    <lastmod>2022-12-12T14:13:44+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/tags/</loc>
     <lastmod>2022-12-12T14:13:44+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication_types/1/</loc>
@@ -67,12 +76,6 @@
   </url><url>
     <loc>https://tippenhauer.de/post/2021-in-numbers/</loc>
     <lastmod>2022-01-08T11:20:36+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/tags/meta/</loc>
-    <lastmod>2022-10-04T15:15:49+02:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/categories/research/</loc>
-    <lastmod>2022-10-04T15:15:49+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/ahmad-ibrahim/</loc>
     <lastmod>2022-11-21T12:16:47+01:00</lastmod>
