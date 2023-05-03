@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>Blind Concealment from Reconstruction-based Attack Detectors for Industrial Control Systems via Backdoor Attacks</title>
+      <link>https://tippenhauer.de/publication/walita-23-blind/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/walita-23-blind/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2022 in numbers</title>
@@ -39,6 +47,14 @@
       <guid>https://tippenhauer.de/post/two-best-paper-awards/</guid>
       <description>&lt;p&gt;Two papers of my PhD student Alessandro Erba recently got a best paper award: &lt;code&gt; Assessing Model-free Anomaly Detection in Industrial Control Systems Against Generic Concealment Attacks&lt;/code&gt; at ACSAC&#39;22, and &lt;code&gt; Security Analysis of Vendor Implementations of the OPC UA Protocol for Industrial Control Systems&lt;/code&gt; at CPSIOTSec&#39;22 (co-authored by Anne Müller, who is now a PhD student with Nico Döttling). It is great to see this appreciation of these works, as both papers were previously rejected at other comparable venues.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Get Your Cyber-Physical Tests Done! Data-Driven Vulnerability  Assessment of Robotic Vehicle</title>
+      <link>https://tippenhauer.de/publication/ding-23-robotic/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/ding-23-robotic/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1231,7 +1247,7 @@ released the website (
 &lt;li&gt;USENIX Security Symposium, 2020-2024&lt;/li&gt;
 &lt;li&gt;ACM AsiaCCS, 2021-22&lt;/li&gt;
 &lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018-2019, 2022-2023&lt;/li&gt;
-&lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2021&lt;/li&gt;
+&lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2021, 2024&lt;/li&gt;
 &lt;li&gt;European Symposium on Research in Computer Security (ESORICS), 2017-2021, 2023&lt;/li&gt;
 &lt;li&gt;International Conference on Critical Information Infrastructures (CRITIS), 2019-2022&lt;/li&gt;
 &lt;li&gt;ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2017-2023&lt;/li&gt;
