@@ -5,20 +5,12 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
-    
-    <item>
-      <title>Blind Concealment from Reconstruction-based Attack Detectors for Industrial Control Systems via Backdoor Attacks</title>
-      <link>https://tippenhauer.de/publication/walita-23-blind/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/walita-23-blind/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>2022 in numbers</title>
@@ -54,6 +46,14 @@
       <link>https://tippenhauer.de/publication/ding-23-robotic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/ding-23-robotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time sensitive networking security: issues of precision time protocol and its implementation</title>
+      <link>https://tippenhauer.de/publication/berardi-23-time/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/berardi-23-time/</guid>
       <description></description>
     </item>
     
@@ -1017,7 +1017,7 @@ and discussion of the paper by default.&lt;/p&gt;
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/successful-defenses/</guid>
       <description>&lt;p&gt;My two first PhD students, Daniele Antonioli and Hamid Ghaeini, successfully defended their PhD in Singapore yesterday. Daniele presented his thesis with the title &amp;ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&amp;rdquo;, which included two recent tier one publications. Hamid&amp;rsquo;s thesis has the title &amp;ldquo;Threats to Industrial Control Systems and Process-based Countermeasures&amp;rdquo;, and included a recent RAID paper.&lt;/p&gt;
-&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&#39; group as PostDoc.&lt;/p&gt;
+&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&amp;rsquo; group as PostDoc.&lt;/p&gt;
 </description>
     </item>
     
@@ -1244,10 +1244,10 @@ released the website (
 &lt;h4 id=&#34;tpc-membership-selection&#34;&gt;TPC Membership (selection)&lt;/h4&gt;
 &lt;p&gt;I am/was involved in the following conferences:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;USENIX Security Symposium, 2020-2024&lt;/li&gt;
+&lt;li&gt;USENIX Security Symposium, 2020-2023&lt;/li&gt;
 &lt;li&gt;ACM AsiaCCS, 2021-22&lt;/li&gt;
 &lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018-2019, 2022-2023&lt;/li&gt;
-&lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2021, 2024&lt;/li&gt;
+&lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2021&lt;/li&gt;
 &lt;li&gt;European Symposium on Research in Computer Security (ESORICS), 2017-2021, 2023&lt;/li&gt;
 &lt;li&gt;International Conference on Critical Information Infrastructures (CRITIS), 2019-2022&lt;/li&gt;
 &lt;li&gt;ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2017-2023&lt;/li&gt;
@@ -1488,7 +1488,7 @@ of a blockchain network. Finally, we discuss some research directions that could
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</guid>
       <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. 
-&lt;a href=&#34;http://www.nse.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
+&lt;a href=&#34;https://www.nse.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
 &lt;p&gt;For everyone interested: please write me a quick mail, so I can make sure to keep you updated.&lt;/p&gt;
 &lt;p&gt;As a special guest, we will be joined by Prof. Ed Brinksma, who was just elected as next President of TUHH! So don’t miss this opportunity to connect back to TUHH.&lt;/p&gt;
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
@@ -2524,7 +2524,7 @@ file:figs/greatFigure.png
       <description>&lt;p&gt;I’m on the TPC for the 31th IFIP TC-11 SEC 2016 International Information Security and Privacy Conference. Its CfP was just released, more details here. Deadline for paper submissions is December 24, 2015. From the CfP:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, 
-&lt;a href=&#34;http://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
+&lt;a href=&#34;https://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

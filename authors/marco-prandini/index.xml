@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Prandini | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/marco-prandini/</link>
+      <atom:link href="https://tippenhauer.de/authors/marco-prandini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Prandini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
+      <title>Marco Prandini</title>
+      <link>https://tippenhauer.de/authors/marco-prandini/</link>
+    </image>
+    
+    <item>
+      <title>Time sensitive networking security: issues of precision time protocol and its implementation</title>
+      <link>https://tippenhauer.de/publication/berardi-23-time/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/berardi-23-time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
