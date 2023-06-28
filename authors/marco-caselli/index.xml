@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Caselli | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/marco-caselli/</link>
+      <atom:link href="https://tippenhauer.de/authors/marco-caselli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Caselli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
+      <title>Marco Caselli</title>
+      <link>https://tippenhauer.de/authors/marco-caselli/</link>
+    </image>
+    
+    <item>
+      <title>Identifying Near-Optimal Single-Shot Attacks on ICSs with Limited Process Knowledge</title>
+      <link>https://tippenhauer.de/publication/esquivel-2022-identifying/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/esquivel-2022-identifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
