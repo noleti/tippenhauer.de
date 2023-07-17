@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/authors/nils-ole-tippenhauer/</link>
       <atom:link href="https://tippenhauer.de/authors/nils-ole-tippenhauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/authors/nils-ole-tippenhauer/</link>
     </image>
+    
+    <item>
+      <title>FieldFuzz: In Situ Blackbox Fuzzing of Proprietary Industrial Automation Runtimes via the Network</title>
+      <link>https://tippenhauer.de/publication/bytes-23-ffuzz/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/bytes-23-ffuzz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blind Concealment from Reconstruction-based Attack Detectors for Industrial Control Systems via Backdoor Attacks</title>
@@ -33,6 +41,14 @@
       <link>https://tippenhauer.de/publication/berardi-23-time/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/berardi-23-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White-box Concealment Attacks Against Anomaly Detectors for Cyber-Physical Systems</title>
+      <link>https://tippenhauer.de/publication/erba-23-whitebox/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/erba-23-whitebox/</guid>
       <description></description>
     </item>
     

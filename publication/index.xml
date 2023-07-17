@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>FieldFuzz: In Situ Blackbox Fuzzing of Proprietary Industrial Automation Runtimes via the Network</title>
+      <link>https://tippenhauer.de/publication/bytes-23-ffuzz/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/bytes-23-ffuzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blind Concealment from Reconstruction-based Attack Detectors for Industrial Control Systems via Backdoor Attacks</title>
       <link>https://tippenhauer.de/publication/walita-23-blind/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
@@ -33,6 +41,14 @@
       <link>https://tippenhauer.de/publication/berardi-23-time/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/berardi-23-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White-box Concealment Attacks Against Anomaly Detectors for Cyber-Physical Systems</title>
+      <link>https://tippenhauer.de/publication/erba-23-whitebox/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/erba-23-whitebox/</guid>
       <description></description>
     </item>
     
