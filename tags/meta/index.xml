@@ -5,12 +5,145 @@
     <link>https://tippenhauer.de/tags/meta/</link>
       <atom:link href="https://tippenhauer.de/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <description>meta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>meta</title>
       <link>https://tippenhauer.de/tags/meta/</link>
     </image>
+    
+    <item>
+      <title>Google’s Security Conference/Journal ranking 2023</title>
+      <link>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2023/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2023/</guid>
+      <description>&lt;p&gt;As a follow up to the 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2020/&#34;&gt;six&lt;/a&gt; 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2019/&#34;&gt;previous&lt;/a&gt; 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2018/&#34;&gt;posts&lt;/a&gt; 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2017/&#34;&gt;on&lt;/a&gt; 
+&lt;a href=&#34;..//googles-security-conferencejournal-ranking-2016/&#34;&gt;the&lt;/a&gt; 
+&lt;a href=&#34;..//security-conferencejournal-ranking-according-to-google-scholar-metrics/&#34;&gt;topic&lt;/a&gt;, here is the version with the newly released 2023 metrics data. It provides a ranking of journals and conferences in different fields, and uses the h5 metric, &amp;ldquo;the number n of papers that were released in the last 5 years, and had at least n citations&amp;rdquo;. 
+&lt;a href=&#34;https://mlsec.org/topnotch/sec_ntop100.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Konrad Rieck&amp;rsquo;s list of Normalized Top-100 Security Papers&lt;/a&gt; provides a great alternative ranking of important classic papers in the field.&lt;/p&gt;
+&lt;p&gt;Based on the h5 metric, the following ranking for security conferences and journals is generated 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;venue=HSHJIaLyN9IJ.2023&amp;amp;vq=eng_computersecuritycryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=cyrroHz3a0YJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Symposium on Security and Privacy&lt;/a&gt; (S&amp;amp;P) (98, was 74 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=muV5gjf6-jcJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Information Forensics and Security&lt;/a&gt; (98, was 86 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=Pg42P_rbavwJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Symposium on Computer and Communications Security&lt;/a&gt; (93, was 88 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=HSHJIaLyN9IJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USENIX Conference on Security&lt;/a&gt; (92, was 80 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=_ZfohKnRjIYJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computers &amp;amp; Security&lt;/a&gt; (89, was 59 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=q2FcImd5qbgJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network and Distributed System Security Symposium (NDSS)&lt;/a&gt; (78, was 71 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=nNidswR17bwJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Dependable and Secure Computing&lt;/a&gt; (69, was 54 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=fsZsNTm7Eh8J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annual International Conference on Theory and Applications of Cryptographic Techniques (EUROCRYPT)&lt;/a&gt; (63, was 61 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=nqcB6RwzhMQJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Cryptology (CRYPTO)&lt;/a&gt; (59, was 52 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=UhnzvX1LxKQJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Information Security and Applications&lt;/a&gt; (57, was 31 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=BmjmJYABSu8J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IACR Transactions on Cryptographic Hardware and Embedded Systems (CHES)&lt;/a&gt; (52, not in list in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=eiXD3PTvLD8J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security and Communication Networks&lt;/a&gt; (51, was 40 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=gVeDacK3aQwJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Financial Cryptography and Data Security&lt;/a&gt; (46, also 46 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GoSvm-d8gKoJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE European Symposium on Security and Privacy (EuroSNP)&lt;/a&gt; (45, was 34 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=hxrvQsnJSDMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on The Theory and Application of Cryptology and Information Security (ASIACRYPT)&lt;/a&gt; (42, also 42 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=d6VxAyLWqWgJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium On Usable Privacy and Security&lt;/a&gt; (SOUPS) (37, was 29 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=uPzq679G87oJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Security &amp;amp; Privacy&lt;/a&gt; (37, was 31 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JP81m6yJpiEJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theory of cryptography&lt;/a&gt; (38)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=3VLtGPwkq54J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Symposium on Information, Computer and Communications Security (ASIACCS)&lt;/a&gt; (37)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=JXbjzvN-escJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proceedings on Privacy Enhancing Technologies (PETS)&lt;/a&gt; (35, new in the list)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=88oopSfS28MJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt; (36, was 29 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=eMr22KXtlXcJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)&lt;/a&gt; (35, new in list)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Some other honourable mentions where I published before, am involved, or consider submitting:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=HKQoOwyk8SQJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Networks&lt;/a&gt; (87, was 56 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JMgzZsGYu14J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference of the IEEE Computer and Communications Societies (INFOCOM)&lt;/a&gt; (80, was 72 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=CYo1GjC2fW8J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annual International Conference on Mobile computing and networking (Mobicom)&lt;/a&gt; (51, was 48 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=0mhk3_x__KIJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Mobile systems, applications, and services (MOBISYS)&lt;/a&gt; (39, was 44 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=MVYbyyKMpToJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Dependable Systems and Networks (DSN)&lt;/a&gt; (37, was 32 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=eLhWa3qzEDsJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Symposium on Applied Computing (SAC)&lt;/a&gt; (36, but only small security track, was 30 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=Two3itQ-Tm8J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conferences on Internet of Things, and Cyber, Physical and Social Computing ( CPSCom)&lt;/a&gt; (35, 20 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GIrj2BSjfiwJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Availability, Reliability and Security (ARES)&lt;/a&gt; (32, 24 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=6gqvYwOFvq0J.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Practice and Theory in Public Key Cryptography&lt;/a&gt; (31, 29 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=x1AY1yaO1mQJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Conference on Research in Computer Security (ESORICS)&lt;/a&gt; (28, was 34 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;vq=eng_computersecuritycryptography&amp;amp;view_op=list_hcore&amp;amp;venue=fSl1wy1IRIoJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Cryptology&lt;/a&gt; (31, 28 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=5Sz4yUnI16AJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Computer Security Foundations Symposium (CSF)&lt;/a&gt; (can&amp;rsquo;t find numbers for 2023, 29 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=826ERjda8dUJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Research in Attacks, Intrusions and Defenses (RAID)&lt;/a&gt; (28, 22 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com.sg/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=uX6tRrNG0lQJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applied Cryptography and Network Security (ACNS)&lt;/a&gt; (27, 21 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LWRwHw7mGBMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM conference on Data and Application Security and Privacy (CODASPY)&lt;/a&gt; (25, was 28 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=GtwA7m_XqZUJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Cyber-Physical Systems (ICCPS)&lt;/a&gt; (25, 26 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=JDO_KUA4CYMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wireless Network Security (WISEC)&lt;/a&gt; (25, 23 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=qiszAbdiCtkJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Security and Privacy in Communication Networks (SecureComm)&lt;/a&gt; (18, was 12 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pMNODcGxo4cJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt; (17, same as 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (cant&amp;rsquo; find in 2023, 16 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (16, 14 in 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=mDgNlZgOboEJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network and Systems Security (NSS)&lt;/a&gt; (13 same as 2020)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=LIYEKQ4Mf5YJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Formal Engineering Methods (ICFEM)&lt;/a&gt; (12, was 13 in 2020)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There are some interesting observations I made from the ranking (updated from last iteration 3 years ago):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The h5 index of the top venues increased by about 5-9 points, most importantly S&amp;amp;P gained incredible 24 scores and rose to position 1.&lt;/li&gt;
+&lt;li&gt;Journals such as TIFS, C&amp;amp;S, TDSC improved a lot, with C&amp;amp;S gaining 30 scores!&lt;/li&gt;
+&lt;li&gt;Our ProfilIoT paper at SAC&#39;17 (which was only accepted as a poster!) did indeed end up on #1 in the h5 index in 2020.&lt;/li&gt;
+&lt;li&gt;EuroSNP continues to rise quickly, and has now by far surpassed ESORICS. It was started in &amp;lsquo;16 with great papers such as Papernot et al.&lt;/li&gt;
+&lt;li&gt;5 of the top 20 venues have a strong crypto focus, further limiting the options for general security papers to be published at.&lt;/li&gt;
+&lt;li&gt;7 out of the top 20 venues are journals, which are generally considered to be less competitive/good than tier 1 conferences by many system security researchers. Their metrics are getting pretty good though.&lt;/li&gt;
+&lt;li&gt;Google also publishes a h5-median score, which indicates the median citation count of the publications included in the h5 computation. This somewhat gives a nice indication on how many citations you could expect for your publications in the conference, after five years. For the top 9 venues, this is between 90 and 152 (+10 compared to 2020), for top 10-15 between 60 and 80 (a bit better than 2020).&lt;/li&gt;
+&lt;li&gt;Clearly, for h5 it helps to accept more papers (see Infocom rank, the journals on the list). It would be great to award selectivity somehow, for example by dividing by number of accepted papers. Unfortunately, that information is not directly available (see 
+&lt;a href=&#34;http://jianying.space/conference-ranking.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m not a big fan of CORE ranking. Based on the h5 metric, I would consider conferences/venues with h5 &amp;gt;= 50 as tier 1, conferences with h5 &amp;gt;= 30 as tier 2, and conferences with h5 &amp;gt;= 20 as tier 3. This would put RAID and WiSec still in tier 3, but for example ASIACCS clearly in tier 2. Such a classification disadvantages niche topics, of course.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://secprivmeta.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://secprivmeta.net/&lt;/a&gt; also provides interesting analysis by topics in tier-1 security papers (unfortunately, only until 2015).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See also: 
+&lt;a href=&#34;https://aminer.org/ranks/conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aminer conference ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CORE2021 conference ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://jianying.space/conference-ranking.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jianying Zhou&amp;rsquo;s ranking&lt;/a&gt;, 
+&lt;a href=&#34;http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guofei Gu&amp;rsquo;s ranking&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best paper award at DIMVA 23</title>
@@ -392,7 +525,7 @@
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/successful-defenses/</guid>
       <description>&lt;p&gt;My two first PhD students, Daniele Antonioli and Hamid Ghaeini, successfully defended their PhD in Singapore yesterday. Daniele presented his thesis with the title &amp;ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&amp;rdquo;, which included two recent tier one publications. Hamid&amp;rsquo;s thesis has the title &amp;ldquo;Threats to Industrial Control Systems and Process-based Countermeasures&amp;rdquo;, and included a recent RAID paper.&lt;/p&gt;
-&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&#39; group as PostDoc.&lt;/p&gt;
+&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&amp;rsquo; group as PostDoc.&lt;/p&gt;
 </description>
     </item>
     
