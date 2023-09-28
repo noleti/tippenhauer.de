@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/authors/till-schluter/</link>
       <atom:link href="https://tippenhauer.de/authors/till-schluter/index.xml" rel="self" type="application/rss+xml" />
     <description>Till Schlüter</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Till Schlüter</title>
       <link>https://tippenhauer.de/authors/till-schluter/</link>
     </image>
+    
+    <item>
+      <title>FetchBench: Systematic Identification and Characterization of Proprietary Prefetchers</title>
+      <link>https://tippenhauer.de/publication/schluter-23-fetchbench/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/schluter-23-fetchbench/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels</title>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ahmad Ibrahim | Nils Ole Tippenhauer</title>
-    <link>https://tippenhauer.de/authors/ahmad-ibrahim/</link>
-      <atom:link href="https://tippenhauer.de/authors/ahmad-ibrahim/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ahmad Ibrahim</description>
+    <title>Amit Choudhari | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/authors/amit-choudhari/</link>
+      <atom:link href="https://tippenhauer.de/authors/amit-choudhari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit Choudhari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
-      <title>Ahmad Ibrahim</title>
-      <link>https://tippenhauer.de/authors/ahmad-ibrahim/</link>
+      <title>Amit Choudhari</title>
+      <link>https://tippenhauer.de/authors/amit-choudhari/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://tippenhauer.de/publication/schluter-23-fetchbench/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/schluter-23-fetchbench/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels</title>
-      <link>https://tippenhauer.de/publication/ibrahim-22-templates/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/ibrahim-22-templates/</guid>
       <description></description>
     </item>
     

@@ -172,6 +172,14 @@
     </item>
     
     <item>
+      <title>FetchBench: Systematic Identification and Characterization of Proprietary Prefetchers</title>
+      <link>https://tippenhauer.de/publication/schluter-23-fetchbench/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/schluter-23-fetchbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2022 in numbers</title>
       <link>https://tippenhauer.de/post/2022-in-numbers/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
@@ -1436,6 +1444,7 @@ released the website (
 &lt;p&gt;I am/was involved in the following workshops:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020-22&lt;/li&gt;
+&lt;li&gt;Workshop on the Security of Space and Satellite Systems (SpaceSec), 2024 (co-located with NDSS)&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Industrial Control Systems &amp;amp; of Cyber-Physical Systems (CyberICPS), 2020-23  (co-located with Esorics)&lt;/li&gt;
 &lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020-2023 (co-located with S&amp;amp;P)&lt;/li&gt;
 &lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2023 (co-located with ASIA-CCS)&lt;/li&gt;
