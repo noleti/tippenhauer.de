@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tippenhauer.de/post/2023-in-numbers/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/authors/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/categories/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/tags/meta/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/categories/research/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/tags/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/publication_types/1/</loc>
     <lastmod>2023-09-01T11:43:50+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/andrei-bytes/</loc>
     <lastmod>2023-07-17T09:48:28+02:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/authors/</loc>
-    <lastmod>2023-09-01T11:43:50+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/authors/constantine-doumanidis/</loc>
     <lastmod>2023-07-17T09:48:28+02:00</lastmod>
@@ -26,28 +44,13 @@
     <loc>https://tippenhauer.de/authors/nils-ole-tippenhauer/</loc>
     <lastmod>2023-09-01T11:43:50+02:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/</loc>
-    <lastmod>2023-09-01T11:43:50+02:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/authors/prashant-hari-narayan-rajput/</loc>
     <lastmod>2023-07-17T09:48:28+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication_types/</loc>
     <lastmod>2023-09-01T11:43:50+02:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/categories/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2023/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/tags/meta/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/categories/research/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/tags/</loc>
     <lastmod>2023-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/dimva-best-paper/</loc>
@@ -93,9 +96,6 @@
     <lastmod>2023-05-03T19:30:34+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/2022-in-numbers/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/post/2023-in-numbers/</loc>
     <lastmod>2023-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/two-best-paper-awards/</loc>

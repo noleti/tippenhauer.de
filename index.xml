@@ -5,12 +5,32 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>2023 in numbers</title>
+      <link>https://tippenhauer.de/post/2023-in-numbers/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/2023-in-numbers/</guid>
+      <description>&lt;p&gt;With 2023 concluded, it&amp;rsquo;s time to reflect. Metric-wise (continuing my 
+&lt;a href=&#34;https://tippenhauer.de/post/2022-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;), the year went as follows. As of now, first week of January 2024, my publications reached ~6700 citations according to 
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~5500 at this time last year/ 4200 two years ago/ 3100 three years ago/ 2100 four years ago/ 1400 five years ago). So growth has slowed  a bit, but so far I&amp;rsquo;m hoping to reach the 2022 citations numbers when some missing citations are added for 2023. Google scholar currently lists ~105 publications (vs. 95 last year, most peer-reviewed), and 3 US patents and several pending ones. Our first GPS paper currently has 677 cites (after 581 last year), in total 18 papers have &amp;gt;100 cites. My h-index has increased to 42 (from 39, my i10-index is currently 72, from 65 last year. Two of Alessandro&amp;rsquo;s papers won best paper awards.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 5040 citations and 108 publications. They still indicate how many papers were strongly influenced by my work (377), compared to 332 in previous year.They don&amp;rsquo;t list which authors were  most influenced any more. I supposedly had more than 200 co-authors overall.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; lists 89 publications, ~3576 citations, h-index 30, number of co-authors: 165 (147 last year). Overall they seem to have index around half of the number of documents that Google scholar has access to.&lt;/p&gt;
+&lt;p&gt;In 2023, I chaired events WiSec, and I continued to serve as area editor for IEEE Transactions on Information Forensics and Security (T-IFS), the highest ranked security journal.&lt;/p&gt;
+&lt;p&gt;Other numbers for 2023: Github lists 83 commits to repositories, lower than 2022 as project Kamaeleon is concluded. I received 10800 mails on my university accounts (after removal of spam). Per working day, that would make around 43 (previous year: 41) mails. I sent 1540 mails (~6 per working day, last year 7). Both numbers are quite close to 2022, even though I chaired Wisec.&lt;/p&gt;
+&lt;p&gt;My twitter account currently follows 119, has 426 followers. I set up a mastodon accound at well (
+&lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;, but am not very active there.&lt;/p&gt;
+&lt;p&gt;My total Youtube stats: 336h of watchtime on ~65 videos total (most from the lectures I gave in &amp;lsquo;20-&amp;lsquo;22). 23 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FieldFuzz: In Situ Blackbox Fuzzing of Proprietary Industrial Automation Runtimes via the Network</title>
@@ -196,26 +216,6 @@
 &lt;p&gt;My twitter account currently follows 108, has 357 followers. I set up a mastodon accound at well (
 &lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;, but am not very active on either.&lt;/p&gt;
 &lt;p&gt;My total Youtube stats: 8k views (2.2kh of watchtime) on ~65 videos total (most from the lectures I gave in &amp;lsquo;20-&amp;lsquo;22). 21 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here. ~55 likes total (100% like ratio).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2023 in numbers</title>
-      <link>https://tippenhauer.de/post/2023-in-numbers/</link>
-      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/post/2023-in-numbers/</guid>
-      <description>&lt;p&gt;With 2023 concluded, it&amp;rsquo;s time to reflect. Metric-wise (continuing my 
-&lt;a href=&#34;https://tippenhauer.de/post/2022-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;), the year went as follows. As of now, first week of January 2024, my publications reached ~6700 citations according to 
-&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. ~5500 at this time last year/ 4200 two years ago/ 3100 three years ago/ 2100 four years ago/ 1400 five years ago). So growth has slowed  a bit, but so far I&amp;rsquo;m hoping to reach the 2022 citations numbers when some missing citations are added for 2023. Google scholar currently lists ~105 publications (vs. 95 last year, most peer-reviewed), and 3 US patents and several pending ones. Our first GPS paper currently has 677 cites (after 581 last year), in total 18 papers have &amp;gt;100 cites. My h-index has increased to 42 (from 39, my i10-index is currently 72, from 65 last year. Two of Alessandro&amp;rsquo;s papers won best paper awards.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 5040 citations and 108 publications. They still indicate how many papers were strongly influenced by my work (377), compared to 332 in previous year.They don&amp;rsquo;t list which authors were  most influenced any more. I supposedly had more than 200 co-authors overall.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; lists 89 publications, ~3576 citations, h-index 30, number of co-authors: 165 (147 last year). Overall they seem to have index around half of the number of documents that Google scholar has access to.&lt;/p&gt;
-&lt;p&gt;In 2023, I chaired events WiSec, and I continued to serve as area editor for IEEE Transactions on Information Forensics and Security (T-IFS), the highest ranked security journal.&lt;/p&gt;
-&lt;p&gt;Other numbers for 2023: Github lists 83 commits to repositories, lower than 2022 as project Kamaeleon is concluded. I received 10800 mails on my university accounts (after removal of spam). Per working day, that would make around 43 (previous year: 41) mails. I sent 1540 mails (~6 per working day, last year 7). Both numbers are quite close to 2022, even though I chaired Wisec.&lt;/p&gt;
-&lt;p&gt;My twitter account currently follows 119, has 426 followers. I set up a mastodon accound at well (
-&lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;, but am not very active there.&lt;/p&gt;
-&lt;p&gt;My total Youtube stats: 336h of watchtime on ~65 videos total (most from the lectures I gave in &amp;lsquo;20-&amp;lsquo;22). 23 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here.&lt;/p&gt;
 </description>
     </item>
     
