@@ -142,7 +142,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pMNODcGxo4cJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt; (17, same as 2020)&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (cant&#39; find in 2023, 16 in 2020)&lt;/li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (cant&amp;rsquo; find in 2023, 16 in 2020)&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (16, 14 in 2020)&lt;/li&gt;
 &lt;li&gt;
@@ -1220,7 +1220,7 @@ and discussion of the paper by default.&lt;/p&gt;
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/successful-defenses/</guid>
       <description>&lt;p&gt;My two first PhD students, Daniele Antonioli and Hamid Ghaeini, successfully defended their PhD in Singapore yesterday. Daniele presented his thesis with the title &amp;ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&amp;rdquo;, which included two recent tier one publications. Hamid&amp;rsquo;s thesis has the title &amp;ldquo;Threats to Industrial Control Systems and Process-based Countermeasures&amp;rdquo;, and included a recent RAID paper.&lt;/p&gt;
-&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&#39; group as PostDoc.&lt;/p&gt;
+&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&amp;rsquo; group as PostDoc.&lt;/p&gt;
 </description>
     </item>
     
@@ -1463,7 +1463,7 @@ released the website (
 &lt;/ul&gt;
 &lt;p&gt;I am/was involved in the following workshops:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020-22&lt;/li&gt;
+&lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020-24&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Space and Satellite Systems (SpaceSec), 2024 (co-located with NDSS)&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Industrial Control Systems &amp;amp; of Cyber-Physical Systems (CyberICPS), 2020-23  (co-located with Esorics)&lt;/li&gt;
 &lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020-2023 (co-located with S&amp;amp;P)&lt;/li&gt;
@@ -1693,7 +1693,7 @@ of a blockchain network. Finally, we discuss some research directions that could
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</guid>
       <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. 
-&lt;a href=&#34;http://www.nse.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
+&lt;a href=&#34;https://www.nse.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
 &lt;p&gt;For everyone interested: please write me a quick mail, so I can make sure to keep you updated.&lt;/p&gt;
 &lt;p&gt;As a special guest, we will be joined by Prof. Ed Brinksma, who was just elected as next President of TUHH! So don’t miss this opportunity to connect back to TUHH.&lt;/p&gt;
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
@@ -2729,7 +2729,7 @@ file:figs/greatFigure.png
       <description>&lt;p&gt;I’m on the TPC for the 31th IFIP TC-11 SEC 2016 International Information Security and Privacy Conference. Its CfP was just released, more details here. Deadline for paper submissions is December 24, 2015. From the CfP:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, 
-&lt;a href=&#34;http://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
+&lt;a href=&#34;https://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -2892,11 +2892,11 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide0&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide1&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide2&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
@@ -2991,16 +2991,16 @@ $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_n
 &lt;li&gt;get msjnc from 
 &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img src=&#34;vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;vpn0&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
-&lt;img src=&#34;vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
+&lt;img alt=&#34;vpn1&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34;&gt;
 the full Server/URL is:
 
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
-&lt;img src=&#34;vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;vpn2&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
