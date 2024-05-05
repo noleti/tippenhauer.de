@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meta | Nils Ole Tippenhauer</title>
+    <title>meta | Nils Ole Tippenhauer</title>
     <link>https://tippenhauer.de/tags/meta/</link>
       <atom:link href="https://tippenhauer.de/tags/meta/index.xml" rel="self" type="application/rss+xml" />
-    <description>Meta</description>
+    <description>meta</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
-      <title>Meta</title>
+      <title>meta</title>
       <link>https://tippenhauer.de/tags/meta/</link>
     </image>
     
@@ -134,7 +134,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pMNODcGxo4cJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt; (17, same as 2020)&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (cant&amp;rsquo; find in 2023, 16 in 2020)&lt;/li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (cant&#39; find in 2023, 16 in 2020)&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (16, 14 in 2020)&lt;/li&gt;
 &lt;li&gt;
@@ -545,7 +545,7 @@
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/successful-defenses/</guid>
       <description>&lt;p&gt;My two first PhD students, Daniele Antonioli and Hamid Ghaeini, successfully defended their PhD in Singapore yesterday. Daniele presented his thesis with the title &amp;ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&amp;rdquo;, which included two recent tier one publications. Hamid&amp;rsquo;s thesis has the title &amp;ldquo;Threats to Industrial Control Systems and Process-based Countermeasures&amp;rdquo;, and included a recent RAID paper.&lt;/p&gt;
-&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&amp;rsquo; group as PostDoc.&lt;/p&gt;
+&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&#39; group as PostDoc.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Service | Nils Ole Tippenhauer</title>
+    <title>service | Nils Ole Tippenhauer</title>
     <link>https://tippenhauer.de/categories/service/</link>
       <atom:link href="https://tippenhauer.de/categories/service/index.xml" rel="self" type="application/rss+xml" />
-    <description>Service</description>
+    <description>service</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
-      <title>Service</title>
+      <title>service</title>
       <link>https://tippenhauer.de/categories/service/</link>
     </image>
     
@@ -526,7 +526,7 @@ released the website (
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/meetup-of-tuhh-alumni-singapore/</guid>
       <description>&lt;p&gt;I’m organizing a meetup of TUHH’s Singapore Alumni chapter on Nov 8, 4:30pm-6pm at SUTD. The plan is to give TUHH Alumni a chance to get to know each other, briefly show them the campus, and present research projects we do (e.g. 
-&lt;a href=&#34;https://www.nse.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
+&lt;a href=&#34;http://www.nse.sg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.nse.sg&lt;/a&gt;, and security research). Afterwards, we can have dinner nearby for everyone interested (self paid).&lt;/p&gt;
 &lt;p&gt;For everyone interested: please write me a quick mail, so I can make sure to keep you updated.&lt;/p&gt;
 &lt;p&gt;As a special guest, we will be joined by Prof. Ed Brinksma, who was just elected as next President of TUHH! So don’t miss this opportunity to connect back to TUHH.&lt;/p&gt;
 &lt;p&gt;Hope to see you all soon!&lt;/p&gt;
@@ -843,7 +843,7 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <description>&lt;p&gt;I’m on the TPC for the 31th IFIP TC-11 SEC 2016 International Information Security and Privacy Conference. Its CfP was just released, more details here. Deadline for paper submissions is December 24, 2015. From the CfP:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, 
-&lt;a href=&#34;https://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
+&lt;a href=&#34;http://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -902,11 +902,11 @@ of energy and transportation.&lt;/p&gt;
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide0&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide1&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide2&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;

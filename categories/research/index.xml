@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Nils Ole Tippenhauer</title>
+    <title>research | Nils Ole Tippenhauer</title>
     <link>https://tippenhauer.de/categories/research/</link>
       <atom:link href="https://tippenhauer.de/categories/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
+    <description>research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
-      <title>Research</title>
+      <title>research</title>
       <link>https://tippenhauer.de/categories/research/</link>
     </image>
     
@@ -134,7 +134,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=pMNODcGxo4cJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFIP TC 11 International Conference on ICT Systems Security and Privacy Protection (IFIP Sec)&lt;/a&gt; (17, same as 2020)&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (cant&amp;rsquo; find in 2023, 16 in 2020)&lt;/li&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=EhHHXze7CIMJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE High Assurance Systems Engineering Symposium, (HASE)&lt;/a&gt; (cant&#39; find in 2023, 16 in 2020)&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;view_op=list_hcore&amp;amp;venue=q7kWOn3QmqYJ.2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Cryptology and Network Security (CANS)&lt;/a&gt; (16, 14 in 2020)&lt;/li&gt;
 &lt;li&gt;
@@ -555,7 +555,7 @@
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/successful-defenses/</guid>
       <description>&lt;p&gt;My two first PhD students, Daniele Antonioli and Hamid Ghaeini, successfully defended their PhD in Singapore yesterday. Daniele presented his thesis with the title &amp;ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&amp;rdquo;, which included two recent tier one publications. Hamid&amp;rsquo;s thesis has the title &amp;ldquo;Threats to Industrial Control Systems and Process-based Countermeasures&amp;rdquo;, and included a recent RAID paper.&lt;/p&gt;
-&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&amp;rsquo; group as PostDoc.&lt;/p&gt;
+&lt;p&gt;Daniele is now a PostDoc of Mathias Payer at EPFL, and Hamid joined Michael Backes&#39; group as PostDoc.&lt;/p&gt;
 </description>
     </item>
     
@@ -1279,16 +1279,16 @@ $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_n
 &lt;li&gt;get msjnc from 
 &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img alt=&#34;vpn0&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
-&lt;img alt=&#34;vpn1&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34;&gt;
+&lt;img src=&#34;vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
 the full Server/URL is:
 
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
-&lt;img alt=&#34;vpn2&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
