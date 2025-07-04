@@ -5,12 +5,21 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hu11320622551011700769.png</url>
+      <url>https://tippenhauer.de/images/icon_hu_8b98efc1b8c0dd53.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>GDMA: Fully Automated DMA Rehosting via Iterative Type Overlays</title>
+      <link>https://tippenhauer.de/publication/scharnowski-25-dma/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/scharnowski-25-dma/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2024 in numbers</title>
@@ -29,6 +38,33 @@
 &lt;p&gt;My twitter account currently follows 124, has 448 followers. I am still not active on my  mastodon account at well (
 &lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My total Youtube stats: 2908h of watchtime on ~80 videos total (most from the lectures). 34 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ConfuSense: Sensor Reconfiguration Attacks for Stealthy UAV Manipulation</title>
+      <link>https://tippenhauer.de/publication/erba-2025-confu-sense/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/erba-2025-confu-sense/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FASER-IN: Evasion of Network Intrusion Detection Systems in Industrial Networks</title>
+      <link>https://tippenhauer.de/publication/shetty-25-evasion/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/shetty-25-evasion/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PreFence: A Fine-Grained and Scheduling-Aware Defense Against Prefetching-Based Attacks </title>
+      <link>https://tippenhauer.de/publication/schlueter-25-prefence/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/schlueter-25-prefence/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
@@ -1720,8 +1756,7 @@ released the website (
 &lt;p&gt;Over the last years, blockchains have developed into a mainstream technology that entire industry sectors are talking about.
 The latest generation even supports smart contracts – programs that are executed by all participants and that may govern everything from simple transactions to the setup of organisations. Beyond the hype, however, we find that there is little deployment beyond the two most prominent examples, Bitcoin and Ethereum.
 In this talk, we are going to explore some of the reasons. In particular, we show that the P2P networks that underlie blockchains impact their functionality in decisive ways. We look at dependability and abortion of transactions, both of which are crucial for enterprises, and we inspect the network structure and its influence on transaction execution. We present some early numbers from more than 2,500 scans
-of a blockchain network. Finally, we discuss some research directions that could prove fruitful in a number of systems, blockchains or beyond.&lt;/p&gt;
-&lt;/blockquote&gt;
+of a blockchain network. Finally, we discuss some research directions that could prove fruitful in a number of systems, blockchains or beyond.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -1955,8 +1990,7 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
 &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=3055192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and as pre-print on arxiv.&lt;/p&gt;
 &lt;p&gt;From the abstract:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;In recent years, the emerging Internet-of-Things (IoT) has led to rising concerns about the security of networked embedded devices. In this work, we propose the SIPHON architecture—a Scalable high-Interaction Honeypot platform for IoT devices. Our architecture leverages IoT devices that are physically at one location and are connected to the Internet through so-called wormholes distributed around the world. The resulting architecture allows exposing few physical devices over a large number of geographically distributed IP addresses. We demonstrate the proposed architecture in a large scale experiment with 39 wormhole instances in 16 cities in 9 countries. Based on this setup, five physical IP cameras, one NVR and one IP printer are presented as 85 real IoT devices on the Internet, attracting a daily traffic of 700MB for a period of two months. A preliminary analysis of the collected traffic indicates that devices in some cities attracted significantly more traffic than others (ranging from 600 000 incoming TCP connections for the most popular destination to less than 50 000 for the least popular). We recorded over 400 brute-force login attempts to the web-interface of our devices using a total of 1826 distinct credentials, from which 11 attempts were successful. Moreover, we noted login attempts to Telnet and SSH ports some of which used credentials found in the recently disclosed Mirai malware.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;In recent years, the emerging Internet-of-Things (IoT) has led to rising concerns about the security of networked embedded devices. In this work, we propose the SIPHON architecture—a Scalable high-Interaction Honeypot platform for IoT devices. Our architecture leverages IoT devices that are physically at one location and are connected to the Internet through so-called wormholes distributed around the world. The resulting architecture allows exposing few physical devices over a large number of geographically distributed IP addresses. We demonstrate the proposed architecture in a large scale experiment with 39 wormhole instances in 16 cities in 9 countries. Based on this setup, five physical IP cameras, one NVR and one IP printer are presented as 85 real IoT devices on the Internet, attracting a daily traffic of 700MB for a period of two months. A preliminary analysis of the collected traffic indicates that devices in some cities attracted significantly more traffic than others (ranging from 600 000 incoming TCP connections for the most popular destination to less than 50 000 for the least popular). We recorded over 400 brute-force login attempts to the web-interface of our devices using a total of 1826 distinct credentials, from which 11 attempts were successful. Moreover, we noted login attempts to Telnet and SSH ports some of which used credentials found in the recently disclosed Mirai malware.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -2023,8 +2057,7 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
 &lt;blockquote&gt;
 &lt;p&gt;The emerging and much-touted Internet of Things (IoT) under the slogan “connecting the unconnected” presents a variety of security and privacy challenges in a broad spectrum of application domains, ranging from large-scale smart energy grids to smart vehicles, homes and personal wearable devices. Prominent among these challenges is the establishment of trust in remote IoT devices typically attained via remote attestation, a distinct security service that aims to ascertain the current state of potentially compromised remote devices.
 However, recent studies have revealed many security vulnerabilities in embedded devices that are core components of the IoT. On the other hand, established protection measures for traditional computing platforms and networks may not always directly apply to IoT due to their diversity, resource constrains and large scale.
-In this talk we survey the landscape of the recent research on security architectures and particularly scalable remote attestation schemes for IoT devices. We also discuss their effectiveness and related tradeoffs as well as future research challenges and directions.&lt;/p&gt;
-&lt;/blockquote&gt;
+In this talk we survey the landscape of the recent research on security architectures and particularly scalable remote attestation schemes for IoT devices. We also discuss their effectiveness and related tradeoffs as well as future research challenges and directions.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -2069,8 +2102,7 @@ In this talk we survey the landscape of the recent research on security architec
       <description>&lt;p&gt;I am in the TPC of ESORICS 2017, and the 
 &lt;a href=&#34;https://www.ntnu.edu/web/esorics2017/call-for-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt; has been released. The conference will be held 11-15 September in Oslo.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;ESORICS is the annual European research event in Computer Security. The Symposium started in 1990 and has been held in several European countries, attracting a wide international audience from both the academic and industrial communities. Papers offering novel research contributions in computer security are solicited for submission to the Symposium. The primary focus is on original, high quality, unpublished research and implementation experiences. We encourage submissions of papers discussing industrial research and development.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;ESORICS is the annual European research event in Computer Security. The Symposium started in 1990 and has been held in several European countries, attracting a wide international audience from both the academic and industrial communities. Papers offering novel research contributions in computer security are solicited for submission to the Symposium. The primary focus is on original, high quality, unpublished research and implementation experiences. We encourage submissions of papers discussing industrial research and development.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Paper submission deadline: April 19&lt;/p&gt;
 </description>
     </item>
@@ -2082,8 +2114,7 @@ In this talk we survey the landscape of the recent research on security architec
       <guid>https://tippenhauer.de/post/mssd-program-at-sutd/</guid>
       <description>&lt;p&gt;I am involved in designing SUTD’s upcoming Masters’ in Security by Design (MSSD) Program. This will be ISTD’s first Masters’ program, the start is scheduled to be in September 2017. Applications can be submitted now on our website linked above. About the program:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The MSSD programme is one-of-a-kind in that it focuses on bringing cybersecurity at the design stage of critical infrastructure and enterprise networks. This focus enables the training of a special type of engineer who can not only contribute to the security of organizations that do online business, but also to the security of large scale public infrastructures such as power grid, water treatment and distribution, transportation, and oil and natural gas processing.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The MSSD programme is one-of-a-kind in that it focuses on bringing cybersecurity at the design stage of critical infrastructure and enterprise networks. This focus enables the training of a special type of engineer who can not only contribute to the security of organizations that do online business, but also to the security of large scale public infrastructures such as power grid, water treatment and distribution, transportation, and oil and natural gas processing.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;More information can be found 
 &lt;a href=&#34;https://istd.sutd.edu.sg/mssd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -2137,8 +2168,7 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <description>&lt;p&gt;I’m on the TPC for WiSec, and the 
 &lt;a href=&#34;http://wisec2017.ccs.neu.edu/call-for-papers-posters-demos.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt; has been released:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the security and privacy of mobile software platforms, usable security and privacy, biometrics, cryptography, and the increasingly diverse range of mobile or wireless applications such as Internet of Things, and Cyber-Physical Systems. The conference welcomes both theoretical as well as systems contributions.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the security and privacy of mobile software platforms, usable security and privacy, biometrics, cryptography, and the increasingly diverse range of mobile or wireless applications such as Internet of Things, and Cyber-Physical Systems. The conference welcomes both theoretical as well as systems contributions.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This year, there are a couple of interesting formats:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Full and short papers (12/6 pages ACM format)&lt;/li&gt;
@@ -2174,47 +2204,33 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <description>&lt;p&gt;I am on the TPC of SEMS 2017, held in between with IEEE S&amp;amp;P and EUROCRYPT 2017 in Paris. The CfP was just released. More info 
 &lt;a href=&#34;http://sems2017.cs.ru.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Embedded and mobile devices that provide security and crypto functionalities, and manage private and confidential data are omnipresent in our daily lives. Examples of such devices range from smart cards and RFID tags, to mobile phones, tablets, and IoT devices. Ensuring the security and privacy of these devices is a challenging problem, as witnessed by recent breaking of crypto and security systems used in mobile phones, car keys, and RFID-enabled cards. Typical threats to extract the keys include side-channel and fault analysis. Additionally, the vulnerabilities of the devices imply also privacy concerns. The operating systems supporting some of those devices, particularly mobile phones and tablets, but also IoT ones, have become very complex. Various sorts of malware present a constant threat for users. Although measures like application sandboxing take place, they also open the court for new attacks by constantly collecting and organizing sensitive information about the user.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Embedded and mobile devices that provide security and crypto functionalities, and manage private and confidential data are omnipresent in our daily lives. Examples of such devices range from smart cards and RFID tags, to mobile phones, tablets, and IoT devices. Ensuring the security and privacy of these devices is a challenging problem, as witnessed by recent breaking of crypto and security systems used in mobile phones, car keys, and RFID-enabled cards. Typical threats to extract the keys include side-channel and fault analysis. Additionally, the vulnerabilities of the devices imply also privacy concerns. The operating systems supporting some of those devices, particularly mobile phones and tablets, but also IoT ones, have become very complex. Various sorts of malware present a constant threat for users. Although measures like application sandboxing take place, they also open the court for new attacks by constantly collecting and organizing sensitive information about the user.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The workshop seeks submissions from academia and industry presenting novel research results on the following topics of interest:&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The workshop seeks submissions from academia and industry presenting novel research results on the following topics of interest:&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Security architectures for embedded and mobile systems&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Security architectures for embedded and mobile systems&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Physical (side-channel and fault) attacks on embedded and mobile systems&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Physical (side-channel and fault) attacks on embedded and mobile systems&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Hardware security of mobile devices&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Hardware security of mobile devices&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– (mobile) Malware detection and prevention&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– (mobile) Malware detection and prevention&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Machine learning applications to highlight possible threats to user privacy&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Machine learning applications to highlight possible threats to user privacy&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Privacy-preserving issues for mobile devices&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Privacy-preserving issues for mobile devices&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Secure localization and location privacy for mobile devices&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Secure localization and location privacy for mobile devices&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Security and privacy in the Internet of Things&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Security and privacy in the Internet of Things&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Secure execution environments (e.g., TrustZone, TPMs) on mobile devices&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Secure execution environments (e.g., TrustZone, TPMs) on mobile devices&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;– Sensor spoofing attacks&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;– Sensor spoofing attacks&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The one-day workshop will include presentation of peer-reviewed papers and two renowned keynote speakers, Prof. Srdjan Capkun (ETH Zurich, Switzerland) and Prof. Bart Preneel (KU Leuven, Belgium).&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The one-day workshop will include presentation of peer-reviewed papers and two renowned keynote speakers, Prof. Srdjan Capkun (ETH Zurich, Switzerland) and Prof. Bart Preneel (KU Leuven, Belgium).&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Accepted papers will be published by IEEE as the proceedings in “IEEE EuroS&amp;amp;P Workshops”.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Accepted papers will be published by IEEE as the proceedings in “IEEE EuroS&amp;amp;P Workshops”.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Important dates:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Submission deadline: 17 December 2016&lt;/li&gt;
@@ -2313,8 +2329,7 @@ d88&#39; `?88b,`?8888P&#39;  888888P&#39;d88&#39;   888888P&#39;`?88P&#39;`88b`?
       <description>&lt;p&gt;I am on the PC of the Cyber-Physical System Security Workshop (CPSS), and the 
 &lt;a href=&#34;http://icsd.i2r.a-star.edu.sg/cpss17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CfP&lt;/a&gt; was just released&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Cyber-Physical Systems (CPS) consist of large-scale interconnected systems of heterogeneous components interacting with their physical environments. There are a multitude of CPS devices and applications being deployed to serve critical functions in our lives. The security of CPS becomes extremely important. This workshop will provide a platform for professionals from academia, government, and industry to discuss how to address the increasing security challenges facing CPS. Besides invited talks, we also seek novel submissions describing theoretical and practical security solutions to CPS. Papers that are pertinent to the security of embedded systems, SCADA, smart grid, and critical infrastructure networks are all welcome, especially in the domains of energy and transportation.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Cyber-Physical Systems (CPS) consist of large-scale interconnected systems of heterogeneous components interacting with their physical environments. There are a multitude of CPS devices and applications being deployed to serve critical functions in our lives. The security of CPS becomes extremely important. This workshop will provide a platform for professionals from academia, government, and industry to discuss how to address the increasing security challenges facing CPS. Besides invited talks, we also seek novel submissions describing theoretical and practical security solutions to CPS. Papers that are pertinent to the security of embedded systems, SCADA, smart grid, and critical infrastructure networks are all welcome, especially in the domains of energy and transportation.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Submission deadline is December 1. CPSS will be held in conjunction with ACM AsiaCCS’17
 Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
 </description>
@@ -2338,8 +2353,7 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <description>&lt;p&gt;We have now officially announced the 
 &lt;a href=&#34;http://batadal.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BATADAL&lt;/a&gt; competition.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The BATtle of the Attack Detection ALgorithms (BATADAL) will objectively compare the performance of algorithms for the detection of cyber attacks in water distribution systems. Participants will contribute an attack detection algorithm for a given water network following a set of rules that determine the exact goal of the algorithms.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The BATtle of the Attack Detection ALgorithms (BATADAL) will objectively compare the performance of algorithms for the detection of cyber attacks in water distribution systems. Participants will contribute an attack detection algorithm for a given water network following a set of rules that determine the exact goal of the algorithms.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Training datasets are now available. Deadline for first participant submissions is October 2 2016&lt;/p&gt;
 </description>
     </item>
@@ -2387,8 +2401,7 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <guid>https://tippenhauer.de/post/cfp-rfidsec-2016/</guid>
       <description>&lt;p&gt;I am on the TPC for the 12th Workshop on RFID and IoT Security (RFIDsec) 2016, and the call for papers was just released. Submission Date is 12 September 2016.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Started in 2005, RFIDsec has become the premier venue devoted to security and privacy of Radio Frequency Identification (RFID). The nature of radio-enabled item identification and automatic data capture has significantly changed overthe years driven by the interest in overarching applications such as the Internet-of-Things and cyber-physical systems. As such, RFIDsec has also broadened its scope and seeks papers describing any contributions to security and privacy in any application area related to any constrained wireless devices, such as sensor nodes, smart wearables, contactless smart cards, programmable logic controllers (PLCs) and RFID tags.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Started in 2005, RFIDsec has become the premier venue devoted to security and privacy of Radio Frequency Identification (RFID). The nature of radio-enabled item identification and automatic data capture has significantly changed overthe years driven by the interest in overarching applications such as the Internet-of-Things and cyber-physical systems. As such, RFIDsec has also broadened its scope and seeks papers describing any contributions to security and privacy in any application area related to any constrained wireless devices, such as sensor nodes, smart wearables, contactless smart cards, programmable logic controllers (PLCs) and RFID tags.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;More details 
 &lt;a href=&#34;http://rfidsec2016.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -2402,8 +2415,7 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <description>&lt;p&gt;I’m on the PC for the “Automation Protocols Security in Cyber-Physical Systems” (APS-CPS), held in conjunction with ICNP  2016 in Singapore on Nov 8 2016 – 
 &lt;a href=&#34;http://www.aps-cps.org/callforpapers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;. The deadline was just extended to July 30.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The International Workshop on Automation Protocols Security in Cyber-Physical Systems (APS-CPS) seeks novel submissions describing practical and theoretical solutions to securing automation protocols. Submissions may represent any application area for APS-CPS. Hence, papers that are pertinent to the security of embedded systems, Internet of Things, SCADA Systems, Smart-Grid Systems, Critical Infrastructure Networks, Transportation Systems, Medical Devices are all welcome.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The International Workshop on Automation Protocols Security in Cyber-Physical Systems (APS-CPS) seeks novel submissions describing practical and theoretical solutions to securing automation protocols. Submissions may represent any application area for APS-CPS. Hence, papers that are pertinent to the security of embedded systems, Internet of Things, SCADA Systems, Smart-Grid Systems, Critical Infrastructure Networks, Transportation Systems, Medical Devices are all welcome.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -2414,8 +2426,7 @@ Abu Dhabi, UAE, April 2, 2017.&lt;/p&gt;
       <guid>https://tippenhauer.de/post/cfp-sg-crc-2017/</guid>
       <description>&lt;p&gt;I’m on the TPC for the Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) 2017, and the CfP was just released. The conference will be held in Singapore on 21-22 February 2017 at the National University of Singapore (NUS). More details here. The conference’s theme is “Systems Approach to Cyber Security”&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This conference will bring together academics and practitioners from across the world to participate in a vibrant programme consisting of research papers, industrial best practices, and tools exhibition. This conference focus on techniques and methodologies oriented to construct resilient systems against cyber-attacks that will helps to construct safe execution environments, improving security of both hardware and software by means of using mathematical tools and engineering approaches for designing, verifying, and monitoring cyber physical systems.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;This conference will bring together academics and practitioners from across the world to participate in a vibrant programme consisting of research papers, industrial best practices, and tools exhibition. This conference focus on techniques and methodologies oriented to construct resilient systems against cyber-attacks that will helps to construct safe execution environments, improving security of both hardware and software by means of using mathematical tools and engineering approaches for designing, verifying, and monitoring cyber physical systems.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h4 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Research Track Deadline: 1 October 2016&lt;/li&gt;
@@ -2536,8 +2547,7 @@ created a dependency on communication as many of the processes
 underpinning the foundations of modern society would grind to a
 halt should communication become unavailable. However, much to our
 dismay, the current state of safety and availability of the
-Internet is far from commensurate given its importance.&lt;/p&gt;
-&lt;/blockquote&gt;
+Internet is far from commensurate given its importance.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Although we cannot conclusively determine what the impact of a
 1-minute, 1-hour, 1-day, or 1-week outage of Internet connectivity
@@ -2549,8 +2559,7 @@ of malicious actions by adversaries. Recent patches to improve
 Internet security and availability have been constrained by the
 current Internet architecture, business models, and legal
 aspects. Moreover, there are fundamental design decisions of the
-current Internet that inherently complicate secure operation.&lt;/p&gt;
-&lt;/blockquote&gt;
+current Internet that inherently complicate secure operation.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Given the diverse nature of constituents in today’s Internet,
 another important challenge is how to scale authentication of
@@ -2559,8 +2568,7 @@ domains for TLS) to a global environment. Currently prevalent PKI
 models (monopoly and oligarchy) do not scale globally because
 mutually distrusting entities cannot agree on a single trust root,
 and because everyday users cannot evaluate the trustworthiness of
-each of the many root CAs in their browsers.&lt;/p&gt;
-&lt;/blockquote&gt;
+each of the many root CAs in their browsers.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;To address these issues, we study the design of a next-generation
 Internet architecture that is secure, available, and offers
@@ -2572,8 +2580,7 @@ space with a medley of challenges to address, and unfettered
 freedom to think creatively in the absence of limiting
 constraints. Once we know how good a network could be, we can then
 engage in incorporating these ideas into the current Internet or
-study strategies for transition to a next-generation network.&lt;/p&gt;
-&lt;/blockquote&gt;
+study strategies for transition to a next-generation network.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Date: May 11 2016&lt;/li&gt;
 &lt;li&gt;Time: 2:30pm to 3:30pm&lt;/li&gt;
@@ -2616,8 +2623,7 @@ study strategies for transition to a next-generation network.&lt;/p&gt;
       <description>&lt;p&gt;I’m hosting Prof. Dieter Gollmann from TUHH on March 17 2016. He will give a public talk with the following details.
 Cyber-physical Systems Security&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;We argue that cyber-physical systems cannot be protected just by protecting their IT infrastructure and that the CIA approach familiar from communications security is insufficient in CPS security. Rather, the IT components should be treated as a control system, inputs to that control system should be checked for veracity, and control algorithms should be designed in a way that they can handle a certain amount of adversarial actions. We will discuss some open research questions that need to be addressed in this domain.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;We argue that cyber-physical systems cannot be protected just by protecting their IT infrastructure and that the CIA approach familiar from communications security is insufficient in CPS security. Rather, the IT components should be treated as a control system, inputs to that control system should be checked for veracity, and control algorithms should be designed in a way that they can handle a certain amount of adversarial actions. We will discuss some open research questions that need to be addressed in this domain.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Date: March 16 2016&lt;/li&gt;
 &lt;li&gt;Time: 3pm to 4pm&lt;/li&gt;
@@ -2727,8 +2733,7 @@ file:figs/greatFigure.png
       <guid>https://tippenhauer.de/post/cfp-scspw-2016/</guid>
       <description>&lt;p&gt;I’m on the TPC for the “Smart City Security and Privacy Workshop” (SCSP-W 2016), held in conjunction with CPS Week 2016 in Vienna, Austria on 11-14 April, 2016 – link.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;CPS Week is the premier event on Cyber-Physical Systems and brings together academicians, industry experts, and government representatives from around the world. The SCSP-W workshop will focus on security and privacy aspects of smart cities that are pertinent to areas like Internet of Things (IoT), Smart Buildings, Smart‑Grid Systems, Critical Infrastructure Networks, Intelligent Transportation Systems, and Medical Devices. SCSP-W is a full day workshop and will include research papers, invited talks, and discussion sessions to facilitate exchange of research ideas in a community environment.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;CPS Week is the premier event on Cyber-Physical Systems and brings together academicians, industry experts, and government representatives from around the world. The SCSP-W workshop will focus on security and privacy aspects of smart cities that are pertinent to areas like Internet of Things (IoT), Smart Buildings, Smart‑Grid Systems, Critical Infrastructure Networks, Intelligent Transportation Systems, and Medical Devices. SCSP-W is a full day workshop and will include research papers, invited talks, and discussion sessions to facilitate exchange of research ideas in a community environment.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Submission deadline: January 822, 2016&lt;/p&gt;
 </description>
     </item>
@@ -2783,8 +2788,7 @@ file:figs/greatFigure.png
       <description>&lt;p&gt;I’m on the TPC for the 31th IFIP TC-11 SEC 2016 International Information Security and Privacy Conference. Its CfP was just released, more details here. Deadline for paper submissions is December 24, 2015. From the CfP:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The IFIP SEC conference is the flagship event of the International Federation for Information Processing (IFIP) Technical Committee 11 on Security and Privacy Protection in Information Processing Systems(TC-11, 
-&lt;a href=&#34;https://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;a href=&#34;https://www.ifiptc11.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ifiptc11.org&lt;/a&gt;  ). Previous SEC conferences were held in Hamburg (Germany) 2015, Marrakech (Morroco) 2014, Auckland (New Zealand) 2013, Heraklion (Greece) 2012, Lucerne (Switzerland) 2011, and Brisbane (Australia) 2010. We seek submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of security and privacy protection in ICT Systems.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -2834,8 +2838,7 @@ file:figs/greatFigure.png
       <description>&lt;p&gt;We are organizing the inaugural Singapore Cyber Security R&amp;amp;D Conference (SG-CRC) in 2016. The call for papers is now available 
 &lt;a href=&#34;http://itrust.sutd.edu.sg/sg-crc-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;, deadline for papers is October 26, 2015. About the conference:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The conference will bring together academics and practitioners from across the world to participate in a vibrant program consisting of research papers,  industrial best practices, and tools exhibition. Students, undergraduate and graduate are encouraged to participate in specially organized sessions.  Several cash awards and certificates will be given to the best contributions in various categories.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The conference will bring together academics and practitioners from across the world to participate in a vibrant program consisting of research papers,  industrial best practices, and tools exhibition. Students, undergraduate and graduate are encouraged to participate in specially organized sessions.  Several cash awards and certificates will be given to the best contributions in various categories.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -2859,8 +2862,7 @@ seek novel submissions describing theoretical and practical
 security solutions to CPS. Papers that are pertinent to the
 security of embedded systems, SCADA, smart grid, and critical
 infrastructure networks are all welcome, especially in the domains
-of energy and transportation.&lt;/p&gt;
-&lt;/blockquote&gt;
+of energy and transportation.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -3014,8 +3016,7 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
 &lt;a href=&#34;https://tippenhauer.de/aspire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-ASPIRE&lt;/a&gt;, was selected as one of them. I will be track-PI for two out of the 6 tracks of SUTD-ASPIRE, for the track on “orthogonal defenses” and “Attacker models”. SUTD-ASPIRE focuses on “Advancing the Security of Public Infrastructure using Resilience and Economics”, in particular power and water infrastructure. We plan to launch a website with more details on ASPIRE soon.&lt;/p&gt;
 &lt;p&gt;From the proposal:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Our objective is to conduct fundamental scientific research to improve the security of Cyber-Physical Systems (CPS) that offer key services such as power. Our contributions will be: (a) principles, techniques, and software tools, and (b) validation of principles and design techniques through experiments using SUTD’s realistic testbeds. Together with our public and private partners, we ensure that the outcomes of the proposed research will have real-world impact. Consequently, our work will benefit Singapore along three dimensions: government interests, commercial interests and manpower development.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Our objective is to conduct fundamental scientific research to improve the security of Cyber-Physical Systems (CPS) that offer key services such as power. Our contributions will be: (a) principles, techniques, and software tools, and (b) validation of principles and design techniques through experiments using SUTD’s realistic testbeds. Together with our public and private partners, we ensure that the outcomes of the proposed research will have real-world impact. Consequently, our work will benefit Singapore along three dimensions: government interests, commercial interests and manpower development.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -3092,8 +3093,7 @@ Save the profile&lt;/li&gt;
       <guid>https://tippenhauer.de/post/project-safe-accepted/</guid>
       <description>&lt;p&gt;My proposal for Project SAFE was accepted by SUTD last week. The project will start in August’14 and is planned to run for three years. Overall funding is 100k SGD. From the proposal:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;In recent years, the cyber-security of large-scale heterogeneous engineered systems such as public infrastructure and other distributed control systems has become an important problem. […] In this project, we will develop methods to perform practical and theoretical security assessments of devices typically found in such networks. In addition, we will also design strategies to detect and investigate past attacks.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;In recent years, the cyber-security of large-scale heterogeneous engineered systems such as public infrastructure and other distributed control systems has become an important problem. […] In this project, we will develop methods to perform practical and theoretical security assessments of devices typically found in such networks. In addition, we will also design strategies to detect and investigate past attacks.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
