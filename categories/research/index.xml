@@ -7,7 +7,7 @@
     <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hu_8b98efc1b8c0dd53.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Research</title>
       <link>https://tippenhauer.de/categories/research/</link>
     </image>
@@ -712,7 +712,8 @@
 &lt;p&gt;Over the last years, blockchains have developed into a mainstream technology that entire industry sectors are talking about.
 The latest generation even supports smart contracts – programs that are executed by all participants and that may govern everything from simple transactions to the setup of organisations. Beyond the hype, however, we find that there is little deployment beyond the two most prominent examples, Bitcoin and Ethereum.
 In this talk, we are going to explore some of the reasons. In particular, we show that the P2P networks that underlie blockchains impact their functionality in decisive ways. We look at dependability and abortion of transactions, both of which are crucial for enterprises, and we inspect the network structure and its influence on transaction execution. We present some early numbers from more than 2,500 scans
-of a blockchain network. Finally, we discuss some research directions that could prove fruitful in a number of systems, blockchains or beyond.&lt;/p&gt;&lt;/blockquote&gt;
+of a blockchain network. Finally, we discuss some research directions that could prove fruitful in a number of systems, blockchains or beyond.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -865,7 +866,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
 &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=3055192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and as pre-print on arxiv.&lt;/p&gt;
 &lt;p&gt;From the abstract:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;In recent years, the emerging Internet-of-Things (IoT) has led to rising concerns about the security of networked embedded devices. In this work, we propose the SIPHON architecture—a Scalable high-Interaction Honeypot platform for IoT devices. Our architecture leverages IoT devices that are physically at one location and are connected to the Internet through so-called wormholes distributed around the world. The resulting architecture allows exposing few physical devices over a large number of geographically distributed IP addresses. We demonstrate the proposed architecture in a large scale experiment with 39 wormhole instances in 16 cities in 9 countries. Based on this setup, five physical IP cameras, one NVR and one IP printer are presented as 85 real IoT devices on the Internet, attracting a daily traffic of 700MB for a period of two months. A preliminary analysis of the collected traffic indicates that devices in some cities attracted significantly more traffic than others (ranging from 600 000 incoming TCP connections for the most popular destination to less than 50 000 for the least popular). We recorded over 400 brute-force login attempts to the web-interface of our devices using a total of 1826 distinct credentials, from which 11 attempts were successful. Moreover, we noted login attempts to Telnet and SSH ports some of which used credentials found in the recently disclosed Mirai malware.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In recent years, the emerging Internet-of-Things (IoT) has led to rising concerns about the security of networked embedded devices. In this work, we propose the SIPHON architecture—a Scalable high-Interaction Honeypot platform for IoT devices. Our architecture leverages IoT devices that are physically at one location and are connected to the Internet through so-called wormholes distributed around the world. The resulting architecture allows exposing few physical devices over a large number of geographically distributed IP addresses. We demonstrate the proposed architecture in a large scale experiment with 39 wormhole instances in 16 cities in 9 countries. Based on this setup, five physical IP cameras, one NVR and one IP printer are presented as 85 real IoT devices on the Internet, attracting a daily traffic of 700MB for a period of two months. A preliminary analysis of the collected traffic indicates that devices in some cities attracted significantly more traffic than others (ranging from 600 000 incoming TCP connections for the most popular destination to less than 50 000 for the least popular). We recorded over 400 brute-force login attempts to the web-interface of our devices using a total of 1826 distinct credentials, from which 11 attempts were successful. Moreover, we noted login attempts to Telnet and SSH ports some of which used credentials found in the recently disclosed Mirai malware.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -879,7 +881,8 @@ He is the recipient of the prestigious Swarnajayanti DST Fellowship, Young Scien
 &lt;blockquote&gt;
 &lt;p&gt;The emerging and much-touted Internet of Things (IoT) under the slogan “connecting the unconnected” presents a variety of security and privacy challenges in a broad spectrum of application domains, ranging from large-scale smart energy grids to smart vehicles, homes and personal wearable devices. Prominent among these challenges is the establishment of trust in remote IoT devices typically attained via remote attestation, a distinct security service that aims to ascertain the current state of potentially compromised remote devices.
 However, recent studies have revealed many security vulnerabilities in embedded devices that are core components of the IoT. On the other hand, established protection measures for traditional computing platforms and networks may not always directly apply to IoT due to their diversity, resource constrains and large scale.
-In this talk we survey the landscape of the recent research on security architectures and particularly scalable remote attestation schemes for IoT devices. We also discuss their effectiveness and related tradeoffs as well as future research challenges and directions.&lt;/p&gt;&lt;/blockquote&gt;
+In this talk we survey the landscape of the recent research on security architectures and particularly scalable remote attestation schemes for IoT devices. We also discuss their effectiveness and related tradeoffs as well as future research challenges and directions.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -1040,7 +1043,8 @@ created a dependency on communication as many of the processes
 underpinning the foundations of modern society would grind to a
 halt should communication become unavailable. However, much to our
 dismay, the current state of safety and availability of the
-Internet is far from commensurate given its importance.&lt;/p&gt;&lt;/blockquote&gt;
+Internet is far from commensurate given its importance.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Although we cannot conclusively determine what the impact of a
 1-minute, 1-hour, 1-day, or 1-week outage of Internet connectivity
@@ -1052,7 +1056,8 @@ of malicious actions by adversaries. Recent patches to improve
 Internet security and availability have been constrained by the
 current Internet architecture, business models, and legal
 aspects. Moreover, there are fundamental design decisions of the
-current Internet that inherently complicate secure operation.&lt;/p&gt;&lt;/blockquote&gt;
+current Internet that inherently complicate secure operation.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Given the diverse nature of constituents in today’s Internet,
 another important challenge is how to scale authentication of
@@ -1061,7 +1066,8 @@ domains for TLS) to a global environment. Currently prevalent PKI
 models (monopoly and oligarchy) do not scale globally because
 mutually distrusting entities cannot agree on a single trust root,
 and because everyday users cannot evaluate the trustworthiness of
-each of the many root CAs in their browsers.&lt;/p&gt;&lt;/blockquote&gt;
+each of the many root CAs in their browsers.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;To address these issues, we study the design of a next-generation
 Internet architecture that is secure, available, and offers
@@ -1073,7 +1079,8 @@ space with a medley of challenges to address, and unfettered
 freedom to think creatively in the absence of limiting
 constraints. Once we know how good a network could be, we can then
 engage in incorporating these ideas into the current Internet or
-study strategies for transition to a next-generation network.&lt;/p&gt;&lt;/blockquote&gt;
+study strategies for transition to a next-generation network.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Date: May 11 2016&lt;/li&gt;
 &lt;li&gt;Time: 2:30pm to 3:30pm&lt;/li&gt;
@@ -1100,7 +1107,8 @@ study strategies for transition to a next-generation network.&lt;/p&gt;&lt;/bloc
       <description>&lt;p&gt;I’m hosting Prof. Dieter Gollmann from TUHH on March 17 2016. He will give a public talk with the following details.
 Cyber-physical Systems Security&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;We argue that cyber-physical systems cannot be protected just by protecting their IT infrastructure and that the CIA approach familiar from communications security is insufficient in CPS security. Rather, the IT components should be treated as a control system, inputs to that control system should be checked for veracity, and control algorithms should be designed in a way that they can handle a certain amount of adversarial actions. We will discuss some open research questions that need to be addressed in this domain.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;We argue that cyber-physical systems cannot be protected just by protecting their IT infrastructure and that the CIA approach familiar from communications security is insufficient in CPS security. Rather, the IT components should be treated as a control system, inputs to that control system should be checked for veracity, and control algorithms should be designed in a way that they can handle a certain amount of adversarial actions. We will discuss some open research questions that need to be addressed in this domain.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Date: March 16 2016&lt;/li&gt;
 &lt;li&gt;Time: 3pm to 4pm&lt;/li&gt;
@@ -1268,7 +1276,8 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
 &lt;a href=&#34;https://tippenhauer.de/aspire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD-ASPIRE&lt;/a&gt;, was selected as one of them. I will be track-PI for two out of the 6 tracks of SUTD-ASPIRE, for the track on “orthogonal defenses” and “Attacker models”. SUTD-ASPIRE focuses on “Advancing the Security of Public Infrastructure using Resilience and Economics”, in particular power and water infrastructure. We plan to launch a website with more details on ASPIRE soon.&lt;/p&gt;
 &lt;p&gt;From the proposal:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Our objective is to conduct fundamental scientific research to improve the security of Cyber-Physical Systems (CPS) that offer key services such as power. Our contributions will be: (a) principles, techniques, and software tools, and (b) validation of principles and design techniques through experiments using SUTD’s realistic testbeds. Together with our public and private partners, we ensure that the outcomes of the proposed research will have real-world impact. Consequently, our work will benefit Singapore along three dimensions: government interests, commercial interests and manpower development.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Our objective is to conduct fundamental scientific research to improve the security of Cyber-Physical Systems (CPS) that offer key services such as power. Our contributions will be: (a) principles, techniques, and software tools, and (b) validation of principles and design techniques through experiments using SUTD’s realistic testbeds. Together with our public and private partners, we ensure that the outcomes of the proposed research will have real-world impact. Consequently, our work will benefit Singapore along three dimensions: government interests, commercial interests and manpower development.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -1290,16 +1299,16 @@ $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_n
 &lt;li&gt;get msjnc from 
 &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;vpn0&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
-&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
+&lt;img alt=&#34;vpn1&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34;&gt;
 the full Server/URL is:
 
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
-&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;vpn2&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -1321,7 +1330,8 @@ Save the profile&lt;/li&gt;
       <guid>https://tippenhauer.de/post/project-safe-accepted/</guid>
       <description>&lt;p&gt;My proposal for Project SAFE was accepted by SUTD last week. The project will start in August’14 and is planned to run for three years. Overall funding is 100k SGD. From the proposal:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;In recent years, the cyber-security of large-scale heterogeneous engineered systems such as public infrastructure and other distributed control systems has become an important problem. […] In this project, we will develop methods to perform practical and theoretical security assessments of devices typically found in such networks. In addition, we will also design strategies to detect and investigate past attacks.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In recent years, the cyber-security of large-scale heterogeneous engineered systems such as public infrastructure and other distributed control systems has become an important problem. […] In this project, we will develop methods to perform practical and theoretical security assessments of devices typically found in such networks. In addition, we will also design strategies to detect and investigate past attacks.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
