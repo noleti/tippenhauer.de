@@ -5,12 +5,42 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>2025 in numbers</title>
+      <link>https://tippenhauer.de/post/2025-in-numbers/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/2025-in-numbers/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time for another  yearly quantitative review of my activity. Metric-wise (continuing my 
+&lt;a href=&#34;https://tippenhauer.de/post/2024-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;), the year went as follows. As of now, second week of January 2026, my publications reached ~9300 citations according to 
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. 8000 last year, ~6700 two years ago/ 5500 three years ago). So growth has consolidated, and I&amp;rsquo;m expecting to surpass the 2024 citations numbers by about 15% when some missing citations are added for 2025. Google scholar currently lists ~116 publications (vs. 115 last year, most peer-reviewed), and 2 US patents and several pending ones. Our first GPS paper currently has 846 cites (after 753 last year), in total 26 papers have &amp;gt;100 cites. My h-index has increased to 45 (from 44, my i10-index is currently 82, from 76 last year.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 6437 citations and 109 publications. They still indicate how many papers were strongly influenced by my work (439), compared to 402 in previous year. They don&amp;rsquo;t list which authors were  most influenced any more. I supposedly had more than 224 co-authors overall.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=35106192100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scopus&lt;/a&gt; lists 97 publications, ~5120 citations, h-index 34, number of co-authors: 191 (164 last year). Overall they seem to have index around half of the number of documents that Google scholar has access to.&lt;/p&gt;
+&lt;p&gt;In 2025, I did not chair any event, but I committed as general chair for 
+&lt;a href=&#34;https://wisec26.events.cispa.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wisec&#39;26&lt;/a&gt; in Saarbrücken, and as TPC Chair for AsiaCCS&#39;27 (together with Neil Gong).&lt;/p&gt;
+&lt;p&gt;Other numbers for 2025: Github lists 79 commits to repositories. I received 7384 mails on my university accounts (after removal of spam). Per working day, that would make around 37 (previous year: 38) mails. I sent 1489 mails (~7.5 per working day, last year 6).&lt;/p&gt;
+&lt;p&gt;My twitter account currently follows 122, has 433 followers, but I&amp;rsquo;m not active there at all. I am also still not active on my  mastodon account at well (
+&lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My total Youtube stats: 532h of watchtime in 2025 on ~120 videos total (most from the lectures). 52 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pitfalls for Security Isolation in Multi-CPU Systems</title>
+      <link>https://tippenhauer.de/publication/hoffmann-26-pitfalls/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/hoffmann-26-pitfalls/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TPC Chair AsiaCCS 2027</title>
