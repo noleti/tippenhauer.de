@@ -7,7 +7,7 @@
     <description>Nils Ole Tippenhauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
@@ -30,6 +30,15 @@
 &lt;p&gt;My twitter account currently follows 122, has 433 followers, but I&amp;rsquo;m not active there at all. I am also still not active on my  mastodon account at well (
 &lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My total Youtube stats: 532h of watchtime in 2025 on ~120 videos total (most from the lectures). 52 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DNA: Automated Vulnerability Variant Detection through AI-Synthesized Queries</title>
+      <link>https://tippenhauer.de/publication/ebrahim-26-dna/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/ebrahim-26-dna/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
@@ -3045,11 +3054,11 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide0&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide1&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide2&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
@@ -3144,16 +3153,16 @@ $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_n
 &lt;li&gt;get msjnc from 
 &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img alt=&#34;vpn0&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
-&lt;img alt=&#34;vpn1&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34;&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
 the full Server/URL is:
 
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
-&lt;img alt=&#34;vpn2&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
