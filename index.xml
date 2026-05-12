@@ -5,12 +5,29 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>Call for Participation: Wisec 2026</title>
+      <link>https://tippenhauer.de/post/attend-wisec-26/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/attend-wisec-26/</guid>
+      <description>&lt;p&gt;We are inviting you to attend Wisec&#39;26, to be held in Saarbrücken June 30th-July 3rd. I am general chair together with Mridula Singh. We have now published the list of accepted papers, and registration is open. Come join us in Saarbrücken this summer!&lt;/p&gt;
+&lt;h1 id=&#34;wisec26-call-for-participation&#34;&gt;Wisec&#39;26 Call for Participation&lt;/h1&gt;
+&lt;p&gt;Website: 
+&lt;a href=&#34;https://wisec26.events.cispa.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The 19th ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2026)
+will be held from June 30 to July 3, 2026 in Saarbrücken, Germany.&lt;/p&gt;
+&lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the increasingly diverse range of mobile or wireless applications such as Internet of Things, Cyber-Physical Systems, as well as the security and privacy of mobile software platforms, usable security and privacy, biometrics, and cryptography.&lt;/p&gt;
+&lt;p&gt;More details on: 
+&lt;a href=&#34;https://wisec26.events.cispa.de/call-for-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de/call-for-papers/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2025 in numbers</title>
