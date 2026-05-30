@@ -5,12 +5,25 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
+    
+    <item>
+      <title>Google scholar milestone: 10k</title>
+      <link>https://tippenhauer.de/post/google-scholar-milestone10k/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/google-scholar-milestone10k/</guid>
+      <description>&lt;p&gt;10 years and 3 months after my 
+&lt;a href=&#34;https://tippenhauer.de/post/google-scholar-milestone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post&lt;/a&gt; celebrating 500 total citations on Google scholar, my publications have now reached 10000 citations according to Google scholar.&lt;/p&gt;
+&lt;p&gt;I’m (still) glad to see that some of my earlier (PhD days) papers continue to be cited frequently. Google scholar currently lists 119 publications (most peer-reviewed), including a number of patents.&lt;/p&gt;
+&lt;p&gt;The GPS paper from my PhD times is still cited strongly with about 80 cites per year. Other papers, in particular interdisciplinar papers, are also strongly cited. The SWaT testbed paper gets cited very well due to the impact this testbed and its datasets have (despite the paper itself being somewhat light on content). It&amp;rsquo;s quite likely that this will be for ever my most cited paper, given its continuous increase in citations per year.&lt;/p&gt;
+&lt;p&gt;Out of my top 10 cited papers, only one is published at a tier-1 venue. In general, an acceptance at more competitive venue does not seem to be a prerequisite for high number of citations. For many of the highly cited works that did not go to competitive venues, being early for an upcoming topic was also an important factor, I would assume.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Call for Participation: Wisec 2026</title>
