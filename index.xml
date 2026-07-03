@@ -5,42 +5,12 @@
     <link>https://tippenhauer.de/</link>
       <atom:link href="https://tippenhauer.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils Ole Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
-    
-    <item>
-      <title>Google scholar milestone: 10k</title>
-      <link>https://tippenhauer.de/post/google-scholar-milestone10k/</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/post/google-scholar-milestone10k/</guid>
-      <description>&lt;p&gt;10 years and 3 months after my 
-&lt;a href=&#34;https://tippenhauer.de/post/google-scholar-milestone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post&lt;/a&gt; celebrating 500 total citations on Google scholar, my publications have now reached 10000 citations according to Google scholar.&lt;/p&gt;
-&lt;p&gt;I’m (still) glad to see that some of my earlier (PhD days) papers continue to be cited frequently. Google scholar currently lists 119 publications (most peer-reviewed), including a number of patents.&lt;/p&gt;
-&lt;p&gt;The GPS paper from my PhD times is still cited strongly with about 80 cites per year. Other papers, in particular interdisciplinar papers, are also strongly cited. The SWaT testbed paper gets cited very well due to the impact this testbed and its datasets have (despite the paper itself being somewhat light on content). It&amp;rsquo;s quite likely that this will be for ever my most cited paper, given its continuous increase in citations per year.&lt;/p&gt;
-&lt;p&gt;Out of my top 10 cited papers, only one is published at a tier-1 venue. In general, an acceptance at more competitive venue does not seem to be a prerequisite for high number of citations. For many of the highly cited works that did not go to competitive venues, being early for an upcoming topic was also an important factor, I would assume.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Call for Participation: Wisec 2026</title>
-      <link>https://tippenhauer.de/post/attend-wisec-26/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/post/attend-wisec-26/</guid>
-      <description>&lt;p&gt;We are inviting you to attend Wisec&#39;26, to be held in Saarbrücken June 30th-July 3rd. I am general chair together with Mridula Singh. We have now published the list of accepted papers, and registration is open. Come join us in Saarbrücken this summer!&lt;/p&gt;
-&lt;h1 id=&#34;wisec26-call-for-participation&#34;&gt;Wisec&#39;26 Call for Participation&lt;/h1&gt;
-&lt;p&gt;Website: 
-&lt;a href=&#34;https://wisec26.events.cispa.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The 19th ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2026)
-will be held from June 30 to July 3, 2026 in Saarbrücken, Germany.&lt;/p&gt;
-&lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the increasingly diverse range of mobile or wireless applications such as Internet of Things, Cyber-Physical Systems, as well as the security and privacy of mobile software platforms, usable security and privacy, biometrics, and cryptography.&lt;/p&gt;
-&lt;p&gt;More details on: 
-&lt;a href=&#34;https://wisec26.events.cispa.de/call-for-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de/call-for-papers/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>2025 in numbers</title>
@@ -49,7 +19,7 @@ will be held from June 30 to July 3, 2026 in Saarbrücken, Germany.&lt;/p&gt;
       <guid>https://tippenhauer.de/post/2025-in-numbers/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s time for another  yearly quantitative review of my activity. Metric-wise (continuing my 
 &lt;a href=&#34;https://tippenhauer.de/post/2024-in-numbers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tradition&lt;/a&gt;), the year went as follows. As of now, second week of January 2026, my publications reached ~9300 citations according to 
-&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. 8000 last year, ~6700 two years ago/ 5500 three years ago). So growth has consolidated, and I&amp;rsquo;m expecting to surpass the 2024 citations numbers by about 15% when some missing citations are added for 2025. Google scholar currently lists ~116 publications (vs. 115 last year, most peer-reviewed), and 2 US patents and several pending ones. Our first GPS paper currently has 846 cites (after 753 last year), in total 26 papers have &amp;gt;100 cites. My h-index has increased to 45 (from 44, my i10-index is currently 82, from 76 last year.&lt;/p&gt;
+&lt;a href=&#34;https://scholar.google.com.sg/citations?user=IptcAgQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; (vs. 8000 last year, ~6700 two years ago/ 5500 three years ago). So growth has consolidated, and I&amp;rsquo;m expecting to surpass the 2024 citations numbers by about 15% when some missing citations are added for 2025. Google scholar currently lists ~116 publications (vs. 115 last year, most peer-reviewed), and 2 US patents and several pending ones. Our first GPS paper currently has 846 cites (after 753 last year), in total 26 papers have &amp;gt;100 cites. My h-index has increased to 45 (from 44), my i10-index is currently 82, from 76 last year.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.semanticscholar.org/author/Nils-Ole-Tippenhauer/2225170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic scholar&lt;/a&gt; lists 6437 citations and 109 publications. They still indicate how many papers were strongly influenced by my work (439), compared to 402 in previous year. They don&amp;rsquo;t list which authors were  most influenced any more. I supposedly had more than 224 co-authors overall.&lt;/p&gt;
 &lt;p&gt;
@@ -60,15 +30,6 @@ will be held from June 30 to July 3, 2026 in Saarbrücken, Germany.&lt;/p&gt;
 &lt;p&gt;My twitter account currently follows 122, has 433 followers, but I&amp;rsquo;m not active there at all. I am also still not active on my  mastodon account at well (
 &lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My total Youtube stats: 532h of watchtime in 2025 on ~120 videos total (most from the lectures). 52 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DNA: Automated Vulnerability Variant Detection through AI-Synthesized Queries</title>
-      <link>https://tippenhauer.de/publication/ebrahim-26-dna/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/ebrahim-26-dna/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
@@ -200,15 +161,6 @@ will be held from June 30 to July 3, 2026 in Saarbrücken, Germany.&lt;/p&gt;
 &lt;p&gt;My twitter account currently follows 119, has 426 followers. I set up a mastodon accound at well (
 &lt;a href=&#34;https://infosec.exchange/@notippenhauer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://infosec.exchange/@notippenhauer)&lt;/a&gt;, but am not very active there.&lt;/p&gt;
 &lt;p&gt;My total Youtube stats: 336h of watchtime on ~65 videos total (most from the lectures I gave in &amp;lsquo;20-&amp;lsquo;22). 23 subscribers. Apart from video of keynote talks, other videos are private, so I won&amp;rsquo;t share them here. vate, so I won&amp;rsquo;t share them here.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Thorough Cybersecurity Dataset for Intrusion Detection in Smart Water Networks</title>
-      <link>https://tippenhauer.de/publication/murillo-2024-thorough/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/publication/murillo-2024-thorough/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
@@ -587,6 +539,15 @@ Such artifacts will be evaluated by the artifact evaluation committee and corres
 &lt;p&gt;Other numbers for 2021: Github lists 242 commits to repositories (after 697 in 2020), mostly for my BMBF project Kamaeleon. I received 10591 mails on my university accounts (after removal of spam). Per working day, that would make around 42 (previous year: 42) mails. I sent 2236 mails (~10 per working day, last year also 10). Both numbers have remained virtually the same as in 2020. While we still use Mattermost to communicate with others at CISPA, the work-from-home situation now introduced various other chat systems I need to keep track of.&lt;/p&gt;
 &lt;p&gt;My twitter account currently follows 97, has 290 followers, and ??? tweets (can&amp;rsquo;t find the count at the moment?).&lt;/p&gt;
 &lt;p&gt;Due to the homeoffice situation, I am a Youtuber now: 6k views (1.7kh of watchtime) on 52 videos total (most from the lectures I gave in 2020 and 2021). 18 subscribers. The videos are private, so I won&amp;rsquo;t share them here. ~50 likes total (100% like ratio).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Thorough Cybersecurity Dataset for Intrusion Detection in Smart Water Networks</title>
+      <link>https://tippenhauer.de/publication/murillo-2024-thorough/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/murillo-2024-thorough/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
@@ -1627,7 +1588,6 @@ released the website (
 &lt;p&gt;I co-organized the following academic events:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Program Co-Chair of  ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2027&lt;/li&gt;
-&lt;li&gt;Associate Program Chair of the Network and Distributed System Security (NDSS) Symposium, 2027&lt;/li&gt;
 &lt;li&gt;General Co-Chair of 
 &lt;a href=&#34;https://wisec26.events.cispa.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Conference on Security and Privacy in Wireless and Mobile Networks (Wisec), 2026&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Program Co-Chair of ACM Conference on Security and Privacy in Wireless and Mobile Networks (Wisec), 2023&lt;/li&gt;
@@ -1641,7 +1601,7 @@ released the website (
 &lt;ul&gt;
 &lt;li&gt;USENIX Security Symposium, 2020-2026&lt;/li&gt;
 &lt;li&gt;ACM AsiaCCS, 2021-22, 24&lt;/li&gt;
-&lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018-2019, 2022-2025&lt;/li&gt;
+&lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018-2019, 2022-2026&lt;/li&gt;
 &lt;li&gt;IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025&lt;/li&gt;
 &lt;li&gt;International Conference on Applied Cryptography and Network Security (ACNS), 2019-2021, 2024&lt;/li&gt;
 &lt;li&gt;European Symposium on Research in Computer Security (ESORICS), 2017-2021, 2023&lt;/li&gt;
@@ -1657,7 +1617,7 @@ released the website (
 &lt;p&gt;I am/was involved in the following workshops:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020-24&lt;/li&gt;
-&lt;li&gt;Workshop on the Security of Space and Satellite Systems (SpaceSec), 2024-2025 (co-located with NDSS)&lt;/li&gt;
+&lt;li&gt;Workshop on the Security of Space and Satellite Systems (SpaceSec), 2024-2026 (co-located with NDSS)&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Industrial Control Systems &amp;amp; of Cyber-Physical Systems (CyberICPS), 2020-23  (co-located with Esorics)&lt;/li&gt;
 &lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020-2023 (co-located with S&amp;amp;P)&lt;/li&gt;
 &lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2023 (co-located with ASIA-CCS)&lt;/li&gt;
@@ -3085,11 +3045,11 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide0&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide1&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide2&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
@@ -3184,16 +3144,16 @@ $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_n
 &lt;li&gt;get msjnc from 
 &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;vpn0&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
-&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
+&lt;img alt=&#34;vpn1&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34;&gt;
 the full Server/URL is:
 
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
-&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;vpn2&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>

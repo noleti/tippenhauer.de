@@ -5,29 +5,12 @@
     <link>https://tippenhauer.de/categories/service/</link>
       <atom:link href="https://tippenhauer.de/categories/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
       <link>https://tippenhauer.de/categories/service/</link>
     </image>
-    
-    <item>
-      <title>Call for Participation: Wisec 2026</title>
-      <link>https://tippenhauer.de/post/attend-wisec-26/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://tippenhauer.de/post/attend-wisec-26/</guid>
-      <description>&lt;p&gt;We are inviting you to attend Wisec&#39;26, to be held in Saarbrücken June 30th-July 3rd. I am general chair together with Mridula Singh. We have now published the list of accepted papers, and registration is open. Come join us in Saarbrücken this summer!&lt;/p&gt;
-&lt;h1 id=&#34;wisec26-call-for-participation&#34;&gt;Wisec&#39;26 Call for Participation&lt;/h1&gt;
-&lt;p&gt;Website: 
-&lt;a href=&#34;https://wisec26.events.cispa.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The 19th ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2026)
-will be held from June 30 to July 3, 2026 in Saarbrücken, Germany.&lt;/p&gt;
-&lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the increasingly diverse range of mobile or wireless applications such as Internet of Things, Cyber-Physical Systems, as well as the security and privacy of mobile software platforms, usable security and privacy, biometrics, and cryptography.&lt;/p&gt;
-&lt;p&gt;More details on: 
-&lt;a href=&#34;https://wisec26.events.cispa.de/call-for-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de/call-for-papers/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>TPC Chair AsiaCCS 2027</title>
@@ -949,11 +932,11 @@ of energy and transportation.&lt;/p&gt;
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide0&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide1&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;slide2&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
