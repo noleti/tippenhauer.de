@@ -7,10 +7,40 @@
     <description>News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
       <title>News</title>
       <link>https://tippenhauer.de/post/</link>
     </image>
+    
+    <item>
+      <title>Google scholar milestone: 10k</title>
+      <link>https://tippenhauer.de/post/google-scholar-milestone10k/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/google-scholar-milestone10k/</guid>
+      <description>&lt;p&gt;10 years and 3 months after my 
+&lt;a href=&#34;https://tippenhauer.de/post/google-scholar-milestone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post&lt;/a&gt; celebrating 500 total citations on Google scholar, my publications have now reached 10000 citations according to Google scholar.&lt;/p&gt;
+&lt;p&gt;I’m (still) glad to see that some of my earlier (PhD days) papers continue to be cited frequently. Google scholar currently lists 119 publications (most peer-reviewed), including a number of patents.&lt;/p&gt;
+&lt;p&gt;The GPS paper from my PhD times is still cited strongly with about 80 cites per year. Other papers, in particular interdisciplinar papers, are also strongly cited. The SWaT testbed paper gets cited very well due to the impact this testbed and its datasets have (despite the paper itself being somewhat light on content). It&amp;rsquo;s quite likely that this will be for ever my most cited paper, given its continuous increase in citations per year.&lt;/p&gt;
+&lt;p&gt;Out of my top 10 cited papers, only one is published at a tier-1 venue. In general, an acceptance at more competitive venue does not seem to be a prerequisite for high number of citations. For many of the highly cited works that did not go to competitive venues, being early for an upcoming topic was also an important factor, I would assume.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call for Participation: Wisec 2026</title>
+      <link>https://tippenhauer.de/post/attend-wisec-26/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/post/attend-wisec-26/</guid>
+      <description>&lt;p&gt;We are inviting you to attend Wisec&#39;26, to be held in Saarbrücken June 30th-July 3rd. I am general chair together with Mridula Singh. We have now published the list of accepted papers, and registration is open. Come join us in Saarbrücken this summer!&lt;/p&gt;
+&lt;h1 id=&#34;wisec26-call-for-participation&#34;&gt;Wisec&#39;26 Call for Participation&lt;/h1&gt;
+&lt;p&gt;Website: 
+&lt;a href=&#34;https://wisec26.events.cispa.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The 19th ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2026)
+will be held from June 30 to July 3, 2026 in Saarbrücken, Germany.&lt;/p&gt;
+&lt;p&gt;ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications. In addition to the traditional ACM WiSec topics of physical, link, and network layer security, we welcome papers focusing on the increasingly diverse range of mobile or wireless applications such as Internet of Things, Cyber-Physical Systems, as well as the security and privacy of mobile software platforms, usable security and privacy, biometrics, and cryptography.&lt;/p&gt;
+&lt;p&gt;More details on: 
+&lt;a href=&#34;https://wisec26.events.cispa.de/call-for-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec26.events.cispa.de/call-for-papers/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2025 in numbers</title>
@@ -2277,11 +2307,11 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide0&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide1&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide2&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
@@ -2360,16 +2390,16 @@ $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_n
 &lt;li&gt;get msjnc from 
 &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img alt=&#34;vpn0&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
-&lt;img alt=&#34;vpn1&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34;&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
 the full Server/URL is:
 
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
-&lt;img alt=&#34;vpn2&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
