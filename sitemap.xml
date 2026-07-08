@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tippenhauer.de/publication_types/1/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/ebrahim-26-prying/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication_types/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/categories/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,9 +22,6 @@
   </url><url>
     <loc>https://tippenhauer.de/tags/meta/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/</loc>
-    <lastmod>2026-07-03T21:59:23+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/categories/research/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
@@ -32,17 +41,11 @@
     <loc>https://tippenhauer.de/post/2025-in-numbers/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication_types/1/</loc>
-    <lastmod>2026-07-03T21:59:23+02:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/publication/ebrahim-26-dna/</loc>
     <lastmod>2026-05-11T09:32:37+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/hoffmann-26-pitfalls/</loc>
     <lastmod>2026-05-11T09:32:37+02:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication_types/</loc>
-    <lastmod>2026-07-03T21:59:23+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/tpc-chair-asiaccs27/</loc>
     <lastmod>2025-10-27T00:00:00+00:00</lastmod>
