@@ -5,12 +5,30 @@
     <link>https://tippenhauer.de/publication_types/1/</link>
       <atom:link href="https://tippenhauer.de/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
+      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://tippenhauer.de/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>AutoTAG: A Testbed to Generate Automotive Attack Datasets</title>
+      <link>https://tippenhauer.de/publication/granzow-26-datasets/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/granzow-26-datasets/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ShadowICS: Detecting OT Sandboxes via Passive Industrial Traffic Monitoring</title>
+      <link>https://tippenhauer.de/publication/donadel-26-shadowics/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/donadel-26-shadowics/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Protocol Prying: Systematic Vulnerability Research in the AirDrop and Android Quick Share Proximity Transfer Protocols</title>
@@ -35,6 +53,15 @@
       <link>https://tippenhauer.de/publication/hoffmann-26-pitfalls/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/publication/hoffmann-26-pitfalls/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protocol Prying: Systematic Vulnerability Research in the AirDrop and Android Quick Share Proximity Transfer Protocols</title>
+      <link>https://tippenhauer.de/publication/ebrahim-26-protocol/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/ebrahim-26-protocol/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
