@@ -7,7 +7,7 @@
     <description>Nils Ole Tippenhauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hua225200734429db22ec36f52bdb16dff_217603_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
       <title>Nils Ole Tippenhauer</title>
       <link>https://tippenhauer.de/</link>
     </image>
@@ -1675,7 +1675,7 @@ released the website (
 &lt;h4 id=&#34;tpc-membership-selection&#34;&gt;TPC Membership (selection)&lt;/h4&gt;
 &lt;p&gt;I am/was involved in the following conferences:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;USENIX Security Symposium, 2020-2026&lt;/li&gt;
+&lt;li&gt;USENIX Security Symposium, 2020-2027&lt;/li&gt;
 &lt;li&gt;ACM AsiaCCS, 2021-22, 24&lt;/li&gt;
 &lt;li&gt;ACM Conference on Computer and Communications Security (CCS), 2018-2019, 2022-2026&lt;/li&gt;
 &lt;li&gt;IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025&lt;/li&gt;
@@ -1685,18 +1685,18 @@ released the website (
 &lt;li&gt;International Conference on Critical Information Infrastructures (CRITIS), 2019-2022&lt;/li&gt;
 &lt;li&gt;ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2017-2024&lt;/li&gt;
 &lt;li&gt;GI Sicherheit, 2022&lt;/li&gt;
-&lt;li&gt;Conference on Cryptology and Network Security (CANS), 2017&lt;/li&gt;
+&lt;li&gt;Conference on Cryptology and Network Security (CANS), 2017+2026&lt;/li&gt;
 &lt;li&gt;Singapore-Cyber Security R&amp;amp;D Conference (SG-CRC) 2016-2017&lt;/li&gt;
 &lt;li&gt;International Symposium on High Assurance Systems Engineering (HASE), 2017&lt;/li&gt;
 &lt;li&gt;IFIP International Information Security and Privacy Conference (IFIP SEC), 2015-2016&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I am/was involved in the following workshops:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020-24&lt;/li&gt;
+&lt;li&gt;ACM Workshop on CPS &amp;amp; IoT Security and Privacy (CPSIoTSec), previously CPS-SPC, co-located with CCS, 2020-26&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Space and Satellite Systems (SpaceSec), 2024-2026 (co-located with NDSS)&lt;/li&gt;
 &lt;li&gt;Workshop on the Security of Industrial Control Systems &amp;amp; of Cyber-Physical Systems (CyberICPS), 2020-23  (co-located with Esorics)&lt;/li&gt;
 &lt;li&gt;IEEE Workshop on the Internet of Safe Things (SafeThings), 2020-2023 (co-located with S&amp;amp;P)&lt;/li&gt;
-&lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2023 (co-located with ASIA-CCS)&lt;/li&gt;
+&lt;li&gt;Cyber-Physical System Security Workshop (CPSS), 2015-2023, 2026 (co-located with ASIA-CCS)&lt;/li&gt;
 &lt;li&gt;ACM Workshop on Cyber-Physical Systems-Security and PrivaCy (CPS-SPC), 2016-2019 (co-located with CCS)&lt;/li&gt;
 &lt;li&gt;IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec) co-located with CNS, 2016-2017, 2019-2020&lt;/li&gt;
 &lt;li&gt;Workshop on Cyber Security for Intelligent Transportation Systems (CSITS), 2018-2019 (co-located with Esorics)&lt;/li&gt;
@@ -3121,11 +3121,11 @@ LIPN ranking of security conferences: CCS (A*), Advances in Crypto (A*), EUROCRY
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/post/sutd-beamer-theme/</guid>
       <description>&lt;p&gt;For teaching and other presentations, I tend to use LaTeX+ beamer. Unfortunately, the default beamer themes are in my opinion all somewhat overloaded and outdated. I spent some time to built two themes for personal use, I call them the SUTD light and SUTD dark theme. The light theme is black font on light grey background, with maroon highlights. The dark theme is white text on dark grey background, with maroon highlights. The main focus is on simplicity – putting only a minimal amount of information on each slide, without wasting space. By default, both themes also include the SUTD logo. The following is an example of a title slide.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide0&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide0.png&#34; alt=&#34;slide0&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Another example, showing the different bullet point levels&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide1&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide1.png&#34; alt=&#34;slide1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And an example of the dark theme&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;slide2&#34; src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tippenhauer.de/post/sutd-beamer-theme/slide2.png&#34; alt=&#34;slide2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following information is put automatically in header/footer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slide title (header)&lt;/li&gt;
@@ -3220,16 +3220,16 @@ $ wget https://sutdvpn.sutd.edu.sg/dana-cached/nc/ncLinuxApp.jar -o ~/.juniper_n
 &lt;li&gt;get msjnc from 
 &lt;a href=&#34;http://mad-scientist.us/juniper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mad-scientist.us/juniper.html&lt;/a&gt;. Install the 32 bit compat libs, and the perl stuff.&lt;/li&gt;
 &lt;li&gt;starting msjnc (try &lt;code&gt;--fg&lt;/code&gt; if needed) should set up everything, and you should get something like this:
-&lt;img alt=&#34;vpn0&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn0.png&#34; alt=&#34;vpn0&#34;&gt;&lt;/li&gt;
 &lt;li&gt;Create a new profile with the following settings:
-&lt;img alt=&#34;vpn1&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34;&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn1.png&#34; alt=&#34;vpn1&#34;&gt;
 the full Server/URL is:
 
 &lt;a href=&#34;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_1/login.cgi&lt;/a&gt;
 username is you SUTD username. I would not enter password here, but each time the client connects.
 Save the profile&lt;/li&gt;
 &lt;li&gt;Hit the “connect” button, and you should connect!
-&lt;img alt=&#34;vpn2&#34; src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://tippenhauer.de/post/connecting-to-sutd-vpn-from-ubuntu-linux/vpn2.png&#34; alt=&#34;vpn2&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
