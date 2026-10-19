@@ -7,7 +7,7 @@
     <description>Cfp</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
+      <url>https://tippenhauer.de/images/icon_hu_be1b99bce9fc7e74.png</url>
       <title>Cfp</title>
       <link>https://tippenhauer.de/tags/cfp/</link>
     </image>
@@ -126,7 +126,7 @@ wireless systems&lt;/li&gt;
 &lt;p&gt;Papers rejected in the first round can be resubmitted to the second round. For such resubmissions, authors can choose to have the same reviewers and should provide a letter detailing revisions in that case.&lt;/p&gt;
 &lt;h2 id=&#34;submission-guidelines&#34;&gt;Submission Guidelines&lt;/h2&gt;
 &lt;p&gt;All papers for ACM WiSec 2023 must be submitted electronically through the HotCRP conference management system (
-&lt;a href=&#34;https://wisec23.hotcrp.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec23.hotcrp.com/)&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://wisec23.hotcrp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wisec23.hotcrp.com/&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Only PDF files will be accepted. Submissions must be prepared using the following ACM proceedings
 template and must use US Letter page size (215.9 x 279.4 mm / 8.5 x 11 inches):&lt;/p&gt;
 &lt;ul&gt;
@@ -158,9 +158,9 @@ Such artifacts will be evaluated by the artifact evaluation committee and corres
 &lt;h2 id=&#34;policy-for-peer-review-integrity&#34;&gt;Policy for Peer-Review Integrity&lt;/h2&gt;
 &lt;p&gt;All SIGSAC sponsored conferences and workshops are required to follow ACM policies against harassment activities (
 &lt;a href=&#34;https://www.acm.org/about-acm/policy-against-harassment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acm.org/about-acm/policy-against-harassment&lt;/a&gt;) and ACM Code of Ethics and Professional Conduct (
-&lt;a href=&#34;https://www.acm.org/code-of-ethics%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acm.org/code-of-ethics)&lt;/a&gt;. Also all authors, PC members and non-PC reviewers are required to follow ACM Publications Policies (
-&lt;a href=&#34;https://www.acm.org/publications/policies/toc%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acm.org/publications/policies/toc)&lt;/a&gt;. Particularly, we require all reviewers to uphold the integrity of the peer review process and avoid conflict of interest of any form (e.g., reviewer collusion ring). Those who violate these policies will be penalized according to ACM policies (
-&lt;a href=&#34;https://www.acm.org/publications/policies/penalties-for-publication-violations%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acm.org/publications/policies/penalties-for-publication-violations)&lt;/a&gt;. If you would like to report a violation, please contact program chairs of your conferences/workshops or SIGSAC officers. We are committed to protecting the confidentiality of your communication.&lt;/p&gt;
+&lt;a href=&#34;https://www.acm.org/code-of-ethics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acm.org/code-of-ethics&lt;/a&gt;). Also all authors, PC members and non-PC reviewers are required to follow ACM Publications Policies (
+&lt;a href=&#34;https://www.acm.org/publications/policies/toc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acm.org/publications/policies/toc&lt;/a&gt;). Particularly, we require all reviewers to uphold the integrity of the peer review process and avoid conflict of interest of any form (e.g., reviewer collusion ring). Those who violate these policies will be penalized according to ACM policies (
+&lt;a href=&#34;https://www.acm.org/publications/policies/penalties-for-publication-violations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.acm.org/publications/policies/penalties-for-publication-violations&lt;/a&gt;). If you would like to report a violation, please contact program chairs of your conferences/workshops or SIGSAC officers. We are committed to protecting the confidentiality of your communication.&lt;/p&gt;
 </description>
     </item>
     
