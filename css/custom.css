@@ -1,0 +1,12 @@
+/* Justify body text on the about/home sections */
+.home-section p,
+.about-biography p,
+.article-style p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+p {
+  text-align: justify;
+  hyphens: auto;
+}
