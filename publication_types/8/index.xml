@@ -5,12 +5,20 @@
     <link>https://tippenhauer.de/publication_types/8/</link>
       <atom:link href="https://tippenhauer.de/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     <description>8</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tippenhauer.de/images/icon_hu_be1b99bce9fc7e74.png</url>
       <title>8</title>
       <link>https://tippenhauer.de/publication_types/8/</link>
     </image>
+    
+    <item>
+      <title>Defense system and method against cyber-physical attacks</title>
+      <link>https://tippenhauer.de/publication/mathur-2022-defense/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/publication/mathur-2022-defense/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apparatus and method for monitoring a wireless network</title>
