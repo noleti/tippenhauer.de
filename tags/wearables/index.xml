@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wearables | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/tags/wearables/</link>
+      <atom:link href="https://tippenhauer.de/tags/wearables/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wearables</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
+      <title>Wearables</title>
+      <link>https://tippenhauer.de/tags/wearables/</link>
+    </image>
+    
+    <item>
+      <title>NSE: National Science Experiment</title>
+      <link>https://tippenhauer.de/project/nse/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/project/nse/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; National Research Foundation, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 02/2015-12/2017 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/p&gt;
+&lt;p&gt;The National Science Experiment introduced school students in Singapore to data-driven science. The team developed a wearable sensor platform within less than a year, had 50,000 units produced, and built the cloud infrastructure and a web application for exploring the data. Students carried the sensors for a week while they recorded environmental measurements, and then analysed their own data. The experiment ran in 2015, 2016 and 2017 and involved more than 94,000 students in total.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/tags/privacy/</link>
+      <atom:link href="https://tippenhauer.de/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Privacy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
+      <title>Privacy</title>
+      <link>https://tippenhauer.de/tags/privacy/</link>
+    </image>
+    
+    <item>
+      <title>Location Privacy in Smart Cities</title>
+      <link>https://tippenhauer.de/project/location-privacy/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/project/location-privacy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; SUTD-ZJU collaboration grant | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 07/2017-07/2018 | &lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/p&gt;
+&lt;p&gt;Many location-based services reveal whether two users are close to each other, even if they do not disclose exact positions. The project studied how an attacker can exploit such proximity information to locate mobile targets. We derived analytical bounds on the number of queries an attacker needs and evaluated attacker strategies against moving targets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zhejiang University (ZJU)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automotive | Nils Ole Tippenhauer</title>
+    <link>https://tippenhauer.de/tags/automotive/</link>
+      <atom:link href="https://tippenhauer.de/tags/automotive/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automotive</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png</url>
+      <title>Automotive</title>
+      <link>https://tippenhauer.de/tags/automotive/</link>
+    </image>
+    
+    <item>
+      <title>CYPHER-AV: Cyber-Physical Resilience for Autonomous Vehicles</title>
+      <link>https://tippenhauer.de/project/cypher-av/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/project/cypher-av/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Transport (BMV, formerly BMDV), AVF research programme, grant no. 45AVF5A011 | &lt;strong&gt;Lead institution:&lt;/strong&gt; CISPA Helmholtz Center for Information Security | &lt;strong&gt;Duration:&lt;/strong&gt; 10/2024-12/2027 | &lt;strong&gt;Role:&lt;/strong&gt; PI and project coordinator&lt;/p&gt;
+&lt;p&gt;Autonomous vehicles base their decisions on sensor data, so manipulating that data can lead to accidents. CYPHER-AV analyses how manipulations affect current sensors and the pipelines that process their data, and develops countermeasures. The project has three research directions: defence against physical manipulation of sensors, detection and prevention of manipulation in sensor fusion, and trustworthy processing platforms for automotive use. Results are evaluated on a demonstrator platform and are meant to serve as a reference for future research and product development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.bmv.de/SharedDocs/DE/Artikel/StV/AVF-projekte/cypher-av.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMV project page&lt;/a&gt; (German)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cispa.de/en/cypher-av&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISPA news item&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proseca: Proactive Security Chain for Automotive</title>
+      <link>https://tippenhauer.de/project/proseca/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/project/proseca/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry for Economic Affairs and Climate Action (BMWK, now BMWE), grant no. 19A23009 | &lt;strong&gt;Lead institution:&lt;/strong&gt; Infineon Technologies AG | &lt;strong&gt;Duration:&lt;/strong&gt; 09/2023-06/2026 | &lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/p&gt;
+&lt;p&gt;Proseca aimed to identify security weaknesses in automotive systems proactively, before vehicles reach the field. The project addressed the security chain across components, software and the integrated vehicle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Infineon Technologies AG&lt;/li&gt;
+&lt;li&gt;ZF Friedrichshafen AG&lt;/li&gt;
+&lt;li&gt;SYSGO GmbH&lt;/li&gt;
+&lt;li&gt;HighTec EDV-Systeme GmbH&lt;/li&gt;
+&lt;li&gt;Ferrous Systems GmbH&lt;/li&gt;
+&lt;li&gt;Fraunhofer Institute for Secure Information Technology (SIT)&lt;/li&gt;
+&lt;li&gt;ELEXIR AG / VEECLE GmbH (subcontractors of Infineon)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KAMÄLEON: Adaptive Mobility for Light Vehicles</title>
+      <link>https://tippenhauer.de/project/kamaeleon/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://tippenhauer.de/project/kamaeleon/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full title:&lt;/strong&gt; Konstruktiv adaptive Mobilität bei Leichtfahrzeugen durch dynamische Fahrzeuganpassung mit KI-basierter multisensorischer Umfelderkennung&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Education and Research (BMBF, now BMFTR), joint project no. 01187068 | &lt;strong&gt;Lead institution:&lt;/strong&gt; HFC Human-Factors-Consult GmbH | &lt;strong&gt;Duration:&lt;/strong&gt; 04/2019-12/2023 (extended, originally until 04/2022) | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/p&gt;
+&lt;p&gt;KAMÄLEON investigated electric light vehicles, using tricycles as the example, that adapt to their surroundings the way a chameleon does. For instance, the maximum speed changes with the road surface, the traffic density or connecting transport. Sensors scan the surroundings, and AI methods identify the road surface and nearby road users so that the vehicle can adjust. CISPA contributed the security concept and a secure control unit, including authentication of CAN messages, to protect the vehicle&amp;rsquo;s state and approval-relevant parameters against manipulation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HFC Human-Factors-Consult GmbH (consortium lead)&lt;/li&gt;
+&lt;li&gt;Constin GmbH&lt;/li&gt;
+&lt;li&gt;OrangeBikeConcept&lt;/li&gt;
+&lt;li&gt;TU Braunschweig&lt;/li&gt;
+&lt;li&gt;Karlsruhe Institute of Technology (KIT)&lt;/li&gt;
+&lt;li&gt;TÜNKERS AG&lt;/li&gt;
+&lt;li&gt;FH Aachen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
