@@ -17,7 +17,13 @@
       <link>https://tippenhauer.de/project/proseca/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/proseca/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry for Economic Affairs and Climate Action (BMWK, now BMWE), grant no. 19A23009 | &lt;strong&gt;Lead institution:&lt;/strong&gt; Infineon Technologies AG | &lt;strong&gt;Duration:&lt;/strong&gt; 09/2023-06/2026 | &lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry for Economic Affairs and Climate Action (BMWK, now BMWE), grant no. 19A23009&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Infineon Technologies AG&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 09/2023-06/2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Proseca aimed to identify security weaknesses in automotive systems proactively, before vehicles reach the field. The project addressed the security chain across components, software and the integrated vehicle.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -38,7 +44,13 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/asriot/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full title:&lt;/strong&gt; Automatisierte Sicherheitsanalyse von RTOS und MCU basierter IoT Firmware&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Education and Research (BMBF, now BMFTR) | &lt;strong&gt;Lead institution:&lt;/strong&gt; CISPA Helmholtz Center for Information Security | &lt;strong&gt;Duration:&lt;/strong&gt; 04/2023-03/2026 | &lt;strong&gt;Role:&lt;/strong&gt; Project coordinator and PI&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Education and Research (BMBF, now BMFTR)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 04/2023-03/2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Project coordinator and PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Many IoT devices run firmware on microcontrollers, often based on real-time operating systems, which is difficult to analyse without the original hardware. ASRIOT developed methods to analyse such firmware automatically. The project combined emulation of firmware without the target hardware (rehosting) with fuzzing to find vulnerabilities at scale. The goal was to make security testing of MCU- and RTOS-based firmware practical for researchers and manufacturers.&lt;/p&gt;
 </description>
     </item>

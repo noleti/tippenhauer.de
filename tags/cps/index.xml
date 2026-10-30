@@ -17,7 +17,13 @@
       <link>https://tippenhauer.de/project/cypher-av/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/cypher-av/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Transport (BMV, formerly BMDV), AVF research programme, grant no. 45AVF5A011 | &lt;strong&gt;Lead institution:&lt;/strong&gt; CISPA Helmholtz Center for Information Security | &lt;strong&gt;Duration:&lt;/strong&gt; 10/2024-12/2027 | &lt;strong&gt;Role:&lt;/strong&gt; PI and project coordinator&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Transport (BMV, formerly BMDV), AVF research programme, grant no. 45AVF5A011&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 10/2024-12/2027&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; PI and project coordinator&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Autonomous vehicles base their decisions on sensor data, so manipulating that data can lead to accidents. CYPHER-AV analyses how manipulations affect current sensors and the pipelines that process their data, and develops countermeasures. The project has three research directions: defence against physical manipulation of sensors, detection and prevention of manipulation in sensor fusion, and trustworthy processing platforms for automotive use. Results are evaluated on a demonstrator platform and are meant to serve as a reference for future research and product development.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -35,7 +41,13 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/kamaeleon/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full title:&lt;/strong&gt; Konstruktiv adaptive Mobilität bei Leichtfahrzeugen durch dynamische Fahrzeuganpassung mit KI-basierter multisensorischer Umfelderkennung&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Education and Research (BMBF, now BMFTR), joint project no. 01187068 | &lt;strong&gt;Lead institution:&lt;/strong&gt; HFC Human-Factors-Consult GmbH | &lt;strong&gt;Duration:&lt;/strong&gt; 04/2019-12/2023 (extended, originally until 04/2022) | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Education and Research (BMBF, now BMFTR), joint project no. 01187068&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; HFC Human-Factors-Consult GmbH&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 04/2019-12/2023 (extended, originally until 04/2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;KAMÄLEON investigated electric light vehicles, using tricycles as the example, that adapt to their surroundings the way a chameleon does. For instance, the maximum speed changes with the road surface, the traffic density or connecting transport. Sensors scan the surroundings, and AI methods identify the road surface and nearby road users so that the vehicle can adjust. CISPA contributed the security concept and a secure control unit, including authentication of CAN messages, to protect the vehicle&amp;rsquo;s state and approval-relevant parameters against manipulation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -55,7 +67,13 @@
       <link>https://tippenhauer.de/project/aspire/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/aspire/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; National Research Foundation, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 01/2015-07/2018 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; National Research Foundation, Singapore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 01/2015-07/2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;ASPIRE studied the security and resilience of public infrastructure, in particular water treatment, water distribution and electric power. The project combined real-world testbeds with formal attacker models and simulation of cyber-physical attacks on water distribution networks. It also organised community activities such as a competition on attack detection algorithms and gamified ICS security exercises.&lt;/p&gt;
 </description>
     </item>
@@ -65,7 +83,13 @@
       <link>https://tippenhauer.de/project/cypro/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/cypro/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 10/2014-09/2016 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 10/2014-09/2016&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;CYPRO addressed the protection of critical infrastructure against cyber-physical attacks. The project studied attacks on industrial control systems and their effects on the physical process, as well as countermeasures such as process-aware attack detection. Experimental work used the SWaT water treatment testbed at SUTD and tools for simulating industrial networks. Results include open-source tools and datasets that are widely used in ICS security research.&lt;/p&gt;
 </description>
     </item>
@@ -75,7 +99,13 @@
       <link>https://tippenhauer.de/project/safe/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/safe/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Singapore University of Technology and Design (SUTD), start-up research grant | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 08/2014-07/2017 | &lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Singapore University of Technology and Design (SUTD), start-up research grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 08/2014-07/2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;SAFE supported the start of my research group at SUTD. The project covered the security assessment of cyber-physical systems, in particular industrial control systems, including intrusion detection, legacy-compliant authentication of industrial traffic, malicious control logic and threat scenario testing in an electric power testbed. A second line of work addressed physical-layer security of wireless systems, such as distance bounding with ultra-wideband radios, physical-layer message integrity and GPS spoofing detection.&lt;/p&gt;
 </description>
     </item>

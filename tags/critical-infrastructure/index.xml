@@ -17,7 +17,13 @@
       <link>https://tippenhauer.de/project/aspire/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/aspire/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; National Research Foundation, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 01/2015-07/2018 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; National Research Foundation, Singapore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 01/2015-07/2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;ASPIRE studied the security and resilience of public infrastructure, in particular water treatment, water distribution and electric power. The project combined real-world testbeds with formal attacker models and simulation of cyber-physical attacks on water distribution networks. It also organised community activities such as a competition on attack detection algorithms and gamified ICS security exercises.&lt;/p&gt;
 </description>
     </item>
@@ -27,7 +33,13 @@
       <link>https://tippenhauer.de/project/cypro/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/cypro/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 10/2014-09/2016 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 10/2014-09/2016&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;CYPRO addressed the protection of critical infrastructure against cyber-physical attacks. The project studied attacks on industrial control systems and their effects on the physical process, as well as countermeasures such as process-aware attack detection. Experimental work used the SWaT water treatment testbed at SUTD and tools for simulating industrial networks. Results include open-source tools and datasets that are widely used in ICS security research.&lt;/p&gt;
 </description>
     </item>

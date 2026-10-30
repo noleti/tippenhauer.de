@@ -17,7 +17,13 @@
       <link>https://tippenhauer.de/project/resiliot/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/resiliot/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 09/2015-07/2018 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 09/2015-07/2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;ReSILIoT investigated threats posed by and to IoT devices in enterprise and urban environments. Work included identifying IoT devices from their network and wireless traffic, detecting privacy threats from nearby devices, and observing attacks with scalable IoT honeypots. The project also developed host-based anomaly detection for resource-constrained IoT devices and testbeds for evaluating wearable devices.&lt;/p&gt;
 </description>
     </item>
@@ -27,7 +33,13 @@
       <link>https://tippenhauer.de/project/safe/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/safe/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Singapore University of Technology and Design (SUTD), start-up research grant | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 08/2014-07/2017 | &lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Singapore University of Technology and Design (SUTD), start-up research grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 08/2014-07/2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;SAFE supported the start of my research group at SUTD. The project covered the security assessment of cyber-physical systems, in particular industrial control systems, including intrusion detection, legacy-compliant authentication of industrial traffic, malicious control logic and threat scenario testing in an electric power testbed. A second line of work addressed physical-layer security of wireless systems, such as distance bounding with ultra-wideband radios, physical-layer message integrity and GPS spoofing detection.&lt;/p&gt;
 </description>
     </item>

@@ -18,7 +18,13 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/asriot/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full title:&lt;/strong&gt; Automatisierte Sicherheitsanalyse von RTOS und MCU basierter IoT Firmware&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Education and Research (BMBF, now BMFTR) | &lt;strong&gt;Lead institution:&lt;/strong&gt; CISPA Helmholtz Center for Information Security | &lt;strong&gt;Duration:&lt;/strong&gt; 04/2023-03/2026 | &lt;strong&gt;Role:&lt;/strong&gt; Project coordinator and PI&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Federal Ministry of Education and Research (BMBF, now BMFTR)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; CISPA Helmholtz Center for Information Security&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 04/2023-03/2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Project coordinator and PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Many IoT devices run firmware on microcontrollers, often based on real-time operating systems, which is difficult to analyse without the original hardware. ASRIOT developed methods to analyse such firmware automatically. The project combined emulation of firmware without the target hardware (rehosting) with fuzzing to find vulnerabilities at scale. The goal was to make security testing of MCU- and RTOS-based firmware practical for researchers and manufacturers.&lt;/p&gt;
 </description>
     </item>
@@ -28,7 +34,13 @@
       <link>https://tippenhauer.de/project/resiliot/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/resiliot/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 09/2015-07/2018 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Ministry of Defence, Singapore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 09/2015-07/2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI (own work packages and staff)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;ReSILIoT investigated threats posed by and to IoT devices in enterprise and urban environments. Work included identifying IoT devices from their network and wireless traffic, detecting privacy threats from nearby devices, and observing attacks with scalable IoT honeypots. The project also developed host-based anomaly detection for resource-constrained IoT devices and testbeds for evaluating wearable devices.&lt;/p&gt;
 </description>
     </item>
@@ -38,7 +50,13 @@
       <link>https://tippenhauer.de/project/nse/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       <guid>https://tippenhauer.de/project/nse/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt; National Research Foundation, Singapore | &lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD) | &lt;strong&gt;Duration:&lt;/strong&gt; 02/2015-12/2017 | &lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; National Research Foundation, Singapore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead institution:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My affiliation:&lt;/strong&gt; Singapore University of Technology and Design (SUTD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 02/2015-12/2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Co-PI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;The National Science Experiment introduced school students in Singapore to data-driven science. The team developed a wearable sensor platform within less than a year, had 50,000 units produced, and built the cloud infrastructure and a web application for exploring the data. Students carried the sensors for a week while they recorded environmental measurements, and then analysed their own data. The experiment ran in 2015, 2016 and 2017 and involved more than 94,000 students in total.&lt;/p&gt;
 </description>
     </item>
