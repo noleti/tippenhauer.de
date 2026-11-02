@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Add the full text or supplementary notes for the publication here using Markdown formatting.">
+  <meta name="description" content="In embedded systems, the integration of multiple CPUs into one system on a chip (SoC) allows greater perfor- mance, and separation of tasks into independent firmwares and optimized architectures. For example, an ARM Cortex-M4 core could run the main firmware, and a Cortex-M0 core could run a real-time operating system (RTOS). Security implications of such integrations are still unclear, e.g. if an attacker with code execution on one CPU can fully compromise the second CPU, or leak protected data. In this work, we systematically identify security issues resulting from this integration, in particular related to memory and peripheral access control. These issues stem from re-use of single-CPU security mechanisms such as memory protection units (MPUs) in the new multi-CPU system. We identify four major attack vectors that can be present in such systems, and find that a significant number of systems on the market appear to be vulner- able. The attack vectors can lead to arbitrary read and write in protected memory of the other CPU, and even to code execution. In addition, we find that the communication mechanism of a popular open source RTOS, FreeRTOS [17], which is suggested as communication mechanism among firmwares on a multi-CPU system, introduces code execution vulnerabilities in the multi- CPU scenario. Then, we verify our theoretical predictions by implementing four attack vectors and demonstrate their practical efficacy. In addition, we find that in one case, the discovered attack surface may lead to the compromise of a custom trusted execution environment (TEE) implementation. We responsibly disclosed our findings to the vendors, resulting in a security advisory and a fix to a proprietary network stack implementation.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://tippenhauer.de/publication/hoffmann-26-pitfalls/">
@@ -223,13 +223,13 @@
   <meta property="og:site_name" content="Nils Ole Tippenhauer">
   <meta property="og:url" content="https://tippenhauer.de/publication/hoffmann-26-pitfalls/">
   <meta property="og:title" content="Pitfalls for Security Isolation in Multi-CPU Systems | Nils Ole Tippenhauer">
-  <meta property="og:description" content="Add the full text or supplementary notes for the publication here using Markdown formatting."><meta property="og:image" content="https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png">
+  <meta property="og:description" content="In embedded systems, the integration of multiple CPUs into one system on a chip (SoC) allows greater perfor- mance, and separation of tasks into independent firmwares and optimized architectures. For example, an ARM Cortex-M4 core could run the main firmware, and a Cortex-M0 core could run a real-time operating system (RTOS). Security implications of such integrations are still unclear, e.g. if an attacker with code execution on one CPU can fully compromise the second CPU, or leak protected data. In this work, we systematically identify security issues resulting from this integration, in particular related to memory and peripheral access control. These issues stem from re-use of single-CPU security mechanisms such as memory protection units (MPUs) in the new multi-CPU system. We identify four major attack vectors that can be present in such systems, and find that a significant number of systems on the market appear to be vulner- able. The attack vectors can lead to arbitrary read and write in protected memory of the other CPU, and even to code execution. In addition, we find that the communication mechanism of a popular open source RTOS, FreeRTOS [17], which is suggested as communication mechanism among firmwares on a multi-CPU system, introduces code execution vulnerabilities in the multi- CPU scenario. Then, we verify our theoretical predictions by implementing four attack vectors and demonstrate their practical efficacy. In addition, we find that in one case, the discovered attack surface may lead to the compromise of a custom trusted execution environment (TEE) implementation. We responsibly disclosed our findings to the vendors, resulting in a security advisory and a fix to a proprietary network stack implementation."><meta property="og:image" content="https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png">
   <meta property="twitter:image" content="https://tippenhauer.de/images/icon_hu_79f4e50d61a92fc.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2025-12-09T08:56:15&#43;00:00">
     
-    <meta property="article:modified_time" content="2026-10-30T19:27:54&#43;01:00">
+    <meta property="article:modified_time" content="2026-11-02T08:24:34&#43;01:00">
   
 
   
@@ -256,7 +256,7 @@
   "headline": "Pitfalls for Security Isolation in Multi-CPU Systems",
   
   "datePublished": "2025-12-09T08:56:15Z",
-  "dateModified": "2026-10-30T19:27:54+01:00",
+  "dateModified": "2026-11-02T08:24:34+01:00",
   
   "author": {
     "@type": "Person",
@@ -271,7 +271,7 @@
       "url": "https://tippenhauer.de/images/icon_hu_53d9b9865675b84b.png"
     }
   },
-  "description": "\u003cp\u003eAdd the \u003cstrong\u003efull text\u003c/strong\u003e or \u003cstrong\u003esupplementary notes\u003c/strong\u003e for the publication here using Markdown formatting.\u003c/p\u003e"
+  "description": "In embedded systems, the integration of multiple CPUs into one system on a chip (SoC) allows greater perfor- mance, and separation of tasks into independent firmwares and optimized architectures. For example, an ARM Cortex-M4 core could run the main firmware, and a Cortex-M0 core could run a real-time operating system (RTOS). Security implications of such integrations are still unclear, e.g. if an attacker with code execution on one CPU can fully compromise the second CPU, or leak protected data. In this work, we systematically identify security issues resulting from this integration, in particular related to memory and peripheral access control. These issues stem from re-use of single-CPU security mechanisms such as memory protection units (MPUs) in the new multi-CPU system. We identify four major attack vectors that can be present in such systems, and find that a significant number of systems on the market appear to be vulner- able. The attack vectors can lead to arbitrary read and write in protected memory of the other CPU, and even to code execution. In addition, we find that the communication mechanism of a popular open source RTOS, FreeRTOS [17], which is suggested as communication mechanism among firmwares on a multi-CPU system, introduces code execution vulnerabilities in the multi- CPU scenario. Then, we verify our theoretical predictions by implementing four attack vectors and demonstrate their practical efficacy. In addition, we find that in one case, the discovered attack surface may lead to the compromise of a custom trusted execution environment (TEE) implementation. We responsibly disclosed our findings to the vendors, resulting in a security advisory and a fix to a proprietary network stack implementation."
 }
 </script>
 
@@ -722,6 +722,9 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">In embedded systems, the integration of multiple CPUs into one system on a chip (SoC) allows greater perfor- mance, and separation of tasks into independent firmwares and optimized architectures. For example, an ARM Cortex-M4 core could run the main firmware, and a Cortex-M0 core could run a real-time operating system (RTOS). Security implications of such integrations are still unclear, e.g. if an attacker with code execution on one CPU can fully compromise the second CPU, or leak protected data. In this work, we systematically identify security issues resulting from this integration, in particular related to memory and peripheral access control. These issues stem from re-use of single-CPU security mechanisms such as memory protection units (MPUs) in the new multi-CPU system. We identify four major attack vectors that can be present in such systems, and find that a significant number of systems on the market appear to be vulner- able. The attack vectors can lead to arbitrary read and write in protected memory of the other CPU, and even to code execution. In addition, we find that the communication mechanism of a popular open source RTOS, FreeRTOS [17], which is suggested as communication mechanism among firmwares on a multi-CPU system, introduces code execution vulnerabilities in the multi- CPU scenario. Then, we verify our theoretical predictions by implementing four attack vectors and demonstrate their practical efficacy. In addition, we find that in one case, the discovered attack surface may lead to the compromise of a custom trusted execution environment (TEE) implementation. We responsibly disclosed our findings to the vendors, resulting in a security advisory and a fix to a proprietary network stack implementation.</p>
     
 
     
