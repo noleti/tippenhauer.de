@@ -6,7 +6,7 @@
     <lastmod>2026-11-21T14:26:46+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/</loc>
-    <lastmod>2026-11-21T14:38:28+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/privacy/</loc>
     <lastmod>2026-11-21T14:26:46+01:00</lastmod>
@@ -21,19 +21,19 @@
     <lastmod>2026-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/tags/</loc>
-    <lastmod>2026-11-21T14:26:46+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/tpc-wisec27-cimss27/</loc>
     <lastmod>2026-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication_types/1/</loc>
-    <lastmod>2026-11-21T14:38:28+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/granzow-26-datasets/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication_types/</loc>
-    <lastmod>2026-11-21T14:38:28+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/donadel-26-shadowics/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
@@ -65,11 +65,11 @@
     <loc>https://tippenhauer.de/post/attend-wisec-26/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/ebrahim-26-dna/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/post/2025-in-numbers/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/ebrahim-26-dna/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/hoffmann-26-pitfalls/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
@@ -80,6 +80,12 @@
     <loc>https://tippenhauer.de/post/cfp-wisec-26/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/shetty-25-evasion/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/schlueter-25-prefence/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/publication/scharnowski-25-dma/</loc>
     <lastmod>2026-11-21T14:26:46+01:00</lastmod>
   </url><url>
@@ -89,11 +95,8 @@
     <loc>https://tippenhauer.de/publication/erba-2025-confu-sense/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/shetty-25-evasion/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/schlueter-25-prefence/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+    <loc>https://tippenhauer.de/publication/oh-24-uncooperative/</loc>
+    <lastmod>2024-08-27T08:40:32+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/tags/automotive/</loc>
     <lastmod>2026-11-10T16:46:57+01:00</lastmod>
@@ -115,9 +118,6 @@
   </url><url>
     <loc>https://tippenhauer.de/post/2023-in-numbers/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/oh-24-uncooperative/</loc>
-    <lastmod>2024-08-27T08:40:32+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/bytes-23-ffuzz/</loc>
     <lastmod>2023-07-17T09:48:28+02:00</lastmod>
@@ -146,23 +146,32 @@
     <loc>https://tippenhauer.de/publication/schluter-23-fetchbench/</loc>
     <lastmod>2024-08-27T07:54:09+02:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/ding-23-robotic/</loc>
+    <lastmod>2023-05-03T19:30:34+02:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/erba-23-whitebox/</loc>
+    <lastmod>2023-07-17T09:21:22+02:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication_types/2/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/berardi-23-time/</loc>
+    <lastmod>2023-05-04T09:24:37+02:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/post/2022-in-numbers/</loc>
     <lastmod>2023-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/two-best-paper-awards/</loc>
     <lastmod>2023-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication_types/2/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+    <loc>https://tippenhauer.de/publication/erba-2022-modelfree/</loc>
+    <lastmod>2022-10-18T09:46:50+02:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/ding-23-robotic/</loc>
-    <lastmod>2023-05-03T19:30:34+02:00</lastmod>
+    <loc>https://tippenhauer.de/publication/ibrahim-22-templates/</loc>
+    <lastmod>2022-10-13T09:40:56+02:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/berardi-23-time/</loc>
-    <lastmod>2023-05-04T09:24:37+02:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/erba-23-whitebox/</loc>
-    <lastmod>2023-07-17T09:21:22+02:00</lastmod>
+    <loc>https://tippenhauer.de/publication/erba-22-opcua/</loc>
+    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/cfp-wisec-23/</loc>
     <lastmod>2022-10-20T00:00:00+00:00</lastmod>
@@ -176,32 +185,32 @@
     <loc>https://tippenhauer.de/publication/han-22-hiding/</loc>
     <lastmod>2021-10-05T11:28:22+02:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/murillo-2024-thorough/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/esquivel-2022-identifying/</loc>
+    <lastmod>2023-06-28T13:20:26+02:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/antonioli-22-blurtooth/</loc>
+    <lastmod>2022-03-18T09:50:45+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/publication/wang-22-constrained/</loc>
     <lastmod>2022-03-18T09:50:45+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/2021-in-numbers/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/murillo-2024-thorough/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/erba-2022-modelfree/</loc>
-    <lastmod>2022-10-18T09:46:50+02:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/antonioli-22-blurtooth/</loc>
-    <lastmod>2022-03-18T09:50:45+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/esquivel-2022-identifying/</loc>
-    <lastmod>2023-06-28T13:20:26+02:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/ibrahim-22-templates/</loc>
-    <lastmod>2022-10-13T09:40:56+02:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/erba-22-opcua/</loc>
-    <lastmod>2023-01-27T09:12:36+01:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/post/2021-tenure/</loc>
     <lastmod>2021-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/tippenhauer-21-vbump/</loc>
+    <lastmod>2022-04-23T08:47:07+02:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication_types/6/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/tippenhauer-2021-detection/</loc>
+    <lastmod>2021-08-05T10:35:52+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/wu-21-lightblue/</loc>
     <lastmod>2021-01-22T09:53:14+01:00</lastmod>
@@ -215,17 +224,11 @@
     <loc>https://tippenhauer.de/post/2020-in-numbers/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication_types/6/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/tippenhauer-2021-detection/</loc>
-    <lastmod>2021-08-05T10:35:52+02:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/publication/alsoliman-21-drone/</loc>
     <lastmod>2022-03-18T09:50:45+01:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/tippenhauer-21-vbump/</loc>
-    <lastmod>2022-04-23T08:47:07+02:00</lastmod>
+    <loc>https://tippenhauer.de/publication/murillo-20-cosimulating/</loc>
+    <lastmod>2021-08-05T10:35:52+02:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/erba-2020-concealment/</loc>
     <lastmod>2020-10-31T08:44:33+01:00</lastmod>
@@ -251,6 +254,9 @@
     <loc>https://tippenhauer.de/post/googles-security-conferencejournal-ranking-2020/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/antonioli-20-tops/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/publication/antonioli-20-bias/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
@@ -272,23 +278,29 @@
     <loc>https://tippenhauer.de/post/2019-in-numbers/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/murillo-20-cosimulating/</loc>
-    <lastmod>2021-08-05T10:35:52+02:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/publication/troncoso-2020-decentralized/</loc>
     <lastmod>2020-11-26T16:34:57+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/tags/dp3t/</loc>
     <lastmod>2020-11-26T16:34:57+01:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/antonioli-20-tops/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/post/hugo-academic/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/ghaeini-19-patt/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/tags/industrial-control-system/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/tags/stateful-anomaly-detection/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/tags/stealthy-attack/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication/ghaeini-19-zera/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/knob-attack/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
@@ -314,35 +326,23 @@
     <loc>https://tippenhauer.de/post/summer-school19/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/tippenhauer-2019-design/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/project/kamaeleon/</loc>
     <lastmod>2026-10-30T20:11:30+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/tambe-19-vpn/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/taormina-19-toolbox/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/publication/antonioli-19-nearby/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/post/2018-in-numbers/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/taormina-19-toolbox/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/tippenhauer-2019-design/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/tags/industrial-control-system/</loc>
-    <lastmod>2026-11-21T14:26:46+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/tags/stateful-anomaly-detection/</loc>
-    <lastmod>2026-11-21T14:26:46+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/tags/stealthy-attack/</loc>
-    <lastmod>2026-11-21T14:26:46+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication/ghaeini-19-zera/</loc>
-    <lastmod>2026-11-21T14:26:46+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/wang-18-location/</loc>
     <lastmod>2026-10-30T19:27:54+01:00</lastmod>
@@ -726,10 +726,10 @@
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/chen-13-flow/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/tippenhauer-2013-limitations/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/giustiniano-12-low/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
@@ -740,28 +740,28 @@
     <loc>https://tippenhauer.de/publication/tippenhauer-12-phd/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
+    <loc>https://tippenhauer.de/publication/tippenhauer-2012-toys/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
     <loc>https://tippenhauer.de/publication/ranganathan-12-terrorist/</loc>
     <lastmod>2019-12-18T18:59:37+01:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/tippenhauer-2012-toys/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+    <loc>https://tippenhauer.de/publication/tippenhauer-11-gps/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/poepper-11-manipulations/</loc>
     <lastmod>2024-10-11T08:44:04+02:00</lastmod>
   </url><url>
-    <loc>https://tippenhauer.de/publication/tippenhauer-11-gps/</loc>
-    <lastmod>2026-11-21T14:38:28+01:00</lastmod>
-  </url><url>
     <loc>https://tippenhauer.de/publication/capkun-tmc-10/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/kuhn-10-uwbdb/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
-  </url><url>
-    <loc>https://tippenhauer.de/publication_types/4/</loc>
-    <lastmod>2026-11-02T08:24:34+01:00</lastmod>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/tippenhauer-09-attacks/</loc>
+    <lastmod>2026-11-21T15:18:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tippenhauer.de/publication_types/4/</loc>
     <lastmod>2026-11-02T08:24:34+01:00</lastmod>
   </url><url>
     <loc>https://tippenhauer.de/publication/tippenhauer-09-idbased/</loc>
