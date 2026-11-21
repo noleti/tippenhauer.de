@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tippenhauer.de/sitemap.xml
